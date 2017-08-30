@@ -1,0 +1,20 @@
+---
+title: "Kylie Ariel Bemis"
+---
+*Postdoctoral Future Faculty Fellow, Northeastern University*
+
+***
+
+<center>
+![](images/kylie-chicago-skyline.jpg){width=400px}
+</center>
+
+***
+
+Kylie Bemis is a Postdoctoral Future Faculty Fellow in the College of Computer and Information Science at Northeastern University. She holds a B.S. degree in Statistics and Mathematics, a M.S. degree in Applied Statistics, and a Ph.D. in Statistics from Purdue University. In 2013, she interned at the Canary Center at Stanford for Cancer Early Detection, where she developed the Cardinal software package for statistical analysis of mass spectrometry imaging experiments. In 2015, she was awarded the John M. Chambers Statistical Software Award by the American Statistical Association for her work on Cardinal. In 2016, she joined the Olga Vitek lab for Statistical Methods for Studies of Biomolecular Systems at Northeastern University as a postdoctoral fellow.
+
+While at Purdue University, Kylie Bemis served as president of the Purdue chapter of the American Indian Science and Engineering Society (AISES) and secretary of the Native American Student Association (NASA). She is active in outreach to the Native American and LGBTQ communities. She is an enrolled member of the Zuni tribe, and her hobbies include writing fiction and poetry.
+
+***
+
+*Email: k.bemis@northeastern.edu*

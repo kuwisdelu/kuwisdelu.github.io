@@ -1,0 +1,21 @@
+
+name: "Kylie-Ariel-Bemis"
+output_dir: "."
+navbar:
+  title: "Kylie Ariel Bemis"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Software"
+      href: software.html
+    - text: "CV"
+      href: bemis-cv.pdf
+
+output:
+  html_document:
+    theme: flatly
+    css: style.css

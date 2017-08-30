@@ -1,0 +1,20 @@
+---
+title: "Software"
+---
+
+***
+
+![](images/cardinal-logo.jpg){width=150px}
+
+_Cardinal_ is an R package designed for efficient analysis of mass spectrometry-based imaging experiments. The capabilities include visualization of single and composit ion images, pre-processing (normalization, smoothing, baseline reduction, peak picking, filtering and alignment), as well as traditional and novel supervised and unsupervised methods such as image segmentation (clustering), principle components analysis, and partial least squares discriminant analysis.
+
+- Webite: http://cardinalmsi.org/
+- Bioconductor: http://bioconductor.org/packages/Cardinal/
+- Github: https://github.com/kuwisdelu/Cardinal
+
+![](images/matter-logo.jpg){width=150px}
+
+_matter_ is an R package designed for rapid prototyping of new statistical methods when working with larger-than-memory datasets on disk. Unlike related packages bigmemory and ff, which also work with file-backed larger-than-memory datasets, matter aims to offer strict control over memory and maximum flexibility with on-disk data structures, so it can be easily adapted to domain-specific file formats, including user-customized file formats.
+
+- Bioconductor: http://bioconductor.org/packages/matter/
+- Github: https://github.com/kuwisdelu/matter

@@ -1,0 +1,13 @@
+---
+title: "Research"
+---
+
+***
+
+My research interests include statistical computing environments and methods for big, complex data, especially datasets which have non-trivial correlation structures or which integrate data from multiple sources. These types of datasets are common in many fields, particularly biomedical research and natural language processing. They pose a challenge to traditional computing and statistical approaches not only because of their size, but also because of their complexity.
+
+My current research goal is the development of statistical computing infrastructure for analysis of complex, high-dimensional experiments in genomics, proteomics, metabolomics, and ionomics. Specifically, I develop statistical computing frameworks for high-dimensional biological imaging experiments. I currently work with mass spectrometry imaging, and I am interested in integration with other types of biomedical imaging technologies, such as MRI and microscopy.
+
+My long-term research goals are informed both by my interest in statistical computing for big, complex data and by my identity as an indigenous trans woman. I am interested in leveraging computational linguistics and natural language processing techniques in the research and preservation of Native American languages, and in creating Zuni language learning resources for my tribe. This will entail development of a digital dictionary, digitization of existing texts, conversion to a common orthography, and tagging as a dual-lingual corpus for use with machine learning techniques. It will be necessary to integrate written and spoken language information, incorporate indigenous ways of knowing, and develop new digital ethics practices for culturally sensitive corpora.
+
+I am also interested in advancing biomedical research for women and the LGBTQ community by developing new statistical methods for data integration. Although we know hormone replacement therapy affects gene expression and protein expression, there has been little comprehensive investigation into its effects on the proteome and epigenome, especially as it affects both transgender and cisgender women. The effect of variations in regimen, such as inclusion of progesterone, have not been thoroughly scientifically investigated, and imaging technologies and consideration of mental well-being have rarely been incorporated. I am interested in designing medical studies and developing analytic methods that can provide insight into creating better hormone therapy regimens, better understanding of hormone cycling in both trans and cis women, and enabling lactation for non-gestational parents with breasts.

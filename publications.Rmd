@@ -1,0 +1,13 @@
+---
+title: "Publications"
+---
+
+***
+
+- **_Bemis, K. A._** and Vitek, O.. (2017). "_matter_: an R package for rapid prototyping with larger-than-memory datasets on disk." _Bionformatics_. http://doi.org/10.1093/bioinformatics/btx392
+
+- **_Bemis, K. D._**, Harry, A., Eberlin, L. S., Ferreira, C. R., van de Ven, S. M., Mallick, P., et al. (2016). "Probabilistic Segmentation of Mass Spectrometry (MS) Images Helps Select Important Ions and Characterize Confidence in the Resulting Segments." _Molecular & Cellular Proteomics_, 15(5), 1761–1772. http://doi.org/10.1074/mcp.O115.053918
+
+- van de Ven, S. M. W. Y., **_Bemis, K. D._**, Lau, K., Adusumilli, R., Kota, U., Stolowitz, M., et al. (2016). "Protein biomarkers on tissue as imaged via MALDI mass spectrometry: A systematic approach to study the limits of detection." _Proteomics_, 16(11-12), 1660–1669. http://doi.org/10.1002/pmic.201500515
+
+- **_Bemis, K. D._**, Harry, A., Eberlin, L. S., Ferreira, C., van de Ven, S. M., Mallick, P., et al. (2015). "_Cardinal_: an R package for statistical analysis of mass spectrometry-based imaging experiments." _Bioinformatics_, 31(14), 2418–2420. http://doi.org/10.1093/bioinformatics/btv146
