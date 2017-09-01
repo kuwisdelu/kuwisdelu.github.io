@@ -13,7 +13,7 @@ navbar:
     - text: "Teaching"
       menu:
         - text: DS 5110
-          href: ds5110fall2017.html
+          href: ds5110-fall17.html
     - text: "Software"
       href: software.html
     - text: "CV"
