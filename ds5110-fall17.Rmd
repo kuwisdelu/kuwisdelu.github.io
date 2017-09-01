@@ -157,5 +157,5 @@ Final grades will be given on the following scale:
 
 Half-letter-grades ('+' and '-') may be given as well.
 
-This scale is subject to change at the discrection of the instructor.
+This scale is subject to change at the discretion of the instructor.
 
