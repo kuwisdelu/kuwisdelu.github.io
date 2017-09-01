@@ -18,6 +18,8 @@ k.bemis@northeastern.edu |
 mohammadtaheri.s@husky.neu.edu |
 *Office Hours:* Thursdays 5:00 pm - 6:00 pm in WVH 310 or by appoointment
 
+**Administration** Questions and homework solutions are handled via [Piazza](https://piazza.com/northeastern/fall2017/ds5110/home) | Sign up at https://piazza.com/northeastern/fall2017/ds5110
+
 **Textbooks:**
 [_R for Data Science_](http://r4ds.had.co.nz/) (**R4DS**)
 by Wickham and Grolemund,
