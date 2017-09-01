@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>DS 5110 - Fall 2017</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Kylie Ariel Bemis</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="software.html">Software</a>
+</li>
+<li>
+  <a href="bemis-cv.pdf">CV</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">DS 5110 - Fall 2017</h1>
+
+</div>
+
+
+<div id="introduction-to-data-management-and-processing" class="section level2">
+<h2>Introduction to Data Management and Processing</h2>
+<p><strong>Schedule:</strong> Tuesdays/Fridays 3:25 pm - 5:05 pm</p>
+<p><strong>Location:</strong> International Village 022</p>
+<p><strong>Dates:</strong> Sep 06, 2017 - Dec 16, 2017</p>
+<p><strong>Instructor:</strong> <a href="http://www.ccis.northeastern.edu/people/kylie-ariel-bemis/"><strong>Kylie Bemis</strong></a> | <a href="mailto:k.bemis@northeastern.edu">k.bemis@northeastern.edu</a> | <em>Office Hours:</em> Tuesdays 2:00 pm - 3:00 pm in WVH 310G or by appointment</p>
+<p><strong>TA:</strong> <a href="http://www.ccis.northeastern.edu/people/sara-mohammad-taheri/"><strong>Sara Taheri</strong></a> | <a href="mailto:mohammadtaheri.s@husky.neu.edu">mohammadtaheri.s@husky.neu.edu</a> | <em>Office Hours:</em> Thursdays 5:00 pm - 6:00 pm in WVH 310 or by appoointment</p>
+<p><strong>Textbooks:</strong> <a href="http://r4ds.had.co.nz/"><em>R for Data Science</em></a> (<strong>R4DS</strong>) by Wickham and Grolemund, <a href="http://adv-r.had.co.nz/"><em>Advanced R</em></a> (<strong>AdvR</strong>) by Wickham</p>
+<p><strong>Academic integrity:</strong> Be familiar with the university’s <a href="http://www.northeastern.edu/osccr/academic-integrity-policy/">academic integrity policy</a> on cheating and plagiarism.</p>
+<hr />
+</div>
+<div id="overview" class="section level2">
+<h2>Overview</h2>
+<p>This course discusses the practical issues and techniques for data importing, tidying, transforming, and modeling. It offers a gentle introduction to techniques for processing big data. Programming is a cross-cutting aspect of the course. Students will gain experience with data science tools through short assignments. The course work includes a term project based on real-world data. Required topics include: Data management and processing: definition &amp; background; Data transformation; Data import; Data cleaning; Data modeling; Relational and analytic databases; Basics of SQL; Programming in R; MapReduce fundamentals and distributed data management; Data processing pipelines, connecting multiple data management and analysis components; Interaction between the capabilities and requirements of data analysis methods (data structures, algorithms, memory requirements) and the choice of data storage and management tools; Repeatable and reproducible data analysis.</p>
+<center>
+<img src="images/ds-pipeline.png" />
+</center>
+<hr />
+</div>
+<div id="schedule" class="section level2">
+<h2>Schedule</h2>
+<p><em>(subject to change)</em></p>
+<div id="introduction" class="section level4">
+<h4>1. Introduction</h4>
+<table style="width:100%;">
+<colgroup>
+<col width="17%" />
+<col width="37%" />
+<col width="37%" />
+<col width="8%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Topics</th>
+<th>Reading</th>
+<th>HW</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Fri Sep 08</td>
+<td>Course expectations, introduction to data science, reproducible research, R Markdown, git and Github.</td>
+<td>R4DS “R Markdown”, AdvR “Data structures”</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="data-visualization" class="section level4">
+<h4>2. Data Visualization</h4>
+<table>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Topics</th>
+<th>Reading</th>
+<th>HW</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Tue Sep 12</td>
+<td>Introduction to ggplot2</td>
+<td>R4DS “Data Visualization with ggplot2”</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Fri Sep 15</td>
+<td>Grammar of graphics</td>
+<td>AdvR “Style guide”, AdvR “Subsetting”</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="data-transformation" class="section level4">
+<h4>3. Data Transformation</h4>
+<table>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Topics</th>
+<th>Reading</th>
+<th>HW</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Tue Sep 19</td>
+<td>Introduction to dplyr</td>
+<td>R4DS “Data Transformation with dplyr”</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Fri Sep 22</td>
+<td>Visualization + transformation</td>
+<td>R4DS “Exploratory Data Analysis”</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tue Sep 26</td>
+<td><em>Guest instructor or no class - special topics</em></td>
+<td></td>
+<td>HW1 due</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="importing-and-tidying" class="section level4">
+<h4>4. Importing and Tidying</h4>
+<table style="width:100%;">
+<colgroup>
+<col width="17%" />
+<col width="37%" />
+<col width="37%" />
+<col width="8%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Topics</th>
+<th>Reading</th>
+<th>HW</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Fri Sep 29</td>
+<td>Importing data, tidy data</td>
+<td>R4DS “Tibbles with tibble”, R4DS “Data Import with readr”, R4DS “Tidy data with tidyr”</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tue Oct 03</td>
+<td><em>Guest instructor or no class - special topics</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Fri Oct 06</td>
+<td><em>Guest instructor or no class - special topics</em></td>
+<td></td>
+<td>Data Visualization Mini-Poster due (see HW2)</td>
+</tr>
+<tr class="even">
+<td>Tue Oct 10</td>
+<td>Relational data in R, SQL</td>
+<td>R4DS “Relational data with dplyr”</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Fri Oct 13</td>
+<td>Data wrangling, midterm review</td>
+<td>R4DS “Strings with stringr”, R4DS “Factors with forcats”, R4DS “Dates and Times with lubridate”</td>
+<td>HW2 due</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="midterm-exam" class="section level4">
+<h4>5. Midterm Exam</h4>
+<table>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Topics</th>
+<th>Reading</th>
+<th>HW</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Tue Oct 17</td>
+<td>Midterm Exam - in class</td>
+<td></td>
+<td>Project groups due</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="modeling" class="section level4">
+<h4>6. Modeling</h4>
+<table style="width:100%;">
+<colgroup>
+<col width="17%" />
+<col width="37%" />
+<col width="37%" />
+<col width="8%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Topics</th>
+<th>Reading</th>
+<th>HW</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Fri Oct 20</td>
+<td>Introduction to data modeling</td>
+<td>R4DS “Model Basics with modelr”, R4DS “Model Building”</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tue Oct 24</td>
+<td>Evaluating models, cross-validation</td>
+<td>R4DS “Many Models with purr and broom”</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="managing-complexity" class="section level4">
+<h4>7. Managing Complexity</h4>
+<table style="width:100%;">
+<colgroup>
+<col width="17%" />
+<col width="37%" />
+<col width="37%" />
+<col width="8%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Topics</th>
+<th>Reading</th>
+<th>HW</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Fri Oct 27</td>
+<td>Introduction to object-oriented programming (OOP) in R</td>
+<td>AdvR “Functions”, AdvR “OO field guide”</td>
+<td>Project Proposals due</td>
+</tr>
+<tr class="even">
+<td>Tue Oct 31</td>
+<td>S3 versus S4, designing for data storage and management</td>
+<td>AdvR “Functional programming”</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Fri Nov 03</td>
+<td>Building R packages, unit tests, reproducibility</td>
+<td>AdvR “Functionals”</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="performance-profiling-and-debugging" class="section level4">
+<h4>8. Performance, profiling, and debugging</h4>
+<table style="width:100%;">
+<colgroup>
+<col width="17%" />
+<col width="37%" />
+<col width="37%" />
+<col width="8%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Topics</th>
+<th>Reading</th>
+<th>HW</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Tue Nov 07</td>
+<td>Profiling R code, exception handling, debugging</td>
+<td>AdvR “Debugging, condition handling, and defensive programming”, AdvR “Performance”, AdvR “Optimizing code”, AdvR “Memory”</td>
+<td>HW3 due</td>
+</tr>
+<tr class="even">
+<td>Fri Nov 10</td>
+<td>Performance and optimization, foreign code, Rcpp</td>
+<td>AdvR “High performance functions with Rcpp”</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="big-data" class="section level4">
+<h4>9. Big Data</h4>
+<table style="width:100%;">
+<colgroup>
+<col width="17%" />
+<col width="37%" />
+<col width="37%" />
+<col width="8%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Topics</th>
+<th>Reading</th>
+<th>HW</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Tue Nov 14</td>
+<td>Parallelization, distributed computing in R, MapReduce</td>
+<td>AdvR “Non-standard evaluation”</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Fri Nov 17</td>
+<td>Larger-than-memory data in R, data files and file formats</td>
+<td>AdvR “Environments”</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="communicating" class="section level4">
+<h4>10. Communicating</h4>
+<table style="width:100%;">
+<colgroup>
+<col width="17%" />
+<col width="37%" />
+<col width="37%" />
+<col width="8%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Topics</th>
+<th>Reading</th>
+<th>HW</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Tue Nov 21</td>
+<td>Interactivity, advanced graphics, Shiny</td>
+<td>R4DS “Graphics for Communication with ggplot2”, R4DS “R Markdown Formats”</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Fri Nov 24</td>
+<td><em>No class - Thanksgiving break</em></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="final-exam-and-project" class="section level4">
+<h4>11. Final Exam and Project</h4>
+<table style="width:100%;">
+<colgroup>
+<col width="17%" />
+<col width="37%" />
+<col width="37%" />
+<col width="8%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Topics</th>
+<th>Reading</th>
+<th>HW</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Tue Nov 28</td>
+<td>Review for final exam</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Fri Dec 01</td>
+<td>Final Exam - in class</td>
+<td></td>
+<td>Final Project slides due Sunday 12/03 @ 11:59 pm</td>
+</tr>
+<tr class="odd">
+<td>Tue Dec 05</td>
+<td>Final Projects - presentations in class</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Fri Dec 08</td>
+<td>Final Projects - presentations in class</td>
+<td></td>
+<td>Final Project reports due Sunday 12/10 @ 11:59 pm</td>
+</tr>
+</tbody>
+</table>
+<hr />
+</div>
+</div>
+<div id="homework" class="section level2">
+<h2>Homework</h2>
+<p>Three individual homework assignments are to be completed for this class. Each homework is due by email before class on the day it is listed, unless the instructions specify otherwise. Late homeworks will not be accepted. Extensions may be given individually if requested at least 48 hours in advance of the due date with a reasonable justification.</p>
+<p>Some aspects of the homework may be discussed with each other, but they should be completed indivudually, and your submitted work should be your own. Sharing of worked solutions will not be tolerated and will be considered cheating. Solutions with a very high degree of similarity with another past or current student’s will be considered plagiarism, and will be treated accordingly.</p>
+<hr />
+</div>
+<div id="exams" class="section level2">
+<h2>Exams</h2>
+<p>There will be one midterm exam and one final exam. Both will be completed in class on the dates scheduled above.</p>
+<hr />
+</div>
+<div id="project" class="section level2">
+<h2>Project</h2>
+<p>There will be a final project done in groups of two or three. More details will be posted later in the semester.</p>
+<hr />
+</div>
+<div id="grading" class="section level2">
+<h2>Grading</h2>
+<p>The grade in this class is based out of 1000 points, distributed as follows:</p>
+<ul>
+<li>Homework: 3 x 100 pts</li>
+<li>Midterm Exam: 200 pts</li>
+<li>Final Exam: 200 pts</li>
+<li>Final Project: 300 pts
+<ul>
+<li>Project proposal: 50 pts</li>
+<li>In-class presentation: 100 pts</li>
+<li>Final written report: 150 pts</li>
+</ul></li>
+</ul>
+<p>Final grades will be given on the following scale:</p>
+<ul>
+<li>A : 900 - 1000 pts</li>
+<li>B : 800 - 899 pts</li>
+<li>C : 700 - 799 pts</li>
+<li>F : &lt;= 699 pts</li>
+</ul>
+<p>Half-letter-grades (‘+’ and ‘-’) may be given as well.</p>
+<p>This scale is subject to change at the discrection of the instructor.</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

@@ -10,6 +10,10 @@ navbar:
       href: research.html
     - text: "Publications"
       href: publications.html
+    # - text: "Teaching"
+    #   menu:
+    #     - text: DS 5110
+    #       href: ds5110fall2017.html
     - text: "Software"
       href: software.html
     - text: "CV"
@@ -17,5 +21,5 @@ navbar:
 
 output:
   html_document:
-    theme: flatly
+    # theme: flatly
     css: style.css
