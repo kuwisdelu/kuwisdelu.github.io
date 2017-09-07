@@ -16,9 +16,13 @@ k.bemis@northeastern.edu |
 
 **TA:** [**Sara Taheri**](http://www.ccis.northeastern.edu/people/sara-mohammad-taheri/) |
 mohammadtaheri.s@husky.neu.edu |
-*Office Hours:* Thursdays 5:00 pm - 6:00 pm in WVH 310 or by appoointment
+*Office Hours:* Thursdays 5:00 pm - 6:00 pm in WVH 310 or by appointment
 
-**Administration:** Questions and homework solutions are handled via [Piazza](https://piazza.com/northeastern/fall2017/ds5110/home) | Sign up at https://piazza.com/northeastern/fall2017/ds5110
+**TA:** **Jesse (Jianchao) Yang** |
+yang.jianc@husky.neu.edu |
+*Office Hours:* Saturdays 10:00 am - 11:00 am in Snell Library (2nd floor)
+
+**Administration:** Questions and homework postings are handled via [Piazza](https://piazza.com/northeastern/fall2017/ds5110/home) | Sign up at https://piazza.com/northeastern/fall2017/ds5110
 
 **Textbooks:**
 [_R for Data Science_](http://r4ds.had.co.nz/) (**R4DS**)
@@ -46,7 +50,7 @@ This course discusses the practical issues and techniques for data importing, ti
 #### 1. Introduction
 Date 		| Topics 					| Reading					| HW
 ------------|---------------------------|---------------------------|-----
-Fri Sep 08	| Course expectations, introduction to data science, reproducible research, R Markdown, git and Github. | R4DS "R Markdown", AdvR "Data structures" | 
+Fri Sep 08	| Course expectations, introduction to data science, reproducible research, R Markdown. | R4DS "R Markdown", AdvR "Data structures" | 
 
 #### 2. Data Visualization
 Date 		| Topics 					| Reading					| HW

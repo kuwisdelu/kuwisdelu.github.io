@@ -10,7 +10,7 @@ navbar:
       href: research.html
     - text: "Publications"
       href: publications.html
-    - text: "Teaching"
+    - text: "Courses"
       menu:
         - text: DS 5110
           href: ds5110-fall17.html
