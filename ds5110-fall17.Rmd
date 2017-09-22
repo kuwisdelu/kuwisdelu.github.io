@@ -63,14 +63,14 @@ Date 		| Topics 					| Reading					| HW
 ------------|---------------------------|---------------------------|-----
 Tue Sep 19	| Introduction to dplyr | R4DS "Data Transformation with dplyr" |
 Fri Sep 22	| Visualization + transformation | R4DS "Exploratory Data Analysis" |
-Tue Sep 26	| *Guest instructor or no class* |  | HW1 due
+Tue Sep 26	| *Tsung-Heng Tsai - Introduction to tidy data* |  | HW1 due
 
 #### 4. Importing and Tidying
 Date 		| Topics 					| Reading					| HW
 ------------|---------------------------|---------------------------|-----
 Fri Sep 29	| Importing data, tidy data | R4DS "Tibbles with tibble", R4DS "Data Import with readr", R4DS "Tidy data with tidyr" |
-Tue Oct 03	| *Guest instructor or no class* |  |
-Fri Oct 06	| *Guest instructor or no class* |  | Data Visualization Mini-Poster due (see HW2)
+Tue Oct 03	| *Sara Taheri - Case study* |  |
+Fri Oct 06	| *Jesse Yang - TBA* |  | Data Visualization Mini-Poster due (see HW2)
 Tue Oct 10	| Relational data in R, SQL | R4DS "Relational data with dplyr" |
 Fri Oct 13	| Data wrangling, midterm review | R4DS "Strings with stringr", R4DS "Factors with forcats", R4DS "Dates and Times with lubridate" | HW2 due
 
