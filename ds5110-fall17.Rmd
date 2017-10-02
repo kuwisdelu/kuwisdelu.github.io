@@ -70,8 +70,8 @@ Date 		| Topics 					| Reading					| HW
 ------------|---------------------------|---------------------------|-----
 Fri Sep 29	| Importing data, tidy data | R4DS "Tibbles with tibble", R4DS "Data Import with readr", R4DS "Tidy data with tidyr" |
 Tue Oct 03	| *Sara Taheri - Case study* |  |
-Fri Oct 06	| *Jesse Yang - TBA* |  | Data Visualization Mini-Poster due (see HW2)
-Tue Oct 10	| Relational data in R, SQL | R4DS "Relational data with dplyr" |
+Fri Oct 06	| *Jesse Yang - R and Python* |  | 
+Tue Oct 10	| Relational data in R, SQL | R4DS "Relational data with dplyr" | Data Visualization Mini-Poster due (see HW2)
 Fri Oct 13	| Data wrangling, midterm review | R4DS "Strings with stringr", R4DS "Factors with forcats", R4DS "Dates and Times with lubridate" | HW2 due
 
 #### 5. Midterm Exam
