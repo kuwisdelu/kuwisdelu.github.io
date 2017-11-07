@@ -83,34 +83,30 @@ Tue Oct 17	| Midterm Exam - in class |  | Project groups due
 Date 		| Topics 					| Reading					| HW
 ------------|---------------------------|---------------------------|-----
 Fri Oct 20	| Introduction to data modeling | R4DS "Model Basics with modelr", R4DS "Model Building" |
-Tue Oct 24	| Evaluating models, cross-validation | R4DS "Many Models with purr and broom" |  |
+Tue Oct 24	| Evaluating models | R4DS "Many Models with purr and broom" |  |
+Fri Oct 27	| Advanced modeling, cross-validation | | Project Proposals due
 
 #### 7. Managing Complexity
 Date 		| Topics 					| Reading					| HW
 ------------|---------------------------|---------------------------|-----
-Fri Oct 27	| Introduction to object-oriented programming (OOP) in R | AdvR "Functions", AdvR "OO field guide" | Project Proposals due
-Tue Oct 31	| S3 versus S4, designing for data storage and management | AdvR "Functional programming" |
-Fri Nov 03	| Building R packages, unit tests, reproducibility | AdvR "Functionals" | 
+Tue Oct 31	| Introduction to OOP in R, S3 versus S4 | AdvR "Functions", AdvR "OO field guide" |
+Fri Nov 03	| *No class* | AdvR "Functional programming" | 
+Tue Nov 07	| Working with non-tabular data, XML, binary data | AdvR "Functionals" | 
+Fri Nov 10	| Building R packages, unit tests, reproducibility | AdvR "Debugging, condition handling, and defensive programming", Supplementary reading: "R packages" (http://r-pkgs.had.co.nz) | 
 
-#### 8. Performance, profiling, and debugging
+#### 8. Performance and Big Data
 Date 		| Topics 					| Reading					| HW
 ------------|---------------------------|---------------------------|-----
-Tue Nov 07	| Profiling R code, exception handling, debugging | AdvR "Debugging, condition handling, and defensive programming", AdvR "Performance", AdvR "Optimizing code", AdvR "Memory" | HW3 due
-Fri Nov 10	| Performance and optimization, foreign code, Rcpp | AdvR "High performance functions with Rcpp" |
+Tue Nov 14	| Profiling R code, performance and optimization, Rcpp and C/C++ in R | AdvR "Performance", AdvR "Optimizing code", AdvR "Memory", AdvR "High performance functions with Rcpp" | 
+Fri Nov 17	| Parallelization, distributed computing, and larger-than-memory data in R | AdvR "Non-standard evaluation", AdvR "Environments" | HW3 due
 
-#### 9. Big Data
-Date 		| Topics 					| Reading					| HW
-------------|---------------------------|---------------------------|-----
-Tue Nov 14	| Parallelization, distributed computing in R, MapReduce | AdvR "Non-standard evaluation" | 
-Fri Nov 17	| Larger-than-memory data in R, data files and file formats | AdvR "Environments" |
-
-#### 10. Communicating
+#### 9. Communicating
 Date 		| Topics 					| Reading					| HW
 ------------|---------------------------|---------------------------|-----
 Tue Nov 21	| Interactivity, advanced graphics, Shiny | R4DS "Graphics for Communication with ggplot2", R4DS "R Markdown Formats" |
 Fri Nov 24	| *No class - Thanksgiving break* |  |
 
-#### 11. Final Exam and Project
+#### 10. Final Exam and Project
 Date 		| Topics 					| Reading					| HW
 ------------|---------------------------|---------------------------|-----
 Tue Nov 28	| Review for final exam |  | 
