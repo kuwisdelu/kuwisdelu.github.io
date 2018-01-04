@@ -12,8 +12,10 @@ navbar:
       href: publications.html
     - text: "Courses"
       menu:
-        - text: DS 5110
+        - text: DS 5110 (Fall 2017)
           href: ds5110-fall17.html
+        - text: DS 5110 (Spring 2018)
+          href: ds5110-spring18.html
     - text: "Software"
       href: software.html
     - text: "CV"
