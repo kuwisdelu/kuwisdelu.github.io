@@ -73,13 +73,13 @@ Tue Feb 27	| Advanced modeling, cross-validation | R4DS "Many Models with purr a
 Fri Mar 02	| *No class* | | Project Proposals due
 Tue Mar 06	| *No class - Spring break* |  | 
 Fri Mar 09	| *No class - Spring break* |  | 
-Tue Mar 13	| Tidying text data and text mining in R | Supplementary reading: "Text mining with R" (https://www.tidytextmining.com) | 
-Fri Mar 16	| Sentiment analysis and topic modeling in R | | 
-Tue Mar 20	| Introduction to OOP in R, S3 versus S4 | AdvR "Functions", AdvR "OO field guide" | 
-Fri Mar 23	| Building R packages, unit tests, reproducibility | Supplementary reading: "R packages" (http://r-pkgs.had.co.nz) | 
-Tue Mar 27	| Case study: OOP and R packages | | HW3 due
+Tue Mar 13	| *No class - Snow day* |  | 
+Fri Mar 16	| Tidying text data and text mining in R | Supplementary reading: "Text mining with R" (https://www.tidytextmining.com) | 
+Tue Mar 20	| Sentiment analysis and topic modeling in R | | 
+Fri Mar 23	| Introduction to OOP in R, S3 versus S4 | AdvR "Functions", AdvR "OO field guide" | 
+Tue Mar 27	| Building R packages, unit tests, reproducibility | Supplementary reading: "R packages" (http://r-pkgs.had.co.nz) | 
 Fri Mar 30	| Working with big data in R |  | 
-Tue Apr 03	| Parallelization and distributed computing in R |  | 
+Tue Apr 03	| Parallelization and distributed computing in R |  | HW 3 due
 Fri Apr 06	| Interactivity, advanced graphics, Shiny | R4DS "Graphics for Communication with ggplot2", R4DS "R Markdown Formats" |  | 
 Tue Apr 10	| Review for final exam |  | 
 Fri Apr 13	| Final Exam - in class |  | Final Project slides due Sunday 04/15 @ 11:59 pm
