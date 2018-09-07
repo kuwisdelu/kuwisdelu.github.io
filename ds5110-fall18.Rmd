@@ -83,9 +83,9 @@ Fri Nov 16	| Working with big data in R |  |
 Tue Nov 20	| Parallelization and distributed computing |  | 
 Fri Nov 23	| *No class - Thanksgiving break* |  | 
 Tue Nov 27	| Review for final |  | 
-Fri Nov 30	| Final Exam - in class |  | Final Project reports due Sunday 12/09 @ 11:59 pm | Final Project slides due Sunday 12/02 @ 11:59 pm
+Fri Nov 30	| Final Exam - in class |  | Final Project slides due Sunday 12/02 @ 11:59 pm
 Tue Dec 4	| Final Projects - presentations in class |  |  | 
-Fri Dec 7	| Final Projects - presentations in class |  |  |
+Fri Dec 7	| Final Projects - presentations in class |  | Final Project reports due Sunday 12/09 @ 11:59 pm |
 
 
 
