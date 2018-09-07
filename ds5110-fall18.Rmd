@@ -1,5 +1,5 @@
 ---
-title: "DS 5110 - Spring 2018"
+title: "DS 5110 - Fall 2018"
 ---
 
 ## Introduction to Data Management and Processing
