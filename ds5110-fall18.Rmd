@@ -74,7 +74,7 @@ Tue Oct 16	| Review for midterm exam |  |
 Fri Oct 19	| Midterm Exam - in class |  | Project groups due
 Tue Oct 23	| Introduction to data modeling | R4DS "Model Basics with modelr" |
 Fri Oct 26	| Evaluating models | R4DS "Model Building" | 
-Tue Oct 30	| Advanced modeling, cross-validation | R4DS "Many Models with purr and broom" | 
+Tue Oct 30	| Advanced modeling, cross-validation | R4DS "Many Models with purr and broom" | Project proposals due
 Fri Nov 02	| Tidying text data and text mining in R | Supplementary reading: "Text mining with R" (https://www.tidytextmining.com) | 
 Tue Nov 06	| Sentiment analysis and topic modeling in R | | 
 Fri Nov 09	| Reproducibility |  | 
