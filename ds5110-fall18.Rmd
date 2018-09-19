@@ -64,10 +64,10 @@ Tue Sep 11	| Introduction to ggplot2 | R4DS "Data Visualization with ggplot2" |
 Fri Sep 14	| Grammar of graphics | AdvR "Style guide", AdvR "Subsetting" |
 Tue Sep 18	| Introduction to dplyr | R4DS "Data Transformation with dplyr" |
 Fri Sep 21	| Visualization + transformation | R4DS "Exploratory Data Analysis" |
-Tue Sep 25	| Importing data, tidy data | R4DS "Tibbles with tibble", R4DS "Data Import with readr", R4DS "Tidy data with tidyr" | HW 1 due
-Fri Sep 28	| *Guest lecture* |  | 
-Tue Oct 2	| Web scraping, tidying HTML and XML data |  | 
-Fri Oct 5	| Relational data in R, SQL | R4DS "Relational data with dplyr" | 
+Tue Sep 25	| Importing data, tidy data | R4DS "Tibbles with tibble", R4DS "Data Import with readr", R4DS "Tidy data with tidyr" | 
+Fri Sep 28	| *Guest lecture - Web scraping, tidying HTML and XML data* |  | HW 1 due
+Tue Oct 2	| Relational data in R, SQL | R4DS "Relational data with dplyr" |  | 
+Fri Oct 5	| *Guest lecture - Review and help session* | 
 Tue Oct 9	| Connecting to RDBMS's with dbplyr | | 
 Fri Oct 12	| Data wrangling | R4DS "Strings with stringr", R4DS "Factors with forcats", R4DS "Dates and Times with lubridate" | HW 2 due
 Tue Oct 16	| Review for midterm exam |  | 
