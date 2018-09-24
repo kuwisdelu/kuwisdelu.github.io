@@ -69,8 +69,8 @@ Fri Sep 28	| *Guest lecture - Web scraping, tidying HTML and XML data* |  | HW 1
 Tue Oct 2	| Relational data in R, SQL | R4DS "Relational data with dplyr" |  | 
 Fri Oct 5	| *Guest lecture - Review and help session* | 
 Tue Oct 9	| Connecting to RDBMS's with dbplyr | | 
-Fri Oct 12	| Data wrangling | R4DS "Strings with stringr", R4DS "Factors with forcats", R4DS "Dates and Times with lubridate" | HW 2 due
-Tue Oct 16	| Review for midterm exam |  | 
+Fri Oct 12	| Data wrangling | R4DS "Strings with stringr", R4DS "Factors with forcats", R4DS "Dates and Times with lubridate" | 
+Tue Oct 16	| Review for midterm exam |  | HW 2 due
 Fri Oct 19	| Midterm Exam - in class |  | Project groups due
 Tue Oct 23	| Introduction to data modeling | R4DS "Model Basics with modelr" |
 Fri Oct 26	| Evaluating models | R4DS "Model Building" | 
