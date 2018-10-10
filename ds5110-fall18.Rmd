@@ -67,7 +67,7 @@ Fri Sep 21	| Visualization + transformation | R4DS "Exploratory Data Analysis" |
 Tue Sep 25	| Importing data, tidy data | R4DS "Tibbles with tibble", R4DS "Data Import with readr", R4DS "Tidy data with tidyr" | 
 Fri Sep 28	| *Guest lecture - Web scraping, tidying HTML and XML data* |  | HW 1 due
 Tue Oct 2	| Relational data in R, SQL | R4DS "Relational data with dplyr" |  | 
-Fri Oct 5	| *Guest lecture - Review and help session* | 
+Fri Oct 5	| *No class* | 
 Tue Oct 9	| Connecting to RDBMS's with dbplyr | | 
 Fri Oct 12	| Data wrangling | R4DS "Strings with stringr", R4DS "Factors with forcats", R4DS "Dates and Times with lubridate" | 
 Tue Oct 16	| Review for midterm exam |  | HW 2 due
@@ -87,7 +87,15 @@ Fri Nov 30	| Final Exam - in class |  | Final Project slides due Sunday 12/02 @ 
 Tue Dec 4	| Final Projects - presentations in class |  |  | 
 Fri Dec 7	| Final Projects - presentations in class |  | Final Project reports due Sunday 12/09 @ 11:59 pm |
 
+***
 
+## Policies
+
+Please let me know if you use a name or pronouns different from what appears the class roster.
+
+Please reach out to me early if you have difficulty keeping up with class material or completing assignments for personal reasons. The [We Care](https://studentlife.northeastern.edu/we-care/) program at Northeastern University is a resource available to you in times of stress.
+
+All students are expected to abide by the university's [academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) and respect Northeastern's [commitment to diversity and inclusion](https://www.northeastern.edu/academic-plan/strategic-themes/diversity-and-inclusion/). Please be kind and respectful to your fellow students regardless of identity or background.
 
 ***
 
@@ -107,7 +115,8 @@ There will be one midterm exam and one final exam. Both will be completed in cla
 
 ## Project
 
-There will be a final project done in groups of 3 to 4 students. More details will be posted later in the semester.
+There will be a final project done in groups of 3 to 5 students. More details will be posted later in the semester.
+
 
 ***
 
