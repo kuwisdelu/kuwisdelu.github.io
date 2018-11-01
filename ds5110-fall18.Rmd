@@ -78,8 +78,8 @@ Tue Oct 30	| Advanced modeling, cross-validation | R4DS "Many Models with purr a
 Fri Nov 02	| Tidying text data and text mining in R | Supplementary reading: "Text mining with R" (https://www.tidytextmining.com) | 
 Tue Nov 06	| Sentiment analysis and topic modeling in R | | 
 Fri Nov 09	| Reproducibility |  | 
-Tue Nov 13	| *Guest lecture* |  | HW 3 due
-Fri Nov 16	| Working with big data in R |  | 
+Tue Nov 13	| *Guest lecture - TBA* |  | 
+Fri Nov 16	| Working with big data in R |  | HW 3 due
 Tue Nov 20	| Parallelization and distributed computing |  | 
 Fri Nov 23	| *No class - Thanksgiving break* |  | 
 Tue Nov 27	| Review for final |  | 
