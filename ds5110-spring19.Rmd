@@ -75,7 +75,7 @@ Fri Jan 18	| Introduction to tidyverse | R4DS "Tibbles", R4DS "Data import", R4D
 Tue Jan 22	| Exploratory data analysis | R4DS "Exploratory Data Analysis" | HW 1 due
 Fri Jan 25	| More data visualization + transformation | R4DS "Workflow: scripts", R4DS "Workflow: projects" | 
 Tue Jan 29	| Importing data, tidy and non-tidy data | R4DS "Tidy data" | 
-Fri Feb 1	| Relational data in R, SQL | R4DS "Relational data" |  | HW 2 due
+Fri Feb 1	| Relational data in R, SQL | R4DS "Relational data" | HW 2 due
 Tue Feb 5	| Databases with dbplyr | | 
 Fri Feb 8	| Data wrangling | | 
 Tue Feb 12	| Strings, factors, and date-times | R4DS "Strings", R4DS "Factors", R4DS "Dates and Times" | HW 3 due
