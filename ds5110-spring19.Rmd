@@ -1,0 +1,159 @@
+---
+title: "DS 5110 - Spring 2019"
+---
+
+## Introduction to Data Management and Processing
+
+**Schedule:** Tuesdays/Fridays 3:25 pm - 5:05 pm
+
+**Location:** East Village 024
+
+**Dates:** Jan 07, 2019 - Apr 27, 2019
+
+**Instructor:** [**Kylie Bemis**](http://www.ccis.northeastern.edu/people/kylie-ariel-bemis/) |
+k.bemis@northeastern.edu | 
+*Office Hours:* Wednesdays 2:00 pm - 3:00 pm @ WVH 310G or by appointment
+
+**TA:** **Amel Docena** |
+docena.a@husky.neu.edu |
+*Office Hours:* TBA
+
+**TA:** **Yijia Hao** |
+hao.yij@husky.neu.edu
+*Office Hours:* TBA
+
+**TA:** **Nischal Chand** |
+mahaveerchand.n@husky.neu.edu
+*Office Hours:* TBA
+
+**TA:** **Viral Pandey** |
+pandey.v@husky.neu.edu
+*Office Hours:* TBA
+
+**TA:** **Mounica Subramani** |
+subramani.m@husky.neu.edu
+*Office Hours:* TBA
+
+**Administration:** Questions and homework postings are handled via [Piazza](https://piazza.com/northeastern/spring2019/ds5110/home) | Sign up at https://piazza.com/northeastern/spring2019/ds5110
+
+**Required Textbooks:**
+[_R for Data Science_](http://r4ds.had.co.nz/) (**R4DS**)
+by Wickham and Grolemund,
+[_Text Mining with R_](https://www.tidytextmining.com) (**TMR**)
+by Silge and Robinson
+
+**Supplementary Textbooks:**
+[_Advanced R_](http://adv-r.had.co.nz/) (**AdvR**)
+by Wickham,
+[_R Packages_](http://r-pkgs.had.co.nz) (**Rpkg**)
+by Wickham
+
+
+**Academic integrity:** Be familiar with the university's [academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) on cheating and plagiarism.
+
+***
+
+## Overview
+
+This course discusses the practical issues and techniques for data importing, tidying, transforming, and modeling. It offers a gentle introduction to techniques for processing big data. Programming is a cross-cutting aspect of the course. Students will gain experience with data science tools through short assignments. The course work includes a term project based on real-world data. Required topics include: Data management and processing: definition & background; Data transformation; Data import; Data cleaning; Data modeling; Relational and analytic databases; Basics of SQL; Programming in R; MapReduce fundamentals and distributed data management; Data processing pipelines, connecting multiple data management and analysis components; Interaction between the capabilities and requirements of data analysis methods (data structures, algorithms, memory requirements) and the choice of data storage and management tools; Repeatable and reproducible data analysis.
+
+<center>
+![](images/ds-pipeline.png)
+</center>
+
+***
+
+## Schedule
+*(subject to change)*
+
+Date 		| Topics 					| Reading					| HW
+------------|---------------------------|---------------------------|-----
+Tue Jan 08	| Course expectations, introduction to data science, reproducible research, R Markdown | R4DS "R Markdown", AdvR "Data structures", AdvR "Style guide", AdvR "Subsetting" | 
+Fri Jan 11	| Data visualization with ggplot2 | R4DS "Data Visualization", R4DS "Workflow: basics" |
+Tue Jan 15	| Layered grammar of graphics |  |
+Fri Jan 18	| Introduction to tidyverse | R4DS "Tibbles", R4DS "Data import", R4DS "Data transformation" |
+Tue Jan 22	| Exploratory data analysis | R4DS "Exploratory Data Analysis" | HW 1 due
+Fri Jan 25	| More data visualization + transformation | R4DS "Workflow: scripts", R4DS "Workflow: projects" | 
+Tue Jan 29	| Importing data, tidy and non-tidy data | R4DS "Tidy data" | 
+Fri Feb 1	| Relational data in R, SQL | R4DS "Relational data" |  | 
+Tue Feb 5	| Databases with dbplyr | | HW 2 due
+Fri Feb 8	| Data wrangling | | 
+Tue Feb 12	| Strings, factors, and date-times | R4DS "Strings", R4DS "Factors", R4DS "Dates and Times" | 
+Fri Feb 15	| Review for midterm exam |  | HW 3 due
+Tue Feb 19	| Midterm Exam - in class |  | Project groups due
+Fri Feb 22	| Introduction to modeling | R4DS "Model Basics" |
+Tue Feb 26	| Evaluating models | R4DS "Model Building" | HW 4 due
+Fri Mar 1	| Advanced modeling, cross-validation | R4DS "Many Models" | Project proposals due
+Tue Mar 5	| *No class - Spring break* |  | 
+Fri Mar 8	| *No class - Spring break* |  | 
+Tue Mar 12	| Statistical models and interpretation |  | 
+Fri Mar 15	| Nonlinear models, clustering and classification |  | 
+Tue Mar 19	| Tidying text data and text mining in R | TMR, "Tidy text format", TMR "Analyzing word frequency", TMR "Relationships between words" | HW 5 due
+Fri Mar 22	| Sentiment analysis and topic modeling in R | TMR "Sentiment analysis", TMR "Converting to and from non-tidy formats", TMR "Topic modeling" | 
+Tue Mar 26	| Communication, presentating data science results | R4DS "Graphics for communication" | 
+Fri Mar 29	| Working with big data in R |  | HW 6 due
+Tue Apr 2	| Parallelization and distributed computing |  | 
+Fri Apr 5	| Review for final exam |  | 
+Tue Apr 9	| Final Exam - in class |  | Final Project slides due Thursday 4/11 @ 11:59 pm
+Fri Apr 12	| Final Projects - presentations in class |  | 
+Tue Apr 16	| Final Projects - presentations in class |  |  
+Fri Apr 19	| Final Projects - presentations in class |  | Final Project reports due Sunday 4/21 @ 11:59 pm 
+
+*This schedule is subject to change and will be updated throughout the semester.*
+
+***
+
+## Policies
+
+Please let me know if you use a different name or pronouns from what appears the class roster. You may use a preferred name on Piazza and when submitting assignments and exams, but please be consistent and inform the instructors.
+
+Please reach out to me early if you have difficulty keeping up with class material or completing assignments for personal reasons. The [We Care](https://studentlife.northeastern.edu/we-care/) program at Northeastern University is a resource available to you in times of stress.
+
+All students are expected to abide by the university's [academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) and respect Northeastern's [commitment to diversity and inclusion](https://www.northeastern.edu/academic-plan/strategic-themes/diversity-and-inclusion/). Please be kind and respectful to your fellow students regardless of identity or background.
+
+***
+
+## Homework
+
+Six individual homework assignments are to be completed for this class. Each homework is due by email before class on the day it is listed, unless the instructions specify otherwise. Late homeworks will not be accepted. Extensions may be given individually if requested at least 48 hours in advance of the due date with a reasonable justification. Requests for re-grades must be made in writing no less than 1 week after receiving a grade. (The new grade may be lower than the original grade.)
+
+Some aspects of the homework may be discussed with each other, but they should be completed indivudually, and your submitted work should be your own. Sharing of worked solutions will not be tolerated and will be considered cheating. Solutions with a very high degree of similarity with another past or current student's will be considered plagiarism, and will be treated accordingly.
+
+***
+
+## Exams
+
+There will be one midterm exam and one final exam. Both will be completed in class on the dates scheduled above.
+
+***
+
+## Project
+
+There will be a final project done in groups of 3 to 5 students. More details will be posted later in the semester.
+
+
+***
+
+## Grading
+
+The grade in this class is based out of 1000 points, distributed as follows:
+
+- Homework: 6 x 50 pts
+- Midterm Exam: 200 pts
+- Final Exam: 200 pts
+- Final Project: 300 pts
+	- Project proposal: 50 pts
+	- In-class presentation: 100 pts
+	- Final written report: 150 pts
+
+Final grades will follow the following scale:
+
+- A : 900 - 1000 pts
+- B : 800 - 899 pts
+- C : 700 - 799 pts
+- F : <= 699 pts
+
+Half-letter-grades ('+' and '-') will be given as well using cut-offs determined at the end of the semester.
+
+This scale is subject to change at the discretion of the instructor.
+
