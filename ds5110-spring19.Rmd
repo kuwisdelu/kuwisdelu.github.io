@@ -75,14 +75,14 @@ Fri Jan 18	| Introduction to tidyverse | R4DS "Tibbles", R4DS "Data import", R4D
 Tue Jan 22	| Exploratory data analysis | R4DS "Exploratory Data Analysis" | HW 1 due
 Fri Jan 25	| More data visualization + transformation | R4DS "Workflow: scripts", R4DS "Workflow: projects" | 
 Tue Jan 29	| Importing data, tidy and non-tidy data | R4DS "Tidy data" | 
-Fri Feb 1	| Relational data in R, SQL | R4DS "Relational data" |  | 
-Tue Feb 5	| Databases with dbplyr | | HW 2 due
+Fri Feb 1	| Relational data in R, SQL | R4DS "Relational data" |  | HW 2 due
+Tue Feb 5	| Databases with dbplyr | | 
 Fri Feb 8	| Data wrangling | | 
-Tue Feb 12	| Strings, factors, and date-times | R4DS "Strings", R4DS "Factors", R4DS "Dates and Times" | 
-Fri Feb 15	| Review for midterm exam |  | HW 3 due
+Tue Feb 12	| Strings, factors, and date-times | R4DS "Strings", R4DS "Factors", R4DS "Dates and Times" | HW 3 due
+Fri Feb 15	| Review for midterm exam |  | 
 Tue Feb 19	| Midterm Exam - in class |  | Project groups due
-Fri Feb 22	| Introduction to modeling | R4DS "Model Basics" |
-Tue Feb 26	| Evaluating models | R4DS "Model Building" | HW 4 due
+Fri Feb 22	| Introduction to modeling | R4DS "Model Basics" | HW 4 due
+Tue Feb 26	| Evaluating models | R4DS "Model Building" | 
 Fri Mar 1	| Advanced modeling, cross-validation | R4DS "Many Models" | Project proposals due
 Tue Mar 5	| *No class - Spring break* |  | 
 Fri Mar 8	| *No class - Spring break* |  | 
