@@ -71,10 +71,10 @@ Date 		| Topics 					| Reading					| HW
 Tue Jan 08	| Course expectations, introduction to data science, reproducible research, R Markdown | R4DS "R Markdown", AdvR "Data structures", AdvR "Style guide", AdvR "Subsetting" | 
 Fri Jan 11	| Data visualization with ggplot2 | R4DS "Data Visualization", R4DS "Workflow: basics" |
 Tue Jan 15	| Layered grammar of graphics |  |
-Fri Jan 18	| Introduction to tidyverse | R4DS "Tibbles", R4DS "Data import", R4DS "Data transformation" |
-Tue Jan 22	| Exploratory data analysis | R4DS "Exploratory Data Analysis" | HW 1 due
-Fri Jan 25	| More data visualization + transformation | R4DS "Workflow: scripts", R4DS "Workflow: projects" | 
-Tue Jan 29	| Importing data, tidy and non-tidy data | R4DS "Tidy data" | 
+Fri Jan 18	| Introduction to tidyverse | R4DS "Tibbles", R4DS "Data transformation" |
+Tue Jan 22	| Importing data, tidy and non-tidy data | R4DS "Data import", R4DS "Tidy data" | HW 1 due
+Fri Jan 25	| Exploratory data analysis | R4DS "Exploratory Data Analysis" | 
+Tue Jan 29	| More data visualization + transformation | R4DS "Workflow: scripts", R4DS "Workflow: projects" | 
 Fri Feb 1	| Relational data in R, SQL | R4DS "Relational data" | HW 2 due
 Tue Feb 5	| Databases with dbplyr | | 
 Fri Feb 8	| Data wrangling | | 
