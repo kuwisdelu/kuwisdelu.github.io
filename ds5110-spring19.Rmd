@@ -81,9 +81,9 @@ Fri Feb 8	| Strings, factors, and date-times | R4DS "Strings", R4DS "Factors", R
 Tue Feb 12	| Review for midterm exam (Part 1) |  | HW 3 due
 Fri Feb 15	| Review for midterm exam (Part 2) |  | 
 Tue Feb 19	| Midterm Exam - in class |  | Project groups due
-Fri Feb 22	| Introduction to modeling | R4DS "Model Basics" | HW 4 due
+Fri Feb 22	| Introduction to modeling | R4DS "Model Basics" | 
 Tue Feb 26	| Evaluating models | R4DS "Model Building" | 
-Fri Mar 1	| Advanced modeling, cross-validation | R4DS "Many Models" | Project proposals due
+Fri Mar 1	| Advanced modeling, cross-validation | R4DS "Many Models" | HW 4 due, Project proposals due
 Tue Mar 5	| *No class - Spring break* |  | 
 Fri Mar 8	| *No class - Spring break* |  | 
 Tue Mar 12	| Statistical models and interpretation |  | 
