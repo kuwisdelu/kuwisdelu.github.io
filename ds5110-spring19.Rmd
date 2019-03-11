@@ -88,11 +88,11 @@ Tue Mar 5	| *No class - Spring break* |  |
 Fri Mar 8	| *No class - Spring break* |  | 
 Tue Mar 12	| Statistical models and interpretation |  | 
 Fri Mar 15	| Nonlinear models, clustering and classification |  | 
-Tue Mar 19	| Tidying text data and text mining in R | TMR, "Tidy text format", TMR "Analyzing word frequency", TMR "Relationships between words" | HW 5 due
-Fri Mar 22	| Sentiment analysis and topic modeling in R | TMR "Sentiment analysis", TMR "Converting to and from non-tidy formats", TMR "Topic modeling" | 
+Tue Mar 19	| Tidying text data and text mining in R | TMR, "Tidy text format", TMR "Analyzing word frequency", TMR "Relationships between words" | 
+Fri Mar 22	| Sentiment analysis and topic modeling in R | TMR "Sentiment analysis", TMR "Converting to and from non-tidy formats", TMR "Topic modeling" | HW 5 due
 Tue Mar 26	| Communication, presentating data science results | R4DS "Graphics for communication" | 
-Fri Mar 29	| Working with big data in R |  | HW 6 due
-Tue Apr 2	| Parallelization and distributed computing |  | 
+Fri Mar 29	| Working with big data in R |  | 
+Tue Apr 2	| Parallelization and distributed computing |  | HW 6 due
 Fri Apr 5	| Review for final exam |  | 
 Tue Apr 9	| Final Exam - in class |  | Final Project slides due Thursday 4/11 @ 11:59 pm
 Fri Apr 12	| Final Projects - presentations in class |  | 
