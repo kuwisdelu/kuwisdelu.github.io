@@ -86,7 +86,7 @@ Fri Nov 8 | Tidying text data and text mining in R | TMR, "Tidy text format", TM
 Tue Nov 12 | Sentiment analysis and topic modeling in R | TMR "Sentiment analysis", TMR "Converting to and from non-tidy formats", TMR "Topic modeling" | 
 Fri Nov 15 | *TBD* | R4DS "Graphics for communication" |  | 
 Tue Nov 19 | *TBD* |  | HW 6 due
-Fri Nov 22 | Review for final exam |  | 
+Fri Nov 22 | Review |  | 
 Tue Nov 26 | *__Exam 3 - in class__* |  | Final Project slides due Monday 12/2 @ 11:59 pm
 Fri Nov 29 | *Thanksgiving break - no class* |  | 
 Tue Dec 3 | Final Projects - presentations in class |  |  
