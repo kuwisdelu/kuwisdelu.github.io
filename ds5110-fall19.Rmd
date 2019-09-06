@@ -1,0 +1,156 @@
+---
+title: "DS 5110 - Fall 2019"
+---
+
+## Introduction to Data Management and Processing
+
+**Schedule:** Tuesdays/Fridays 3:25 pm - 5:05 pm
+
+**Location:** Ell Hall 312
+
+**Dates:** Sept 6, 2019 - Dec 6, 2019
+
+**Instructor:** [**Kylie Bemis**](http://www.ccis.northeastern.edu/people/kylie-ariel-bemis/) |
+k.bemis@northeastern.edu | 
+*Office Hours:* Wednesdays 2:00 pm - 3:00 pm @ WVH 310G or by appointment
+
+**TA:** **Sneha Agarwal** |
+agarwal.sn@husky.neu.edu
+*Office Hours:* TBA
+
+**TA:** **Chaitya Shah** |
+shah.cha@husky.neu.edu |
+*Office Hours:* TBA
+
+**TA:** **Gopalika Sharma** |
+sharma.go@husky.neu.edu
+*Office Hours:* TBA
+
+**TA:** **Nanditha Sundararajan** |
+sundararajan.n@husky.neu.edu
+*Office Hours:* TBA
+
+**Administration:** Questions and homework postings are handled via [Piazza](https://piazza.com/northeastern/fall2019/ds5110/home) | Sign up at https://piazza.com/northeastern/fall2019/ds5110
+
+**Required Textbooks:**
+[_R for Data Science_](http://r4ds.had.co.nz/) (**R4DS**)
+by Wickham and Grolemund,
+[_Text Mining with R_](https://www.tidytextmining.com) (**TMR**)
+by Silge and Robinson
+
+**Supplementary Textbooks:**
+[_Advanced R_](http://adv-r.had.co.nz/) (**AdvR**)
+by Wickham,
+[_R Packages_](http://r-pkgs.had.co.nz) (**Rpkg**)
+by Wickham
+
+
+**Academic integrity:** Be familiar with the university's [academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) on cheating and plagiarism.
+
+***
+
+## Overview
+
+This course discusses the practical issues and techniques for data importing, tidying, transforming, and modeling. It offers a gentle introduction to techniques for processing data. Programming is a cross-cutting aspect of the course. Students will gain experience with data science tools through short assignments. The course work includes a term project based on real-world data. Required topics include: Data management and processing: definition & background; Data transformation; Data import; Data cleaning; Data modeling; Relational and analytic databases; Basics of SQL; Programming in R; MapReduce fundamentals and distributed data management; Data processing pipelines, connecting multiple data management and analysis components; Interaction between the capabilities and requirements of data analysis methods (data structures, algorithms, memory requirements) and the choice of data storage and management tools; Repeatable and reproducible data analysis.
+
+<center>
+![](images/ds-pipeline.png)
+</center>
+
+***
+
+## Schedule
+*(subject to change)*
+
+Date 		| Topics 					| Reading					| HW
+------------|---------------------------|---------------------------|-----
+Fri Sep 06 | Course expectations, introduction to data science, reproducible research, R Markdown | R4DS "R Markdown", AdvR "Data structures", AdvR "Style guide", AdvR "Subsetting" | 
+Tue Sep 10 | Data visualization with ggplot2 | R4DS "Data Visualization", R4DS "Workflow: basics" |
+Fri Sep 13 | Layered grammar of graphics |  |
+Tue Sep 17 | Introduction to tidyverse | R4DS "Tibbles", R4DS "Data transformation" |
+Fri Sep 20 | *__R programming help session__* |  | 
+Tue Sep 24 | Importing data, tidy and non-tidy data | R4DS "Data import", R4DS "Tidy data" | HW 1 due
+Fri Sep 27 | Exploratory data analysis | R4DS "Exploratory Data Analysis" | 
+Tue Oct 1 | More data visualization + transformation | R4DS "Workflow: scripts", R4DS "Workflow: projects" | 
+Fri Oct 4 | Relational data in R, SQL | R4DS "Relational data" | HW 2 due
+Tue Oct 8 | Databases with dbplyr | | 
+Fri Oct 11 | *TBD* | R4DS "Strings", R4DS "Factors", R4DS "Dates and Times" |
+Tue Oct 15 | *__Exam 1 - in class__* |  | HW 3 due, Project groups due
+Fri Oct 18 | Introduction to modeling | R4DS "Model Basics" | 
+Tue Oct 22 | Evaluating models | R4DS "Model Building" | 
+Fri Oct 25 | Advanced modeling, cross-validation | R4DS "Many Models" | HW 4 due, Project proposals due
+Tue Oct 29 | *__Exam 2 - in class__* |  | 
+Fri Nov 1 | Statistical models and interpretation |  | 
+Tue Nov 5 | Nonlinear models, clustering and classification  |  | 
+Fri Nov 8 | Tidying text data and text mining in R | TMR, "Tidy text format", TMR "Analyzing word frequency", TMR "Relationships between words" | HW 5 due
+Tue Nov 12 | Sentiment analysis and topic modeling in R | TMR "Sentiment analysis", TMR "Converting to and from non-tidy formats", TMR "Topic modeling" | 
+Fri Nov 15 | *TBD* | R4DS "Graphics for communication" |  | 
+Tue Nov 19 | *TBD* |  | HW 6 due
+Fri Nov 22 | Review for final exam |  | 
+Tue Nov 26 | *__Exam 3 - in class__* |  | Final Project slides due Monday 12/2 @ 11:59 pm
+Fri Nov 29 | *Thanksgiving break - no class* |  | 
+Tue Dec 3 | Final Projects - presentations in class |  |  
+Fri Dec 6 | Final Projects - presentations in class |  | Final Project reports due Sunday 12/8 @ 11:59 pm 
+
+*This schedule is subject to change and will be updated throughout the semester.*
+
+***
+
+## Policies
+
+Please let me know if you use a different name or pronouns from what appears the class roster. You may use a preferred name on Piazza and when submitting assignments and exams, but please be consistent and inform the instructors. The Northeastern [LGBTQA Center](https://studentlife.northeastern.edu/lgbtqa/) can provide resources for [changing your name and gender marker in the Northeastern system](https://www.northeastern.edu/ouec/training-and-education/gender-identity-personal-pronouns-syllabus-guidance/).
+
+Please reach out to me early if you have difficulty keeping up with class material or completing assignments for personal reasons. The [We Care](https://studentlife.northeastern.edu/we-care/) program at Northeastern University is a resource available to you in times of stress.
+
+All students are expected to abide by the university's [academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) and respect Northeastern's [commitment to diversity and inclusion](https://www.northeastern.edu/academic-plan/strategic-themes/diversity-and-inclusion/).
+
+Northeastern University strictly prohibits discrimination or harassment on the basis of race, color, religion, religious creed, genetic information, sex, gender identity, sexual orientation, age, national origin, ancestry, veteran, or disability status. [Please review Northeastern's Title IX policy](https://www.northeastern.edu/ouec/), which protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity. Faculty members are required to report all allegations of sex/gender-based discrimination to the Title IV coordinator.
+
+*Please be kind and respectful to your fellow students regardless of identity or background. Students are expected to respect and use other students' names and pronouns.*
+
+***
+
+## Homework
+
+Six individual homework assignments are to be completed for this class. Each homework is due by email before class on the day it is listed, unless the instructions specify otherwise. Late homeworks will not be accepted. Extensions may be given individually if requested at least 48 hours in advance of the due date with a reasonable justification. Requests for re-grades must be made in writing no less than 1 week after receiving a grade. (The new grade may be lower than the original grade.)
+
+Some aspects of the homework may be discussed with each other, but they should be completed indivudually, and your submitted work should be your own. Sharing of worked solutions will not be tolerated and will be considered cheating. Solutions with a very high degree of similarity with another past or current student's will be considered plagiarism, and will be treated accordingly.
+
+***
+
+## Exams
+
+There will be four cumulative exams. All exams will be completed in class on the dates scheduled above.
+
+***
+
+## Project
+
+There will be a final project done in groups of 3 to 5 students. More details will be posted later in the semester.
+
+
+***
+
+## Grading
+
+The grade in this class is based out of 1000 points, distributed as follows:
+
+- Homework: 6 x 50 pts
+- Exams: 3 x 100 pts
+- Final Project: 300 pts
+	- Proposal: 50 pts
+	- Presentation: 100 pts
+	- Report: 150 pts
+- Peer Review: 100 pts
+
+Final grades will follow the following scale:
+
+- A : 900 - 1000 pts
+- B : 800 - 899 pts
+- C : 700 - 799 pts
+- F : <= 699 pts
+
+**Half-letter-grades ('+' and '-') will be given as well using cut-offs determined at the end of the semester.**
+
+This scale is subject to change at the discretion of the instructor.
+
