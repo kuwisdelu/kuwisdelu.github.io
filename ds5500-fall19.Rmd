@@ -18,11 +18,7 @@ k.bemis@northeastern.edu |
 
 **TA:** **Shivayogi Biradar** |
 biradar.s@husky.neu.edu
-*Office Hours:* TBA
-
-**TA:** **Amel Nestor Docena** |
-docena.a@husky.neu.edu
-*Office Hours:* TBA
+*Office Hours:* Fridays 3:00 - 5:00 pm @ Snell Library Ground Floor
 
 **Administration:** Questions and homework postings are handled via [Piazza](https://piazza.com/northeastern/fall2019/ds5500/home) | Sign up at https://piazza.com/northeastern/fall2019/ds5500
 
