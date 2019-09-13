@@ -65,8 +65,8 @@ This course discusses the practical issues and techniques for data importing, ti
 Date 		| Topics 					| Reading					| HW
 ------------|---------------------------|---------------------------|-----
 Fri Sep 06 | Course expectations, introduction to data science, reproducible research, R Markdown | R4DS "R Markdown", AdvR "Data structures", AdvR "Style guide", AdvR "Subsetting" | 
-Tue Sep 10 | Data visualization with ggplot2 | R4DS "Data Visualization", R4DS "Workflow: basics" |
-Fri Sep 13 | Layered grammar of graphics |  |
+Tue Sep 10 | Data visualization with ggplot2 | R4DS "Data Visualization" |
+Fri Sep 13 | Layered grammar of graphics | R4DS "Workflow: basics", AdvR "Vocabulary" |
 Tue Sep 17 | Introduction to tidyverse | R4DS "Tibbles", R4DS "Data transformation" |
 Fri Sep 20 | *R programming help session* |  | 
 Tue Sep 24 | Importing data, tidy and non-tidy data | R4DS "Data import", R4DS "Tidy data" | HW 1 due
