@@ -18,7 +18,7 @@ k.bemis@northeastern.edu |
 
 **TA:** **Shivayogi Biradar** |
 biradar.s@husky.neu.edu
-*Office Hours:* Fridays 3:00 - 5:00 pm @ Snell Library Ground Floor
+*Office Hours:* Fridays 3:10 - 5:10 pm @ SL 045
 
 **Administration:** Questions and homework postings are handled via [Piazza](https://piazza.com/northeastern/fall2019/ds5500/home) | Sign up at https://piazza.com/northeastern/fall2019/ds5500
 
