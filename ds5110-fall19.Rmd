@@ -16,7 +16,7 @@ k.bemis@northeastern.edu |
 
 **TA:** **Sneha Agarwal** |
 agarwal.sn@husky.neu.edu
-*Office Hours:* Thursdays 10:00 am - 12:00 pm @ WVH 2nd floor
+*Office Hours:* Thursdays 10:00 am - 11:30 pm @ KA 308
 
 **TA:** **Chaitya Shah** |
 shah.cha@husky.neu.edu |
@@ -28,7 +28,7 @@ sharma.go@husky.neu.edu
 
 **TA:** **Nanditha Sundararajan** |
 sundararajan.n@husky.neu.edu
-*Office Hours:* Fridays 10:00 am - 11:00 am @ Snell Library 2nd floor
+*Office Hours:* Fridays 10:00 am - 11:00 am @ KA 308
 
 **Administration:** Questions and homework postings are handled via [Piazza](https://piazza.com/northeastern/fall2019/ds5110/home) | Sign up at https://piazza.com/northeastern/fall2019/ds5110
 
