@@ -41,13 +41,13 @@ Date 		| Topics 					| HW
 ------------|---------------------------|-----
 Mon Sep 9 | Introductions |  
 Mon Sep 16 | *Shantam Gupta: Quantiphi project options* |  
-Mon Sep 23 | Proposals |  
-Mon Sep 30 | Proposals |  
-Mon Oct 7 | Projects / Proposals | 
-Mon Oct 14 | *TBD* | 
-Mon Oct 21 | Projects / Proposals |  
+Mon Sep 23 | Practice Proposals | Project groups due
+Mon Sep 30 | *Jan Vitek: MapReduce and Hadoop* / Proposals | Proposals due
+Mon Oct 7 | *Steven Braun: Visualization* / Proposals | 
+Mon Oct 14 | *Sicheng Hao: Causal Inference* | 
+Mon Oct 21 | Projects |  
 Mon Oct 28 | *TBD* | 
-Mon Nov 4 | Projects / Proposals | 
+Mon Nov 4 | *Aditeya Pandey: Visualization* / Projects | 
 Mon Nov 11 | Projects | 
 Mon Nov 18 | Projects | 
 Mon Nov 25 | Projects | 
