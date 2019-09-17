@@ -49,7 +49,7 @@ Mon Oct 21 | Projects | HW 2 due
 Mon Oct 28 | Sicheng Hao: Causal Inference / *In-class work time* | *Project 2 groups due*
 Mon Nov 4 | Aditeya Pandey: Visualization / Projects | *Proposal 2 due*
 Mon Nov 11 | *Veteran's Day - no class* | HW 3 due
-Mon Nov 18 | Proposals / Projects | 
+Mon Nov 18 | Projects | 
 Mon Nov 25 | Projects | HW 4 due
 Mon Dec 2 | Shantam Gupta: Quantiphi project evaluations / Projects | 
 
