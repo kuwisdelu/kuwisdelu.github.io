@@ -40,18 +40,18 @@ Offers students a capstone opportunity to practice data science skills learned i
 Date 		| Topics 					| HW
 ------------|---------------------------|-----
 Mon Sep 9 | Introductions |  
-Mon Sep 16 | *Shantam Gupta: Quantiphi project options* |  
+Mon Sep 16 | Shantam Gupta: Quantiphi project options |  
 Mon Sep 23 | Practice Proposals / Proposals | *Project 1 groups due*
-Mon Sep 30 | *Jan Vitek: MapReduce and Hadoop* / Proposals | *Proposal 1 due*
-Mon Oct 7 | *Steven Braun: Visualization* / Proposals | HW1 due
+Mon Sep 30 | Jan Vitek: MapReduce and Hadoop / Proposals | *Proposal 1 due*
+Mon Oct 7 | Steven Braun: Visualization / Proposals | HW1 due
 Mon Oct 14 | *Indigenous Peoples' Day - no class* | 
 Mon Oct 21 | Projects | HW 2 due
 Mon Oct 28 | *In-class work time* | *Project 2 groups due*
-Mon Nov 4 | *Aditeya Pandey: Visualization* / Projects | *Proposal 2 due*
+Mon Nov 4 | Aditeya Pandey: Visualization / Projects | *Proposal 2 due*
 Mon Nov 11 | *Veteran's Day - no class* | HW 3 due
 Mon Nov 18 | Proposals / Projects | 
 Mon Nov 25 | Projects | HW 4 due
-Mon Dec 2 | *Shantam Gupta: Quantiphi project evaluations* / Projects | 
+Mon Dec 2 | Shantam Gupta: Quantiphi project evaluations / Projects | 
 
 *This schedule is subject to change and will be updated throughout the semester.*
 
