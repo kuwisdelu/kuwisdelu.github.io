@@ -46,7 +46,7 @@ Mon Sep 30 | Jan Vitek: MapReduce and Hadoop / Proposals | *Proposal 1 due*
 Mon Oct 7 | Steven Braun: Visualization / Proposals | HW1 due
 Mon Oct 14 | *Indigenous Peoples' Day - no class* | 
 Mon Oct 21 | Projects | HW 2 due
-Mon Oct 28 | *In-class work time* | *Project 2 groups due*
+Mon Oct 28 | Sicheng Hao: Causal Inference / *In-class work time* | *Project 2 groups due*
 Mon Nov 4 | Aditeya Pandey: Visualization / Projects | *Proposal 2 due*
 Mon Nov 11 | *Veteran's Day - no class* | HW 3 due
 Mon Nov 18 | Proposals / Projects | 
