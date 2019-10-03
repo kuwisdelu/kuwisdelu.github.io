@@ -74,7 +74,7 @@ Fri Sep 27 | Exploratory data analysis | R4DS "Exploratory Data Analysis" |
 Tue Oct 1 | More data visualization + transformation | R4DS "Workflow: scripts", R4DS "Workflow: projects" | 
 Fri Oct 4 | Relational data in R, SQL | R4DS "Relational data" | HW 2 due
 Tue Oct 8 | Databases with dbplyr | | 
-Fri Oct 11 | *TBD* | R4DS "Strings", R4DS "Factors", R4DS "Dates and Times" |
+Fri Oct 11 | *Review + special topics* | R4DS "Strings", R4DS "Factors", R4DS "Dates and Times" |
 Tue Oct 15 | *__Exam 1 - in class__* |  | HW 3 due, Project groups due
 Fri Oct 18 | Introduction to modeling | R4DS "Model Basics" | 
 Tue Oct 22 | Evaluating models | R4DS "Model Building" | 
