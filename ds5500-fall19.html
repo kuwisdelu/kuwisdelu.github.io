@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -84,7 +85,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -245,18 +245,6 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -343,8 +331,8 @@ $(document).ready(function () {
 <p><strong>Schedule:</strong> Mondays 6:00 pm - 9:15 pm</p>
 <p><strong>Location:</strong> West Village H 110</p>
 <p><strong>Dates:</strong> Sept 9, 2019 - Dec 2, 2019</p>
-<p><strong>Instructor:</strong> <a href="http://www.ccis.northeastern.edu/people/kylie-ariel-bemis/"><strong>Kylie Bemis</strong></a> | <a href="mailto:k.bemis@northeastern.edu" class="email">k.bemis@northeastern.edu</a> | <em>Office Hours:</em> Wednesdays 1:00 pm - 2:00 pm @ WVH 310G or by appointment</p>
-<p><strong>TA:</strong> <strong>Shivayogi Biradar</strong> | <a href="mailto:biradar.s@husky.neu.edu" class="email">biradar.s@husky.neu.edu</a> <em>Office Hours:</em> Thursdays 3:10 - 5:10 pm @ SL 045</p>
+<p><strong>Instructor:</strong> <a href="http://www.ccis.northeastern.edu/people/kylie-ariel-bemis/"><strong>Kylie Bemis</strong></a> | <a href="mailto:k.bemis@northeastern.edu">k.bemis@northeastern.edu</a> | <em>Office Hours:</em> Wednesdays 1:00 pm - 2:00 pm @ WVH 310G or by appointment</p>
+<p><strong>TA:</strong> <strong>Shivayogi Biradar</strong> | <a href="mailto:biradar.s@husky.neu.edu">biradar.s@husky.neu.edu</a> <em>Office Hours:</em> Thursdays 3:10 - 5:10 pm @ SL 045</p>
 <p><strong>Administration:</strong> Questions and homework postings are handled via <a href="https://piazza.com/northeastern/fall2019/ds5500/home">Piazza</a> | Sign up at <a href="https://piazza.com/northeastern/fall2019/ds5500" class="uri">https://piazza.com/northeastern/fall2019/ds5500</a></p>
 <p><strong>No Required Textbooks</strong></p>
 <p><strong>Academic integrity:</strong> Be familiar with the university’s <a href="http://www.northeastern.edu/osccr/academic-integrity-policy/">academic integrity policy</a> on cheating and plagiarism.</p>
@@ -358,11 +346,11 @@ $(document).ready(function () {
 <div id="schedule" class="section level2">
 <h2>Schedule</h2>
 <p><em>(subject to change)</em></p>
-<table>
+<table style="width:65%;">
 <colgroup>
-<col width="27%" />
-<col width="61%" />
-<col width="11%" />
+<col width="18%" />
+<col width="38%" />
+<col width="8%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -405,17 +393,17 @@ $(document).ready(function () {
 <tr class="odd">
 <td>Mon Oct 21</td>
 <td>Projects</td>
-<td>HW 2 due</td>
+<td></td>
 </tr>
 <tr class="even">
 <td>Mon Oct 28</td>
 <td>Sicheng Hao: Causal Inference / <em>In-class work time</em></td>
-<td><em>Project 2 groups due</em></td>
+<td>HW 2 due, <em>Project 2 groups due</em></td>
 </tr>
 <tr class="odd">
 <td>Mon Nov 4</td>
 <td>Aditeya Pandey: Visualization / Projects</td>
-<td><em>Proposal 2 due</em></td>
+<td><em>Project 1 reports due</em>, <em>Proposal 2 due</em></td>
 </tr>
 <tr class="even">
 <td>Mon Nov 11</td>
@@ -424,7 +412,7 @@ $(document).ready(function () {
 </tr>
 <tr class="odd">
 <td>Mon Nov 18</td>
-<td>Projects</td>
+<td>Industry Panel / Projects</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -510,6 +498,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
