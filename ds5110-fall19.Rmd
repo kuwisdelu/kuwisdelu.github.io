@@ -78,8 +78,8 @@ Fri Oct 11 | *Review + special topics* | R4DS "Strings", R4DS "Factors", R4DS "D
 Tue Oct 15 | *__Exam 1 - in class__* |  | HW 3 due, Project groups due
 Fri Oct 18 | Introduction to modeling | R4DS "Model Basics" | 
 Tue Oct 22 | Evaluating models | R4DS "Model Building" | 
-Fri Oct 25 | Advanced modeling, cross-validation | R4DS "Many Models" | HW 4 due, Project proposals due
-Tue Oct 29 | *__Exam 2 - in class__* |  | 
+Fri Oct 25 | Advanced modeling, cross-validation | R4DS "Many Models" | Project proposals due
+Tue Oct 29 | *__Exam 2 - in class__* |  | HW 4 due
 Fri Nov 1 | Statistical models and interpretation |  | 
 Tue Nov 5 | Nonlinear models, clustering and classification  |  | 
 Fri Nov 8 | Tidying text data and text mining in R | TMR, "Tidy text format", TMR "Analyzing word frequency", TMR "Relationships between words" | HW 5 due
