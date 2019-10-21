@@ -47,7 +47,7 @@ Mon Oct 7 | Steven Braun: Visualization / Proposals | HW1 due
 Mon Oct 14 | *Indigenous Peoples' Day - no class* | 
 Mon Oct 21 | Projects | 
 Mon Oct 28 | Sicheng Hao: Causal Inference / *In-class work time* | HW 2 due, *Project 2 groups due*
-Mon Nov 4 | Aditeya Pandey: Visualization / Projects | *Project 1 reports due*, *Proposal 2 due*
+Mon Nov 4 | Projects | *Project 1 reports due*, *Proposal 2 due*
 Mon Nov 11 | *Veteran's Day - no class* | HW 3 due
 Mon Nov 18 | Industry Panel / Projects | 
 Mon Nov 25 | Projects | HW 4 due
