@@ -82,11 +82,11 @@ Fri Oct 25 | Advanced modeling, cross-validation | R4DS "Many Models" | Project 
 Tue Oct 29 | *__Exam 2 - in class__* |  | HW 4 due
 Fri Nov 1 | Statistical models and interpretation |  | 
 Tue Nov 5 | Nonlinear models, clustering and classification  |  | 
-Fri Nov 8 | Tidying text data and text mining in R | TMR, "Tidy text format", TMR "Analyzing word frequency", TMR "Relationships between words" | HW 5 due
-Tue Nov 12 | Sentiment analysis and topic modeling in R | TMR "Sentiment analysis", TMR "Converting to and from non-tidy formats", TMR "Topic modeling" | 
-Fri Nov 15 | *TBD* | R4DS "Graphics for communication" |  | 
-Tue Nov 19 | *TBD* |  | HW 6 due
-Fri Nov 22 | Review |  | 
+Fri Nov 8 | Machine learning using the *caret* package | [Documentation for the *caret* package](https://topepo.github.io/caret/) | HW 5 due
+Tue Nov 12 | Tidying text data and text mining in R | TMR, "Tidy text format", TMR "Analyzing word frequency", TMR "Relationships between words" 
+Fri Nov 15 | Sentiment analysis and topic modeling in R | TMR "Sentiment analysis", TMR "Converting to and from non-tidy formats", TMR "Topic modeling" | 
+Tue Nov 19 | *TBD* | R4DS "Graphics for communication" |  |
+Fri Nov 22 | Review |  | HW 6 due
 Tue Nov 26 | *__Exam 3 - in class__* |  | Final Project slides due Monday 12/2 @ 11:59 pm
 Fri Nov 29 | *Thanksgiving break - no class* |  | 
 Tue Dec 3 | Final Projects - presentations in class |  |  
