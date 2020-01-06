@@ -12,14 +12,14 @@ navbar:
       href: publications.html
     - text: "Courses"
       menu:
+        - text: DS 5110 (Spring 2020)
+          href: ds5110-spring20.html
+        - text: DS 5500 (Spring 2020)
+          href: ds5500-spring20.html
         - text: DS 5110 (Fall 2019)
           href: ds5110-fall19.html
         - text: DS 5500 (Fall 2019)
           href: ds5500-fall19.html
-        - text: DS 5110 (Spring 2019)
-          href: ds5110-spring19.html
-        - text: DS 5110 (Fall 2018)
-          href: ds5110-fall18.html
     - text: "Software"
       href: software.html
     - text: "CV"
