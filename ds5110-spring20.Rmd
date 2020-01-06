@@ -89,11 +89,10 @@ Fri Mar 20 | Sentiment analysis and topic modeling | TMR "Sentiment analysis", T
 Tue Mar 24 | Communication and collaboration | R4DS "Graphics for communication" |  | 
 Fri Mar 27 | *TBA* |  | HW 6 due
 Tue Mar 31 | *TBA* |  |
-Fri Apr 3 | *Review* |  | 
-Tue Apr 7 | *__Exam 3 - in class__* |  | 
+Fri Apr 3 | *__Exam 3 - in class__* |  | 
+Tue Apr 7 | Final Projects - presentations in class |  | 
 Fri Apr 10 | Final Projects - presentations in class |  |  
-Tue Apr 14 | Final Projects - presentations in class |  |  
-Fri Apr 17 | Final Projects - presentations in class |  | Peer Reviews + Final Project reports due Sunday 4/19 @ 11:59 pm 
+Tue Apr 14 | Final Projects - presentations in class |  |  Peer Reviews + Final Project reports due Friday 4/17 @ 11:59 pm 
 
 *This schedule is subject to change and will be updated throughout the semester.*
 

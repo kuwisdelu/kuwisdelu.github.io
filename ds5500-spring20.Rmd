@@ -42,18 +42,17 @@ Date 		| Topics 					| HW
 Mon Jan 8 | Introductions |  
 Mon Jan 15 | Shantam Gupta: Quantiphi project options |  
 Mon Jan 22 | Phase 1 pitches | *Phase 1 proposals due*
-Mon Jan 29 | Phase 1 pitches / codewalks | 
+Mon Jan 29 | Phase 1 pitches / Codewalks | 
 Mon Feb 5 | *No class - free work day* | 
 Mon Feb 12 | Codewalks | 
 Mon Feb 19 | Phase 1 presentations | 
 Mon Feb 26 | Phase 1 presentations | *Phase 2 proposals due*
 Mon Mar 4 | *No class - Spring Break* | *Phase 1 reports due*
-Mon Mar 11 | Phase 2 pitches / codewalks | 
-Mon Mar 18 | Phase 2 pitches / codewalks | 
+Mon Mar 11 | Phase 2 pitches | 
+Mon Mar 18 | Phase 2 pitches / Codewalks | 
 Mon Mar 25 | Codewalks | 
-Mon Apr 1 | Codewalks | 
-Mon Apr 8 | Phase 2 presentations | *Phase 2 reports due*
-Mon Apr 15 | Phase 2 presentations (w/ Shantam Gupta) | 
+Mon Apr 1 | Phase 2 presentations | *Phase 2 reports due*
+Mon Apr 8 | Phase 2 presentations | 
 
 *This schedule is subject to change and will be updated throughout the semester.*
 
