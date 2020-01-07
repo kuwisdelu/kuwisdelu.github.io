@@ -67,15 +67,15 @@ Date 		| Topics 					| Reading					| HW
 Tue Jan 7 | Course expectations, introduction to data science, reproducible research, R Markdown | R4DS "R Markdown", AdvR "Data structures", AdvR "Style guide", AdvR "Subsetting" | 
 Fri Jan 10 | Data visualization with ggplot2 | R4DS "Data Visualization" |
 Tue Jan 14 | Layered grammar of graphics | R4DS "Workflow: basics", AdvR "Vocabulary" |
-Fri Jan 17 | Introduction to tidyverse | R4DS "Tibbles", R4DS "Data transformation" | HW 1 due
-Tue Jan 21 | Importing data, tidy and non-tidy data | R4DS "Data import", R4DS "Tidy data" | 
+Fri Jan 17 | Introduction to tidyverse | R4DS "Tibbles", R4DS "Data transformation" | 
+Tue Jan 21 | Importing data, tidy and non-tidy data | R4DS "Data import", R4DS "Tidy data" | HW 1 due
 Fri Jan 24 | Exploratory data analysis | R4DS "Exploratory Data Analysis" | 
-Tue Jan 28 | More data visualization + transformation | R4DS "Workflow: scripts", R4DS "Workflow: projects" | HW 2 due
-Fri Jan 31 | Relational data in R, SQL | R4DS "Relational data" | 
+Tue Jan 28 | More data visualization + transformation | R4DS "Workflow: scripts", R4DS "Workflow: projects" | 
+Fri Jan 31 | Relational data in R, SQL | R4DS "Relational data" | HW 2 due
 Tue Feb 4 | *Review* |  |
-Fri Feb 7 | *__Exam 1 - in class__* |  | HW 3 due, Project groups due
+Fri Feb 7 | *__Exam 1 - in class__* |  | Project groups due
 Tue Feb 11 | Databases with dbplyr | | 
-Fri Feb 14 | Strings, factors, and date-times | R4DS "Strings", R4DS "Factors", R4DS "Dates and Times" | 
+Fri Feb 14 | Strings, factors, and date-times | R4DS "Strings", R4DS "Factors", R4DS "Dates and Times" | HW 3 due
 Tue Feb 18 | Introduction to modeling | R4DS "Model Basics" | 
 Fri Feb 21 | Evaluating models | R4DS "Model Building" | Project proposals due
 Tue Feb 25 | Advanced modeling, cross-validation | R4DS "Many Models" | 
