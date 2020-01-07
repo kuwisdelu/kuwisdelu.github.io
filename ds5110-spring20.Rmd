@@ -79,16 +79,16 @@ Fri Feb 14 | Strings, factors, and date-times | R4DS "Strings", R4DS "Factors", 
 Tue Feb 18 | Introduction to modeling | R4DS "Model Basics" | 
 Fri Feb 21 | Evaluating models | R4DS "Model Building" | Project proposals due
 Tue Feb 25 | Advanced modeling, cross-validation | R4DS "Many Models" | 
-Fri Feb 28 | Statistical models and interpretation |  | HW 4 due
-Tue Mar 3 | *Review* |  | 
+Fri Feb 28 | Statistical models and interpretation |  | 
+Tue Mar 3 | *Review* |  | HW 4 due
 Fri Mar 6 | *__Exam 2 - in class__* |  | 
 Tue Mar 10 | Machine learning: clustering and classification  |  | 
-Fri Mar 13 | Machine learning using the *caret* package | [Documentation for the *caret* package](https://topepo.github.io/caret/) | HW 5 due |
-Tue Mar 17 | Tidying text data and text mining | TMR, "Tidy text format", TMR "Analyzing word frequency", TMR "Relationships between words" | 
+Fri Mar 13 | Machine learning using the *caret* package | [Documentation for the *caret* package](https://topepo.github.io/caret/) | 
+Tue Mar 17 | Tidying text data and text mining | TMR, "Tidy text format", TMR "Analyzing word frequency", TMR "Relationships between words" | HW 5 due |
 Fri Mar 20 | Sentiment analysis and topic modeling | TMR "Sentiment analysis", TMR "Converting to and from non-tidy formats", TMR "Topic modeling" | 
 Tue Mar 24 | Communication and collaboration | R4DS "Graphics for communication" |  | 
-Fri Mar 27 | *TBA* |  | HW 6 due
-Tue Mar 31 | *TBA* |  |
+Fri Mar 27 | *TBA* |  | 
+Tue Mar 31 | *Review* |  | HW 6 due
 Fri Apr 3 | *__Exam 3 - in class__* |  | 
 Tue Apr 7 | Final Projects - presentations in class |  | 
 Fri Apr 10 | Final Projects - presentations in class |  |  
