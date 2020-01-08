@@ -39,20 +39,21 @@ Offers students a capstone opportunity to practice data science skills learned i
 
 Date 		| Topics 					| HW
 ------------|---------------------------|-----
-Mon Jan 8 | Introductions |  
-Mon Jan 15 | Shantam Gupta: Quantiphi project options |  
-Mon Jan 22 | Phase 1 pitches | *Phase 1 proposals due*
-Mon Jan 29 | Phase 1 pitches / Codewalks | 
-Mon Feb 5 | *No class - free work day* | 
-Mon Feb 12 | Codewalks | 
-Mon Feb 19 | Phase 1 presentations | 
-Mon Feb 26 | Phase 1 presentations | *Phase 2 proposals due*
-Mon Mar 4 | *No class - Spring Break* | *Phase 1 reports due*
-Mon Mar 11 | Phase 2 pitches | 
-Mon Mar 18 | Phase 2 pitches / Codewalks | 
-Mon Mar 25 | Codewalks | 
-Mon Apr 1 | Phase 2 presentations | *Phase 2 reports due*
-Mon Apr 8 | Phase 2 presentations | 
+Wed Jan 8 | Introductions |  
+Wed Jan 15 | Shantam Gupta: Quantiphi project options |  
+Wed Jan 22 | Phase 1 pitches | *__P1 proposals due__*
+Wed Jan 29 | Phase 1 pitches / Codewalks | 
+Wed Feb 5 | *No class - free work day* | *P1 proposal reviews due*
+Wed Feb 12 | Codewalks | 
+Wed Feb 19 | Phase 1 presentations | *P1 codewalk reviews due*
+Wed Feb 26 | Phase 1 presentations | *__P1 reports due__*, *__P2 proposals due__*
+Wed Mar 4 | *No class - Spring Break* | 
+Wed Mar 11 | Phase 2 pitches | *P1 presentation/report reviews due*
+Wed Mar 18 | Phase 2 pitches / Codewalks | 
+Wed Mar 25 | Codewalks | *P2 proposal reviews due*
+Wed Apr 1 | Phase 2 presentations | *P2 codewalk reviews due*
+Wed Apr 8 | Phase 2 presentations | *__P2 reports due__*
+Wed Apr 15 | *No class - End of semester* | *P2 presentaton/report reviews due*
 
 *This schedule is subject to change and will be updated throughout the semester.*
 
@@ -74,9 +75,7 @@ Northeastern University strictly prohibits discrimination or harassment on the b
 
 ## Homework
 
-Four small homework assignments will be assigned to practice various data science including visualization, data wrangling, and machine learning. Each homework is due online before class on the day it is listed, unless the instructions specify otherwise. Late homeworks will not be accepted. Extensions may be given individually if requested at least 48 hours in advance of the due date with a reasonable justification. Requests for re-grades must be made in writing no less than 1 week after receiving a grade. (The new grade may be lower than the original grade.)
-
-Discussion of the homework assignments is encouraged, but all code and write-ups must be completed individually, and your submitted work should be your own. Copying other students' code or writing will not be tolerated and will be considered cheating. Solutions with a very high degree of similarity with another past or current student's will be considered plagiarism, and will be treated accordingly.
+This class has no homework assignments. Students are expected to focus on their projects.
 
 ***
 
@@ -91,6 +90,14 @@ This class has no exams.
 Students will propose and complete two project phases in groups of 2 to 4. Projects may consist of a single semester-long project split into two phases, or two smaller half-semester projects. A selection of industry-motivated project options will also be available.
 
 More details will be provided in class and on Piazza.
+
+***
+
+## Peer review
+
+Peer review is a major component of this course. Students will expected to provide oral and written feedback on their classmates' projects, both on the scientific content and on the effectiveness of their communication.
+
+Rubrics will be posted on Piazza and discussed in class.
 
 ***
 
