@@ -46,9 +46,9 @@ Wed Jan 29 | Phase 1 pitches / Codewalks |
 Wed Feb 5 | *No class - free work day* | *P1 proposal reviews due*
 Wed Feb 12 | Codewalks | 
 Wed Feb 19 | Phase 1 presentations | *P1 codewalk reviews due*
-Wed Feb 26 | Phase 1 presentations | *__P1 reports due__*, *__P2 proposals due__*
+Wed Feb 26 | Phase 1 presentations | *__P1 reports due__*
 Wed Mar 4 | *No class - Spring Break* | 
-Wed Mar 11 | Phase 2 pitches | *P1 presentation/report reviews due*
+Wed Mar 11 | Phase 2 pitches | *__P2 proposals due__*, *P1 presentation/report reviews due*
 Wed Mar 18 | *Guest lecture: Visualization with Steven Braun* | 
 Wed Mar 25 | Codewalks | *P2 proposal reviews due*
 Wed Apr 1 | Phase 2 presentations | *P2 codewalk reviews due*
