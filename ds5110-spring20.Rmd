@@ -28,7 +28,7 @@ mittal.nit@husky.neu.edu
 
 **TA:** **Sarang Pande** |
 pande.s@husky.neu.edu
-*Office Hours:* TBA
+*Office Hours:* Tuesdays 5:30 - 6:30 pm @ 102 WVH
 
 **Administration:** Questions and homework postings are handled via [Piazza](https://piazza.com/northeastern/spring2020/ds5110/home) | Sign up at https://piazza.com/northeastern/spring2020/ds5110
 
@@ -84,8 +84,8 @@ Tue Mar 3 | *No class - Spring break* |  |
 Fri Mar 6 | *No class - Spring break* |  | 
 Tue Mar 10 | *Review* |  | 
 Fri Mar 13 | *__Exam 2 - in class__* |  | 
-Tue Mar 17 | Machine learning: regression and classification | [Documentation for the *caret* package](https://topepo.github.io/caret/) | HW 5 due |
-Fri Mar 20 | Tidying text data and text mining | TMR, "Tidy text format", TMR "Analyzing word frequency", TMR "Relationships between words" | 
+Tue Mar 17 | Machine learning: regression and classification | [Documentation for the *caret* package](https://topepo.github.io/caret/) |  
+Fri Mar 20 | Tidying text data and text mining | TMR, "Tidy text format", TMR "Analyzing word frequency", TMR "Relationships between words" | HW 5 due 
 Tue Mar 24 | Sentiment analysis and topic modeling | TMR "Sentiment analysis", TMR "Converting to and from non-tidy formats", TMR "Topic modeling" | 
 Fri Mar 27 | Communication and collaboration | R4DS "Graphics for communication" |  | 
 Tue Mar 31 | *Review* |  | HW 6 due
