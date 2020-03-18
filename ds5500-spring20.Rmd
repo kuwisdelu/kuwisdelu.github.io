@@ -41,8 +41,8 @@ Date 		| Topics 					| HW
 ------------|---------------------------|-----
 Wed Jan 8 | Introductions |  
 Wed Jan 15 | Shantam Gupta: Quantiphi project options |  
-Wed Jan 22 | Phase 1 pitches | *__P1 proposals due__*
-Wed Jan 29 | Phase 1 pitches / Codewalks | 
+Wed Jan 22 | Proposal discussion | 
+Wed Jan 29 | Phase 1 pitches | *__P1 proposals due__*
 Wed Feb 5 | *No class - free work day* | *P1 proposal reviews due*
 Wed Feb 12 | Codewalks | 
 Wed Feb 19 | Phase 1 presentations | *P1 codewalk reviews due*
