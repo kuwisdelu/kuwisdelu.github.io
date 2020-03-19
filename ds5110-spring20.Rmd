@@ -83,13 +83,13 @@ Fri Feb 28 | Statistical models and interpretation |  | HW 4 due
 Tue Mar 3 | *No class - Spring break* |  | 
 Fri Mar 6 | *No class - Spring break* |  | 
 Tue Mar 10 | *Review* |  | 
-Fri Mar 13 | *__Exam 2 - in class__* |  | 
+Fri Mar 13 | *__Exam 2 - online__* |  | 
 Tue Mar 17 | *Class canceled* | 
 Fri Mar 20 | Machine learning: regression and classification | [Documentation for the *caret* package](https://topepo.github.io/caret/) |  
 Tue Mar 24 | Tidying text data and text mining | TMR, "Tidy text format", TMR "Analyzing word frequency", TMR "Relationships between words" | HW 5 due 
 Fri Mar 27 | Sentiment analysis and topic modeling | TMR "Sentiment analysis", TMR "Converting to and from non-tidy formats", TMR "Topic modeling" | 
-Tue Mar 31 | Communication and collaboration | R4DS "Graphics for communication" | HW 6 due
-Fri Apr 3 | *__Exam 3 - in class__* |  | 
+Tue Mar 31 | Communication and collaboration | R4DS "Graphics for communication" | 
+Fri Apr 3 | *__Exam 3 - online__* |  | HW 6 due
 Tue Apr 7 | Final Projects - presentations in class |  | 
 Fri Apr 10 | Final Projects - presentations in class |  |  
 Tue Apr 14 | Final Projects - presentations in class |  |  Peer Reviews + Final Project reports due Friday 4/17 @ 11:59 pm 
