@@ -92,7 +92,8 @@ Tue Mar 31 | Communication and collaboration | R4DS "Graphics for communication"
 Fri Apr 3 | *__Exam 3 - online__* |  | HW 6 due
 Tue Apr 7 | Final Projects - presentations in class |  | 
 Fri Apr 10 | Final Projects - presentations in class |  |  
-Tue Apr 14 | Final Projects - presentations in class |  |  Peer Reviews + Final Project reports due Friday 4/17 @ 11:59 pm 
+Tue Apr 14 | Final Projects - presentations in class |  |  
+Fri Apr 17 | Final Projects - presentations in class |  |  Peer Reviews + Final Project reports due Sunday 4/19 @ 11:59 pm 
 
 *This schedule is subject to change and will be updated throughout the semester.*
 
