@@ -52,8 +52,9 @@ Wed Mar 11 | Phase 2 pitches | *__P2 proposals due__*, *P1 presentation/report r
 Wed Mar 18 | *Guest lecture: Visualization with Steven Braun* | 
 Wed Mar 25 | Codewalks | *P2 proposal reviews due*
 Wed Apr 1 | Phase 2 presentations | *P2 codewalk reviews due*
-Wed Apr 8 | Phase 2 presentations | *__P2 reports due__*
-Wed Apr 15 | *No class - End of semester* | *P2 presentaton/report reviews due*
+Wed Apr 8 | Phase 2 presentations | 
+Wed Apr 15 | *No class - free work day* | *__P2 reports due__*
+Sun Apr 19 | *Semester over* | *P2 presentaton/report reviews due*
 
 *This schedule is subject to change and will be updated throughout the semester.*
 
