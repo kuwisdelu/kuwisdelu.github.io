@@ -111,7 +111,7 @@ Please see [this Stackoverflow guide](https://stackoverflow.com/help/how-to-ask)
 
 Assignments, quizzes, and grading will be handled via Canvas.
 
-Assignments and quizzes will be posted on Canvas, and must be submitted on Canvas. Please do not email completed assignments or quizzes, or post them on Piazza.
+All assignments and quizzes will be posted on Canvas, and must be submitted on Canvas by the posted due date. Please do not email completed assignments or quizzes to instructors or TAs, or post them on Piazza.
 
 #### *Zoom*
 
