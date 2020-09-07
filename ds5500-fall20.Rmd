@@ -28,9 +28,11 @@ mohanty.m@husky.neu.edu |
 mandru.s@husky.neu.edu | 
 *Virtual Office Hours:* See Piazza
 
+**Piazza:** Questions and lecture material are handled via [Piazza](https://piazza.com/northeastern/fall2020/ds5500) | Sign up at https://piazza.com/northeastern/fall2020/ds5500
+
 **Canvas:** Course schedule and assignments are available via [Canvas](https://northeastern.instructure.com/courses/22411) | Log in at https://northeastern.instructure.com/courses/22411
 
-**Piazza:** Questions and lecture material are handled via [Piazza](https://piazza.com/northeastern/fall2020/ds5500) | Sign up at https://piazza.com/northeastern/fall2020/ds5500
+**Teams:** Office hours are held virtually via [Microsoft Teams](https://teams.northeastern.edu) | Log in at https://teams.northeastern.edu
 
 **No Required Textbooks**
 
