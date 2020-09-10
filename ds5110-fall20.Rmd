@@ -170,12 +170,12 @@ The grade in this class is distributed as follows:
 - Homework: 30%
 - Exams: 30%
 - Final Project: 30%
-	- Proposal
-	- Presentation
-	- Report
+	- Proposal: 5%
+	- Presentation: 10%
+	- Report: 15%
 - Participation: 10%
-	- Miniposter
-	- Peer review
+	- Miniposter: 5%
+	- Peer review: 5%
 
 Final grades will follow the following scale:
 

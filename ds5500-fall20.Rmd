@@ -144,13 +144,13 @@ Before petitioning the instructor for a re-grade, students should first contact 
 The grade in this class is distributed as follows:
 
 - Projects: 80%
-	- Proposal
-	- Progress updates
-	- Presentation
-	- Report
+	- Proposal: 20%
+	- Progress updates: 10%
+	- Presentation: 20%
+	- Report: 30%
 - Participation: 20%
-	- Self-introductions
-	- Peer review
+	- Self-introductions: 5%
+	- Peer review: 15%
 
 Final grades will follow the following scale:
 
