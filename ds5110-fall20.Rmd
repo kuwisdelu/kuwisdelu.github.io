@@ -168,7 +168,7 @@ Before petitioning the instructor for a re-grade, students should first contact 
 The grade in this class is distributed as follows:
 
 - Homework: 30%
-- Exams: 30%
+- Quizzes: 30%
 - Final Project: 30%
 	- Proposal: 5%
 	- Presentation: 10%
