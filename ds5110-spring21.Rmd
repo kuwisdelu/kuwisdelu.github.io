@@ -1,0 +1,196 @@
+---
+title: "DS 5110 - Spring 2021"
+---
+
+## Introduction to Data Management and Processing
+
+**Schedule:** Thursdays 6:00 pm - 9:15 pm
+
+**Location:** Shillman Hall 420 + Zoom
+
+**Dates:** Jan 19, 2021 - Apr 24, 2021
+
+**Instructor:** [**Kylie Bemis**](http://www.ccis.northeastern.edu/people/kylie-ariel-bemis/) (she/her) |
+k.bemis@northeastern.edu | 
+*Virtual Office Hours:* Tuesdays 3:00 pm - 4:00 pm @ Microsoft Teams or by appointment
+
+**TA:** **Nitin Kumar Mittal** |
+mittal.nit@husky.neu.edu
+*Virtual Office Hours:* See Piazza
+
+**TA:** **Oj Sindher** |
+sindher.o@northeastern.edu
+*Virtual Office Hours:* See Piazza
+
+**TA:** **Shweta Anand** |
+anand.sh@husky.neu.edu
+*Virtual Office Hours:* See Piazza
+
+**Piazza:** Questions and lecture material are handled via [Piazza](https://piazza.com/northeastern/spring2021/ds5110) | Sign up at https://piazza.com/northeastern/spring2021/ds5110
+
+**Canvas:** Course schedule and assignments are available via [Canvas](https://northeastern.instructure.com/courses/63579) | Log in at https://northeastern.instructure.com/courses/63579
+
+**Teams:** Office hours are held virtually via [Microsoft Teams](https://teams.northeastern.edu) | Log in at https://teams.northeastern.edu
+
+**Required Textbooks:**
+[_R for Data Science_](http://r4ds.had.co.nz/) (**R4DS**)
+by Wickham and Grolemund,
+[_Text Mining with R_](https://www.tidytextmining.com) (**TMR**)
+by Silge and Robinson
+
+**Supplementary Textbooks:**
+[_Advanced R_](http://adv-r.had.co.nz/) (**AdvR**)
+by Wickham,
+[_R Packages_](http://r-pkgs.had.co.nz) (**Rpkg**)
+by Wickham
+
+**Academic integrity:** Be familiar with the university's [academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) on cheating and plagiarism.
+
+***
+
+## Overview
+
+Data science is the discipline concerned with transformation, processing, management, and modeling of data for the purpose of extracting knowledge from raw observations. This course discusses the practical issues and techniques for data importing, tidying, transforming, and modeling. Programming is a cross-cutting aspect of the course. Students will gain experience with data science tools through short assignments. The course work includes a term project based on real-world data.
+
+<center>
+![](images/ds-pipeline.png)
+</center>
+
+***
+
+## Topics
+
+- Basics of SQL, R and/or Python
+- Data transformation
+- Data import
+- Data cleaning
+- Data visualization
+- Data modeling
+- Relational databases
+- Text mining
+- Data processing pipelines
+- Repeatable and reproducible analysis
+
+***
+
+## Policies
+
+#### *General*
+
+Please let me know if you use a different name or pronouns from what appears the class roster. You may use a preferred name on Piazza and when submitting assignments and exams, but please be consistent and inform the instructors. The Northeastern [LGBTQA Center](https://studentlife.northeastern.edu/lgbtqa/) can provide resources for [changing your name and gender marker in the Northeastern system](https://www.northeastern.edu/ouec/training-and-education/gender-identity-personal-pronouns-syllabus-guidance/).
+
+Please reach out to me early if you have difficulty keeping up with class material or completing assignments for personal reasons. The [We Care](https://studentlife.northeastern.edu/we-care/) program at Northeastern University is a resource available to you in times of stress.
+
+All students are expected to abide by the university's [academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) and respect Northeastern's [commitment to diversity and inclusion](https://www.northeastern.edu/academic-plan/strategic-themes/diversity-and-inclusion/).
+
+Northeastern University strictly prohibits discrimination or harassment on the basis of race, color, religion, religious creed, genetic information, sex, gender identity, sexual orientation, age, national origin, ancestry, veteran, or disability status. [Please review Northeastern's Title IX policy](https://www.northeastern.edu/ouec/), which protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity. Faculty members are required to report all allegations of sex/gender-based discrimination to the Title IX coordinator.
+
+*Please be kind and respectful to your fellow students regardless of identity or background. Students are expected to respect and use other students' names and pronouns.*
+
+#### *COVID-19*
+
+This course is taught under the hybrid NUflex model. Students may attend class in-person or remotely. Remote students will be able to participate virtually via Zoom and/or Microsoft Teams.
+
+All course content can be accessed and completed remotely. However, some content and assignments will require synchronous virtual attendance (i.e., during the regularly scheduled class time in the Boston time zone). Classes may be recorded at the discretion of the instructor.
+
+*__Due to extenuating circumstances, I will be teaching class remotely until further notice. An instructional assistant will be available in the classroom for Zoom support.__*
+
+To attend class in-person, you __must__ wear a mask and practice social distancing in the classroom. Students without a mask will not be allowed in the classroom. *__Do not come to class in-person if you are experiencing symptoms.__*
+
+In-person classes may be canceled at the discretion of the instructor. If students do not abide by these rules, or if classroom density does not allow for safe social distancing, in-person classes will not be held. Course content will continue to be delivered virtually.
+
+***
+
+## Technology
+
+#### *Piazza*
+
+Course administration, including all questions, course materials, and course announcements will be handled via Piazza.
+
+Please do not email instructors or TAs directly -- use Piazza for your questions and queries instead. This allows us to track all course-related correspondence in a single location.
+
+General questions that may be useful to other students should be posted to the whole class. If your question is specific to you, or includes a partial solution, then post it to instructors only.
+
+Please see [this Stackoverflow guide](https://stackoverflow.com/help/how-to-ask) for how to ask a good question.
+
+#### *Canvas*
+
+Assignments, quizzes, and grading will be handled via Canvas.
+
+All assignments and quizzes will be posted on Canvas, and must be submitted on Canvas by the posted due date. Please do not email completed assignments or quizzes to instructors or TAs, or post them on Piazza.
+
+#### *Zoom*
+
+Classes will be broadcast synchronously via Zoom. Remote students can use Zoom to attend class virtually, without coming to campus.
+
+#### *Microsoft Teams*
+
+Virtual office hours will be handled via Microsoft Teams. During  scheduled office hours or by appointment, instructors and TAs will be available for live chat or video call on Microsoft Teams.
+
+****
+
+## Homework
+
+Six individual homework assignments are to be completed for this class. Each homework is due online via Canvas on the date scheduled on Canvas.
+
+Some aspects of the homework may be discussed with each other, but they should be completed individually, and your submitted work should be your own. Sharing of worked solutions will not be tolerated and will be considered cheating. Plagiarised solutions will receive a zero. Solutions with a very high degree of similarity with another past or current student's will be considered plagiarism, and will be treated accordingly.
+
+***
+
+## Quizzes
+
+There will be three cumulative quizzes. All quizzes will be completed online via Canvas on the dates scheduled on Canvas.
+
+***
+
+## Project
+
+There will be a final project completed in small teams. Project teams will propose a data science project using real-world data, culminating in a presentation and written report at the end of the semester.
+
+Project guidelines will be posted on Piazza and discussed in class.
+
+***
+
+## Peer review
+
+Students will expected to provide oral and written feedback on their classmates' projects, both on the scientific content and on the effectiveness of their communication.
+
+Rubrics will be posted on Piazza and discussed in class.
+
+***
+
+## Late work and grading
+
+Late assignments will not be accepted. Extensions may be given on a case-by-case basis if requested at least 48 hours in advance of the due date with a reasonable justification.
+
+Petitions for re-grades must be made in writing via Piazza private message no later than 1 week after receiving the original grade. The petition must clearly explain why a re-grading is justified. The new grade may be lower than the original grade.
+
+Before petitioning the instructor for a re-grade, students should first contact the grader to make sure they understand why they lost points.
+
+***
+
+## Grade scale
+
+The grade in this class is distributed as follows:
+
+- Homework: 30%
+- Quizzes: 30%
+- Project: 30%
+	- Proposal: 5%
+	- Presentation: 10%
+	- Report: 15%
+- Participation: 10%
+	- Miniposter: 5%
+	- Peer review: 5%
+
+Final grades will follow the following scale:
+
+- A : 90 - 100
+- B : 80 - 89
+- C : 70 - 79
+- F : <= 69
+
+**Half-letter-grades ('+' and '-') will be given as well using cut-offs determined at the end of the semester.**
+
+This scale is subject to change at the discretion of the instructor.
+
