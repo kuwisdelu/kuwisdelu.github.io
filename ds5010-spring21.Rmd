@@ -25,10 +25,18 @@ potluri.g@northeastern.edu
 **Teams:** Office hours are held virtually via [Microsoft Teams](https://teams.northeastern.edu) | Log in at https://teams.northeastern.edu
 
 **Required Textbooks:**
-*Learning Python*. Mark Lutz. O'Reilly Media, 2013. (Relevant excerpts will be posted on Piazza.)
+
+- *Learning Python*. Mark Lutz. O'Reilly Media, 2013.
+
+*(Required reading excerpts will be made available on Piazza.)*
 
 **Supplementary Textbooks:**
-Additional supplemental readings and resources may be posted on Piazza throughout the semester.
+
+- *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython*. Wes McKinney, O'Reilly Media, 2013.
+
+- *Introduction to Algorithms, 3rd edition*. Thomas Cormen, Charles Leiserson, Ronald Rivest and Clifford Stein, MIT Press, 2009.
+
+*(Required reading excerpts will be made available on Piazza.)*
 
 **Academic integrity:** Be familiar with the university's [academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) on cheating and plagiarism.
 
