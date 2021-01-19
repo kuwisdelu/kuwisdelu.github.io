@@ -14,6 +14,10 @@ title: "DS 5010 - Spring 2021"
 k.bemis@northeastern.edu | 
 *Virtual Office Hours:* Thursdays 3:00 pm - 4:00 pm @ Microsoft Teams or by appointment
 
+**TA:** **Gowtam Potluri** |
+potluri.g@northeastern.edu
+*Virtual Office Hours:* See Piazza
+
 **Piazza:** Questions and lecture material are handled via [Piazza](https://piazza.com/northeastern/spring2021/ds5010) | Sign up at https://piazza.com/northeastern/spring2021/ds5010
 
 **Canvas:** Course schedule and assignments are available via [Canvas](https://northeastern.instructure.com/courses/63573) | Log in at https://northeastern.instructure.com/courses/63573
