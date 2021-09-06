@@ -1,0 +1,151 @@
+---
+title: "DS 5500 - Fall 2021"
+---
+
+## Applications in Data Science
+
+*(listed as Information Visualization: Applications in Data Science)*
+
+**Schedule/Location:** Tuesdays 6:00 pm - 9:15 pm @ HA 221
+
+**Dates:** Sep 9, 2020 - Dec 12, 2020
+
+**Instructor:** [**Kylie Bemis**](http://www.ccis.northeastern.edu/people/kylie-ariel-bemis/) (she/her) |
+k.bemis@northeastern.edu | 
+*Virtual Office Hours:* See Piazza
+
+**TA:** **Nitin Kumar Mittal** |
+mittal.nit@husky.neu.edu | 
+*Virtual Office Hours:* See Piazza
+
+**Piazza:** Questions and lecture material are handled via [Piazza](https://piazza.com/northeastern/fall2020/ds5500) | Sign up at https://piazza.com/northeastern/fall2020/ds5500
+
+**Canvas:** Course schedule and assignments are available via [Canvas](https://northeastern.instructure.com/courses/22411) | Log in at https://northeastern.instructure.com/courses/22411
+
+**Teams:** Office hours are held virtually via [Microsoft Teams](https://teams.northeastern.edu) | Log in at https://teams.northeastern.edu
+
+**No Required Textbooks**
+
+**Academic integrity:** Be familiar with the university's [academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) on cheating and plagiarism.
+
+***
+
+## Overview
+
+The course offers students a capstone opportunity to practice data science skills learned in previous courses, and build a portfolio. Students practice visualization, data wrangling, and machine learning skills by applying them to semester-long term projects on real-world data. Students may either propose their own projects or choose from a selection of industry options. Emphasis on the overall data science process, including identification of the scientific problem, selection of appropriate machine learning methods, and visualization and communication of results. There will be occasional lectures on special topics such as visualization, communication, and data science ethics.
+
+
+***
+
+## Policies
+
+#### *General*
+
+Please let me know if you use a different name or pronouns from what appears the class roster. You may use a preferred name on Piazza and when submitting assignments and exams, but please be consistent and inform the instructors. The Northeastern [LGBTQA Center](https://studentlife.northeastern.edu/lgbtqa/) can provide resources for [changing your name and gender marker in the Northeastern system](https://www.northeastern.edu/ouec/training-and-education/gender-identity-personal-pronouns-syllabus-guidance/).
+
+Please reach out to me early if you have difficulty keeping up with class material or completing assignments for personal reasons. The [We Care](https://studentlife.northeastern.edu/we-care/) program at Northeastern University is a resource available to you in times of stress.
+
+All students are expected to abide by the university's [academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) and respect Northeastern's [commitment to diversity and inclusion](https://www.northeastern.edu/academic-plan/strategic-themes/diversity-and-inclusion/).
+
+Northeastern University strictly prohibits discrimination or harassment on the basis of race, color, religion, religious creed, genetic information, sex, gender identity, sexual orientation, age, national origin, ancestry, veteran, or disability status. [Please review Northeastern's Title IX policy](https://www.northeastern.edu/ouec/), which protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity. Faculty members are required to report all allegations of sex/gender-based discrimination to the Title IX coordinator.
+
+*Please be kind and respectful to your fellow students regardless of identity or background. Students are expected to respect and use other students' names and pronouns.*
+
+#### *COVID-19*
+
+This course is taught in-person. Students are expected to attend class in-person whenever possible. To attend class in-person, you __must__ wear a mask and practice social distancing in the classroom. Instructors may remove their mask while teaching when social distancing allows.
+
+*__Please do not come to class in-person if you are experiencing COVID-19 symptoms.__*
+
+Accommodations will be made to the best of our ability for any classes missed due to illness.
+
+***
+
+## Technology
+
+#### *Piazza*
+
+Course administration, including all questions, course materials, and course announcements will be handled via Piazza.
+
+Please do not email instructors or TAs directly -- use Piazza for questions instead. This allows us to track all course-related correspondence in a single location.
+
+General questions that may be useful to other students should be posted to the whole class. If your question is specific to you, then post it to instructors only.
+
+Please see [this Stackoverflow guide](https://stackoverflow.com/help/how-to-ask) for how to ask a good question.
+
+#### *Canvas*
+
+Assignments and grading will be handled via Canvas.
+
+All assignments will be posted on Canvas, and must be submitted on Canvas by the posted due date. Please do not email completed assignments to instructors or TAs, or post them on Piazza.
+
+#### *Microsoft Teams*
+
+Virtual office hours will be handled via Microsoft Teams. During  scheduled office hours or by appointment, instructors and TAs will be available for live chat or video call on Microsoft Teams.
+
+***
+
+## Homework
+
+This class has no homework assignments. Students are expected to focus on their capstone project(s).
+
+***
+
+## Quizzes
+
+This class has no quizzes or exams.
+
+***
+
+## Project
+
+Students will propose and complete two project phases in small groups. Projects may consist of a single semester-long project split into two phases, or two smaller half-semester projects.
+
+Project guidelines will be posted on Piazza and discussed in class.
+
+***
+
+## Peer review
+
+Peer review is a major component of this course. Students are expected to provide oral and written feedback on their classmates’ projects, both on the scientific content and on the effectiveness of their communication.
+
+Rubrics will be posted on Piazza and discussed in class.
+
+***
+
+## Late work and grading
+
+Late assignments will not be accepted. Extensions may be given on a case-by-case basis if requested at least 48 hours in advance of the due date with a reasonable justification.
+
+Petitions for re-grades must be made in writing via Piazza private message no later than 1 week after receiving the original grade. The petition must clearly explain why a re-grading is justified. The new grade may be lower than the original grade.
+
+Before petitioning the instructor for a re-grade, students should first contact the grader to make sure they understand why they lost points.
+
+***
+
+## Grade scale
+
+The grade in this class is distributed as follows:
+
+- Projects: 80%
+	- Proposal: 20%
+	- Progress updates: 10%
+	- Presentation: 20%
+	- Report: 30%
+- Participation: 20%
+	- Self-introductions: 5%
+	- Peer review: 15%
+
+Final grades will follow the following scale:
+
+- A : <= 100
+- A-: < 94
+- B+: < 90
+- B : < 87
+- B-: < 84
+- C+: < 80
+- C : < 77
+- C-: < 74
+
+__*These scales are subject to change at the discretion of the instructor.*__
+
