@@ -4,6 +4,8 @@ title: "DS 5110 - Fall 2021"
 
 ## Introduction to Data Management and Processing
 
+*Note: This is a combined syllabus for two course sections. For a semester schedule, please see the respective Canvas page for each section.*
+
 **Schedule/Location (Sec 2):** Mondays 6:00 pm - 9:15 pm @ WVG 108
 
 **Schedule/Location (Sec 4):** Tuesdays/Fridays 3:25 pm - 5:05 pm @ SL 035

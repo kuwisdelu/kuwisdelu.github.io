@@ -2,9 +2,9 @@
 title: "DS 5500 - Fall 2021"
 ---
 
-## Applications in Data Science
+## Capstone: Applications in Data Science
 
-*(listed as Information Visualization: Applications in Data Science)*
+*Note: May be listed in some places as 'Information Visualization: Applications in Data Science'*
 
 **Schedule/Location:** Tuesdays 6:00 pm - 9:15 pm @ HA 221
 
