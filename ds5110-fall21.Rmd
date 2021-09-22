@@ -40,10 +40,6 @@ sharma.c@husky.neu.edu |
 liang.don@northeastern.edu
 *Virtual Office Hours:* See Piazza
 
-**TA:** **Amir Taherin** |
-taherin.a@northeastern.edu
-*Virtual Office Hours:* See Piazza
-
 **Piazza:** Questions and lecture material are handled via [Piazza](https://piazza.com/northeastern/fall2021/ds5110sec24) | Sign up at https://piazza.com/northeastern/fall2021/ds5110sec24
 
 **Canvas (Sec 2):** Course schedule and assignments are available via [Canvas](https://northeastern.instructure.com/courses/90582) | Log in at https://northeastern.instructure.com/courses/90582
