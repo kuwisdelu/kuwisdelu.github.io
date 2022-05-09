@@ -63,17 +63,25 @@ The course is a hands-on introduction to the fundamentals of programming, data s
 
 ## Policies
 
-#### *General*
+#### *Name and pronouns*
 
 Please let me know if you use a different name or pronouns from what appears the class roster. You may use a preferred name on Piazza and when submitting assignments and exams, but please be consistent and inform the instructors. The Northeastern [LGBTQA Center](https://studentlife.northeastern.edu/lgbtqa/) can provide resources for [changing your name and gender marker in the Northeastern system](https://www.northeastern.edu/ouec/training-and-education/gender-identity-personal-pronouns-syllabus-guidance/).
 
-Please reach out to me early if you have difficulty keeping up with class material or completing assignments for personal reasons. The [We Care](https://studentlife.northeastern.edu/we-care/) program at Northeastern University is a resource available to you in times of stress.
+*Please be kind and respectful to your fellow students regardless of identity or background. Students are expected to respect and use other students' names and pronouns.* All students are expected to respect Northeastern's [commitment to diversity and inclusion](https://www.northeastern.edu/academic-plan/strategic-themes/diversity-and-inclusion/).
 
-All students are expected to abide by the university's [academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) and respect Northeastern's [commitment to diversity and inclusion](https://www.northeastern.edu/academic-plan/strategic-themes/diversity-and-inclusion/).
+#### *Mental and physical health*
+
+Please reach out to me *__as early as possible__* if you have difficulty keeping up with class material or completing assignments for personal reasons. I am able to provide more accomodations and options for you earlier in the semester than later in the semester when deadlines are looming. The [We Care](https://studentlife.northeastern.edu/we-care/) program at Northeastern University is another resource available to you in times of stress.
+
+#### *Academic integrity*
+
+All students are expected to abide by the university's [academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/). Academic dishonesty will not receive points in this course.
+
+#### *Title IX*
 
 Northeastern University strictly prohibits discrimination or harassment on the basis of race, color, religion, religious creed, genetic information, sex, gender identity, sexual orientation, age, national origin, ancestry, veteran, or disability status. [Please review Northeastern's Title IX policy](https://www.northeastern.edu/ouec/), which protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity. Faculty members are required to report all allegations of sex/gender-based discrimination to the Title IX coordinator.
 
-*Please be kind and respectful to your fellow students regardless of identity or background. Students are expected to respect and use other students' names and pronouns.*
+***
 
 ## Technology
 
@@ -103,27 +111,23 @@ Virtual office hours will be handled via Microsoft Teams. During  scheduled offi
 
 ****
 
-## Homework
+## Assignments
+
+#### *Homework*
 
 Homework assignments will be assigned every 1-2 weeks and must be completed individually. Each homework is due online via Canvas by the deadline for the assignment on Canvas. (If deadlines differ from the outlined schedule, always use the assignment deadline.)
 
 Some aspects of the homework may be discussed with each other, but they should be completed individually, and your submitted work should be your own. Sharing of worked solutions will not be tolerated and will be considered cheating. Plagiarised solutions will receive a zero. Solutions with a very high degree of similarity with another past or current student's will be considered plagiarism, and will be treated accordingly.
 
-***
-
-## Quizzes
+#### *Quizzes*
 
 There will be occasional cumulative quizzes during the semester. All quizzes will be completed online via Canvas on the dates scheduled on Canvas, and will replace a class meeting.
 
-***
-
-## Project
+#### *Project*
 
 There will be a final programming project completed in small teams. Project guidelines will be posted on Piazza and discussed in class.
 
-***
-
-## Late work and grading
+#### *Late work and re-grading*
 
 Late assignments will be considered on a case-by-case basis. No-penalty extensions may be given if requested at least 48 hours in advance of the due date with a reasonable justification.
 
