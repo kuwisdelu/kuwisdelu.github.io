@@ -1,40 +1,32 @@
 ---
-title: "DS 5110 - Fall 2020"
+title: "DS 5110 - Fall 2022"
 ---
 
 ## Introduction to Data Management and Processing
 
-**Schedule:** Tuesdays/Fridays 1:35 pm - 3:15 pm
+**Schedule:** Wednesdays 4:39pm - 7:55pm
 
-**Location:** West Village G 104
+**Location:** Shillman Hall 320
 
-**Dates:** Sep 9, 2020 - Dec 12, 2020
+**Dates:** Sep 7, 2022 - Dec 17, 2022
 
 **Instructor:** [**Kylie Bemis**](http://www.ccis.northeastern.edu/people/kylie-ariel-bemis/) (she/her) |
 k.bemis@northeastern.edu | 
-*Virtual Office Hours:* Thursdays 3:00 pm - 4:00 pm @ Microsoft Teams or by appointment
-
-**TA:** **Chetana Sharma** |
-sharma.c@husky.neu.edu | 
 *Virtual Office Hours:* See Piazza
 
-**TA:** **Rohit Thakur** |
-thakur.ro@northeastern.edu | 
-*Virtual Office Hours:* See Piazza
+**Piazza:** Questions and lecture material are handled via [Piazza](https://piazza.com/northeastern/fall2022/ds5110bemis) | Sign up at https://piazza.com/northeastern/fall2022/ds5110bemis
 
-**Piazza:** Questions and lecture material are handled via [Piazza](https://piazza.com/northeastern/fall2020/ds5110) | Sign up at https://piazza.com/northeastern/fall2020/ds5110
-
-**Canvas:** Course schedule and assignments are available via [Canvas](https://northeastern.instructure.com/courses/22399) | Log in at https://northeastern.instructure.com/courses/22399
+**Canvas:** Course schedule and assignments are available via [Canvas](https://northeastern.instructure.com/courses/126660) | Log in at https://northeastern.instructure.com/courses/126660
 
 **Teams:** Office hours are held virtually via [Microsoft Teams](https://teams.northeastern.edu) | Log in at https://teams.northeastern.edu
 
 **Required Textbooks:**
 [_R for Data Science_](http://r4ds.had.co.nz/) (**R4DS**)
-by Wickham and Grolemund,
-[_Text Mining with R_](https://www.tidytextmining.com) (**TMR**)
-by Silge and Robinson
+by Wickham and Grolemund
 
 **Supplementary Textbooks:**
+[_Text Mining with R_](https://www.tidytextmining.com) (**TMR**)
+by Silge and Robinson,
 [_Advanced R_](http://adv-r.had.co.nz/) (**AdvR**)
 by Wickham,
 [_R Packages_](http://r-pkgs.had.co.nz) (**Rpkg**)
@@ -81,17 +73,17 @@ All students are expected to abide by the university's [academic integrity polic
 
 Northeastern University strictly prohibits discrimination or harassment on the basis of race, color, religion, religious creed, genetic information, sex, gender identity, sexual orientation, age, national origin, ancestry, veteran, or disability status. [Please review Northeastern's Title IX policy](https://www.northeastern.edu/ouec/), which protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity. Faculty members are required to report all allegations of sex/gender-based discrimination to the Title IX coordinator.
 
-*Please be kind and respectful to your fellow students regardless of identity or background. Students are expected to respect and use other students' names and pronouns.*
+*Please be kind and respectful to your fellow students regardless of identity or background. Students are expected to respect and use other students' chosen names and pronouns.*
 
-#### *COVID-19*
+#### *Remote Instruction and COVID-19*
 
-This course is taught under the hybrid NUflex model. Students may attend class in-person or remotely. Remote students will be able to participate virtually via Zoom and/or Microsoft Teams.
+This course is taught in-person. Students may attend class in-person or remotely. Remote students will be able to participate virtually via Zoom online meetings. All course content can be accessed and completed remotely. However, some content and assignments will require synchronous virtual attendance (i.e., during the regularly scheduled class time in the Boston time zone), such as project presentations.
 
-All course content can be accessed and completed remotely. However, some content and assignments will require synchronous virtual attendance (i.e., during the regularly scheduled class time in the Boston time zone). Classes may be recorded at the discretion of the instructor.
+Classes may be recorded at the discretion of the instructor. The instructor may move to teaching the course online if in-person attendance is very low or in the case of health emergencies.
 
-To attend class in-person, you __must__ wear a mask and practice social distancing in the classroom. Students without a mask will not be allowed in the classroom. *__Do not come to class in-person if you are experiencing symptoms.__*
+You are strongly encouraged to wear a mask and practice safe social distancing in the classroom when possible.
 
-In-person classes may be canceled at the discretion of the instructor. If students do not abide by these rules, or if classroom density does not allow for safe social distancing, in-person classes will not be held. Course content will continue to be delivered virtually.
+*__Please do not come to class in-person if you are experiencing COVID-19 symptoms.__*
 
 ***
 
@@ -109,23 +101,23 @@ Please see [this Stackoverflow guide](https://stackoverflow.com/help/how-to-ask)
 
 #### *Canvas*
 
-Assignments, quizzes, and grading will be handled via Canvas.
+Assignments, quizzes, and grading will be administered via Canvas.
 
 All assignments and quizzes will be posted on Canvas, and must be submitted on Canvas by the posted due date. Please do not email completed assignments or quizzes to instructors or TAs, or post them on Piazza.
 
 #### *Zoom*
 
-Classes will be broadcast synchronously via Zoom. Remote students can use Zoom to attend class virtually, without coming to campus.
+Classes will be broadcast synchronously via Zoom. Remote students can use Zoom to attend class virtually. The instructor may teach some class sessions fully remotely if the need arises.
 
 #### *Microsoft Teams*
 
-Virtual office hours will be handled via Microsoft Teams. During  scheduled office hours or by appointment, instructors and TAs will be available for live chat or video call on Microsoft Teams.
+Virtual office hours will be held via Microsoft Teams. During scheduled office hours or by appointment, instructors and TAs will be available for live chat or video call on Microsoft Teams.
 
 ****
 
 ## Homework
 
-Six individual homework assignments are to be completed for this class. Each homework is due online via Canvas on the date scheduled on Canvas.
+Five to six homework assignments are to be completed individually for this class. Each homework is due online via Canvas on the date scheduled on Canvas. (Please refer to the deadline on the actual assignment rather than the semester schedule, which is tentative and may not be updated if the assignment changes.)
 
 Some aspects of the homework may be discussed with each other, but they should be completed individually, and your submitted work should be your own. Sharing of worked solutions will not be tolerated and will be considered cheating. Plagiarised solutions will receive a zero. Solutions with a very high degree of similarity with another past or current student's will be considered plagiarism, and will be treated accordingly.
 
@@ -133,21 +125,21 @@ Some aspects of the homework may be discussed with each other, but they should b
 
 ## Quizzes
 
-There will be three cumulative quizzes. All quizzes will be completed online via Canvas on the dates scheduled on Canvas.
+There will two cumulative quizzes during the semester. Both quizzes will be completed online via Canvas on the dates scheduled on Canvas.
 
 ***
 
 ## Project
 
-There will be a final project completed in small groups. Project teams will propose a data science project using real-world data, culminating in a presentation and written report at the end of the semester.
+There will be a final project completed in small teams. Project teams will propose a data science project using real-world data, culminating in a presentation and written report at the end of the semester.
 
-Project guidelines will be posted on Piazza and discussed in class.
+Project guidelines will be posted on Piazza and discussed in class approximately midway through the semester.
 
 ***
 
 ## Peer review
 
-Students will expected to provide oral and written feedback on their classmates' projects, both on the scientific content and on the effectiveness of their presentations.
+Students will expected to provide oral and written feedback on their classmates' projects, both on the scientific content and on the effectiveness of their communication.
 
 Rubrics will be posted on Piazza and discussed in class.
 
@@ -169,7 +161,7 @@ The grade in this class is distributed as follows:
 
 - Homework: 30%
 - Quizzes: 30%
-- Final Project: 30%
+- Project: 30%
 	- Proposal: 5%
 	- Presentation: 10%
 	- Report: 15%
@@ -179,12 +171,14 @@ The grade in this class is distributed as follows:
 
 Final grades will follow the following scale:
 
-- A : 90 - 100
-- B : 80 - 89
-- C : 70 - 79
-- F : <= 69
+- A : <= 100
+- A-: < 94
+- B+: < 90
+- B : < 87
+- B-: < 84
+- C+: < 80
+- C : < 77
+- C-: < 74
 
-**Half-letter-grades ('+' and '-') will be given as well using cut-offs determined at the end of the semester.**
-
-This scale is subject to change at the discretion of the instructor.
+__*These scales are subject to change at the discretion of the instructor.*__
 

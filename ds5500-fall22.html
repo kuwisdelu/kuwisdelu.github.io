@@ -11,9 +11,9 @@
 
 
 
-<title>DS 5500 - Spring 2020</title>
+<title>DS 5500 - Fall 2022</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -57,6 +57,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -81,6 +82,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -233,7 +237,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -252,12 +256,18 @@ $(document).ready(function () {
   <a href="publications.html">Publications</a>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Courses
      
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="ds5110-fall22.html">DS 5110 (Fall 2022)</a>
+    </li>
+    <li>
+      <a href="ds5500-fall22.html">DS 5500 (Fall 2022)</a>
+    </li>
     <li>
       <a href="ds5010-summer22.html">DS 5010 (Summer 2022)</a>
     </li>
@@ -266,12 +276,6 @@ $(document).ready(function () {
     </li>
     <li>
       <a href="ds5110-spring22.html">DS 5110 (Spring 2022)</a>
-    </li>
-    <li>
-      <a href="ds5110-fall21.html">DS 5110 (Fall 2021)</a>
-    </li>
-    <li>
-      <a href="ds5500-fall21.html">DS 5500 (Fall 2021)</a>
     </li>
   </ul>
 </li>
@@ -293,184 +297,126 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">DS 5500 - Spring 2020</h1>
+<h1 class="title toc-ignore">DS 5500 - Fall 2022</h1>
 
 </div>
 
 
-<div id="applications-in-data-science" class="section level2">
-<h2>Applications in Data Science</h2>
-<p><em>(listed as Information Visualization: Applications in Data Science)</em></p>
-<p><strong>Schedule:</strong> Wednesdays 6:00 pm - 9:15 pm</p>
-<p><strong>Location:</strong> Snell Library 005</p>
-<p><strong>Dates:</strong> Jan 6, 2020 - Apr 14, 2020</p>
-<p><strong>Instructor:</strong> <a href="http://www.ccis.northeastern.edu/people/kylie-ariel-bemis/"><strong>Kylie Bemis</strong></a> | <a href="mailto:k.bemis@northeastern.edu" class="email">k.bemis@northeastern.edu</a> | <em>Office Hours:</em> Wednesdays 3:00 pm - 4:00 pm @ WVH 310G or by appointment</p>
-<p><strong>TA:</strong> <strong>Sneha Agarwal</strong> | <a href="mailto:agarwal.sn@husky.neu.edu" class="email">agarwal.sn@husky.neu.edu</a> <em>Office Hours:</em> TBA</p>
-<p><strong>Administration:</strong> Questions and homework postings are handled via <a href="https://piazza.com/northeastern/spring2020/ds5500/home">Piazza</a> | Sign up at <a href="https://piazza.com/northeastern/spring2020/ds5500" class="uri">https://piazza.com/northeastern/spring2020/ds5500</a></p>
+<div id="capstone-applications-in-data-science" class="section level2">
+<h2>Capstone: Applications in Data Science</h2>
+<p><em>Note: May be listed in some places as ‘Information Visualization: Applications in Data Science’</em></p>
+<p><strong>Schedule:</strong> Tuesdays 6:00pm - 9:20pm</p>
+<p><strong>Dates:</strong> Sep 7, 2022 - Dec 17, 2022</p>
+<p><strong>Instructor:</strong> <a href="http://www.ccis.northeastern.edu/people/kylie-ariel-bemis/"><strong>Kylie Bemis</strong></a> (she/her) | <a href="mailto:k.bemis@northeastern.edu" class="email">k.bemis@northeastern.edu</a> | <em>Virtual Office Hours:</em> See Piazza</p>
+<p><strong>Piazza:</strong> Questions and lecture material are handled via <a href="https://piazza.com/northeastern/fall2022/ds5500bemis">Piazza</a> | Sign up at <a href="https://piazza.com/northeastern/fall2022/ds5500bemis" class="uri">https://piazza.com/northeastern/fall2022/ds5500bemis</a></p>
+<p><strong>Canvas:</strong> Course schedule and assignments are available via <a href="https://northeastern.instructure.com/courses/123586">Canvas</a> | Log in at <a href="https://northeastern.instructure.com/courses/123586" class="uri">https://northeastern.instructure.com/courses/123586</a></p>
+<p><strong>Teams:</strong> Office hours are held virtually via <a href="https://teams.northeastern.edu">Microsoft Teams</a> | Log in at <a href="https://teams.northeastern.edu" class="uri">https://teams.northeastern.edu</a></p>
 <p><strong>No Required Textbooks</strong></p>
 <p><strong>Academic integrity:</strong> Be familiar with the university’s <a href="http://www.northeastern.edu/osccr/academic-integrity-policy/">academic integrity policy</a> on cheating and plagiarism.</p>
 <hr />
 </div>
 <div id="overview" class="section level2">
 <h2>Overview</h2>
-<p>Offers students a capstone opportunity to practice data science skills learned in previous courses. Students practice visualization, data wrangling, and machine learning skills by applying them to semester-long term projects on real-world data. Students may either propose their own projects or choose from a selection of industry options. Emphasis on the overall data science process, including identification of the scientific problem, selection of appropriate machine learning methods, and visualization and communication of results. There will be occasional lectures on special topics such as visualization, communication, and data science ethics.</p>
-<hr />
-</div>
-<div id="schedule" class="section level2">
-<h2>Schedule</h2>
-<p><em>(subject to change)</em></p>
-<table>
-<colgroup>
-<col width="27%" />
-<col width="61%" />
-<col width="11%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Date</th>
-<th>Topics</th>
-<th>HW</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Wed Jan 8</td>
-<td>Introductions</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Wed Jan 15</td>
-<td>Shantam Gupta: Quantiphi project options</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Wed Jan 22</td>
-<td>Proposal discussion</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Wed Jan 29</td>
-<td>Phase 1 pitches</td>
-<td><em><strong>P1 proposals due</strong></em></td>
-</tr>
-<tr class="odd">
-<td>Wed Feb 5</td>
-<td><em>No class - free work day</em></td>
-<td><em>P1 proposal reviews due</em></td>
-</tr>
-<tr class="even">
-<td>Wed Feb 12</td>
-<td>Codewalks</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Wed Feb 19</td>
-<td>Phase 1 presentations</td>
-<td><em>P1 codewalk reviews due</em></td>
-</tr>
-<tr class="even">
-<td>Wed Feb 26</td>
-<td>Phase 1 presentations</td>
-<td><em><strong>P1 reports due</strong></em></td>
-</tr>
-<tr class="odd">
-<td>Wed Mar 4</td>
-<td><em>No class - Spring Break</em></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Wed Mar 11</td>
-<td>Phase 2 pitches</td>
-<td><em><strong>P2 proposals due</strong></em>, <em>P1 presentation/report reviews due</em></td>
-</tr>
-<tr class="odd">
-<td>Wed Mar 18</td>
-<td><em>Guest lecture: Visualization with Steven Braun</em></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Wed Mar 25</td>
-<td>Codewalks</td>
-<td><em>P2 proposal reviews due</em></td>
-</tr>
-<tr class="odd">
-<td>Wed Apr 1</td>
-<td>Phase 2 presentations</td>
-<td><em>P2 codewalk reviews due</em></td>
-</tr>
-<tr class="even">
-<td>Wed Apr 8</td>
-<td>Phase 2 presentations</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Wed Apr 15</td>
-<td><em>No class - free work day</em></td>
-<td><em><strong>P2 reports due</strong></em></td>
-</tr>
-<tr class="even">
-<td>Sun Apr 19</td>
-<td><em>Semester over</em></td>
-<td><em>P2 presentaton/report reviews due</em></td>
-</tr>
-</tbody>
-</table>
-<p><em>This schedule is subject to change and will be updated throughout the semester.</em></p>
+<p>The course offers students a capstone opportunity to practice data science skills learned in previous courses, and build a portfolio. Students practice visualization, data wrangling, and machine learning skills by applying them to semester-long term projects on real-world data. Students may either propose their own projects or choose from a selection of industry options. Emphasis on the overall data science process, including identification of the scientific problem, selection of appropriate machine learning methods, and visualization and communication of results. There will be occasional lectures on special topics such as visualization, communication, and data science ethics.</p>
 <hr />
 </div>
 <div id="policies" class="section level2">
 <h2>Policies</h2>
+<div id="general" class="section level4">
+<h4><em>General</em></h4>
 <p>Please let me know if you use a different name or pronouns from what appears the class roster. You may use a preferred name on Piazza and when submitting assignments and exams, but please be consistent and inform the instructors. The Northeastern <a href="https://studentlife.northeastern.edu/lgbtqa/">LGBTQA Center</a> can provide resources for <a href="https://www.northeastern.edu/ouec/training-and-education/gender-identity-personal-pronouns-syllabus-guidance/">changing your name and gender marker in the Northeastern system</a>.</p>
 <p>Please reach out to me early if you have difficulty keeping up with class material or completing assignments for personal reasons. The <a href="https://studentlife.northeastern.edu/we-care/">We Care</a> program at Northeastern University is a resource available to you in times of stress.</p>
 <p>All students are expected to abide by the university’s <a href="http://www.northeastern.edu/osccr/academic-integrity-policy/">academic integrity policy</a> and respect Northeastern’s <a href="https://www.northeastern.edu/academic-plan/strategic-themes/diversity-and-inclusion/">commitment to diversity and inclusion</a>.</p>
-<p>Northeastern University strictly prohibits discrimination or harassment on the basis of race, color, religion, religious creed, genetic information, sex, gender identity, sexual orientation, age, national origin, ancestry, veteran, or disability status. <a href="https://www.northeastern.edu/ouec/">Please review Northeastern’s Title IX policy</a>, which protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity. Faculty members are required to report all allegations of sex/gender-based discrimination to the Title IV coordinator.</p>
-<p><em>Please be kind and respectful to your fellow students regardless of identity or background. Students are expected to respect and use other students’ names and pronouns.</em></p>
+<p>Northeastern University strictly prohibits discrimination or harassment on the basis of race, color, religion, religious creed, genetic information, sex, gender identity, sexual orientation, age, national origin, ancestry, veteran, or disability status. <a href="https://www.northeastern.edu/ouec/">Please review Northeastern’s Title IX policy</a>, which protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity. Faculty members are required to report all allegations of sex/gender-based discrimination to the Title IX coordinator.</p>
+<p><em>Please be kind and respectful to your fellow students regardless of identity or background. Students are expected to respect and use other students’ chosen names and pronouns.</em></p>
+</div>
+<div id="remote-instruction-and-covid-19" class="section level4">
+<h4><em>Remote Instruction and COVID-19</em></h4>
+<p>This course is taught in-person. Students may attend class in-person or remotely. Remote students will be able to participate virtually via Zoom online meetings. All course content can be accessed and completed remotely. However, some content and assignments will require synchronous virtual attendance (i.e., during the regularly scheduled class time in the Boston time zone), such as project presentations.</p>
+<p>Classes may be recorded at the discretion of the instructor. The instructor may move to teaching the course online if in-person attendance is very low or in the case of health emergencies.</p>
+<p>You are strongly encouraged to wear a mask and practice safe social distancing in the classroom when possible.</p>
+<p><em><strong>Please do not come to class in-person if you are experiencing COVID-19 symptoms.</strong></em></p>
 <hr />
+</div>
+</div>
+<div id="technology" class="section level2">
+<h2>Technology</h2>
+<div id="piazza" class="section level4">
+<h4><em>Piazza</em></h4>
+<p>Course administration, including all questions, course materials, and course announcements will be handled via Piazza.</p>
+<p>Please do not email instructors or TAs directly – use Piazza for questions instead. This allows us to track all course-related correspondence in a single location.</p>
+<p>General questions that may be useful to other students should be posted to the whole class. If your question is specific to you, then post it to instructors only.</p>
+<p>Please see <a href="https://stackoverflow.com/help/how-to-ask">this Stackoverflow guide</a> for how to ask a good question.</p>
+</div>
+<div id="canvas" class="section level4">
+<h4><em>Canvas</em></h4>
+<p>Assignments and grading will be administered via Canvas.</p>
+<p>All assignments will be posted on Canvas, and must be submitted on Canvas by the posted due date. Please do not email completed assignments to instructors or TAs, or post them on Piazza.</p>
+</div>
+<div id="zoom" class="section level4">
+<h4><em>Zoom</em></h4>
+<p>Classes will be broadcast synchronously via Zoom. Remote students can use Zoom to attend class virtually. The instructor may teach some class sessions fully remotely if the need arises.</p>
+</div>
+<div id="microsoft-teams" class="section level4">
+<h4><em>Microsoft Teams</em></h4>
+<p>Virtual office hours will be held via Microsoft Teams. During scheduled office hours or by appointment, instructors and TAs will be available for live chat or video call on Microsoft Teams.</p>
+<hr />
+</div>
 </div>
 <div id="homework" class="section level2">
 <h2>Homework</h2>
-<p>This class has no homework assignments. Students are expected to focus on their projects.</p>
+<p>This class has no homework assignments. Students are expected to focus on their capstone project(s).</p>
 <hr />
 </div>
-<div id="exams" class="section level2">
-<h2>Exams</h2>
-<p>This class has no exams.</p>
+<div id="quizzes" class="section level2">
+<h2>Quizzes</h2>
+<p>This class has no quizzes or exams.</p>
 <hr />
 </div>
 <div id="project" class="section level2">
 <h2>Project</h2>
-<p>Students will propose and complete two project phases in groups of 2 to 3. Projects may consist of a single semester-long project split into two phases, or two smaller half-semester projects. A selection of industry-motivated project options will also be available.</p>
-<p>More details will be provided in class and on Piazza.</p>
+<p>Students will propose and complete two project phases in small groups. Projects may consist of a single semester-long project split into two phases, or two smaller half-semester projects.</p>
+<p>Project guidelines will be posted on Piazza and discussed in class.</p>
 <hr />
 </div>
 <div id="peer-review" class="section level2">
 <h2>Peer review</h2>
-<p>Peer review is a major component of this course. Students will expected to provide oral and written feedback on their classmates’ projects, both on the scientific content and on the effectiveness of their communication.</p>
+<p>Peer review is a major component of this course. Students are expected to provide oral and written feedback on their classmates’ projects, both on the scientific content and on the effectiveness of their communication.</p>
 <p>Rubrics will be posted on Piazza and discussed in class.</p>
 <hr />
 </div>
-<div id="grading" class="section level2">
-<h2>Grading</h2>
-<p>The grade in this class is based out of 1000 points, distributed as follows:</p>
+<div id="late-work-and-grading" class="section level2">
+<h2>Late work and grading</h2>
+<p>Late assignments will not be accepted. Extensions may be given on a case-by-case basis if requested at least 48 hours in advance of the due date with a reasonable justification.</p>
+<p>Petitions for re-grades must be made in writing via Piazza private message no later than 1 week after receiving the original grade. The petition must clearly explain why a re-grading is justified. The new grade may be lower than the original grade.</p>
+<p>Before petitioning the instructor for a re-grade, students should first contact the grader to make sure they understand why they lost points.</p>
+<hr />
+</div>
+<div id="grade-scale" class="section level2">
+<h2>Grade scale</h2>
+<p>The grade in this class is distributed as follows:</p>
 <ul>
-<li>Projects: 2 x 400 pts
+<li>Projects: 80%
 <ul>
-<li>Proposal: 50 pts</li>
-<li>Codewalk: 50 pts</li>
-<li>Presentation: 100 pts</li>
-<li>Report: 200 pts</li>
+<li>Proposal(s): 20%</li>
+<li>Progress update(s): 10%</li>
+<li>Presentation(s): 20%</li>
+<li>Report(s): 30%</li>
 </ul></li>
-<li>Peer review: 200 pts</li>
+<li>Participation: 20%</li>
 </ul>
 <p>Final grades will follow the following scale:</p>
 <ul>
-<li>A : 900 - 1000 pts</li>
-<li>B : 800 - 899 pts</li>
-<li>C : 700 - 799 pts</li>
-<li>F : &lt;= 699 pts</li>
+<li>A : &lt;= 100</li>
+<li>A-: &lt; 94</li>
+<li>B+: &lt; 90</li>
+<li>B : &lt; 87</li>
+<li>B-: &lt; 84</li>
+<li>C+: &lt; 80</li>
+<li>C : &lt; 77</li>
+<li>C-: &lt; 74</li>
 </ul>
-<p><strong>Half-letter-grades (‘+’ and ‘-’) will be given as well using cut-offs determined at the end of the semester.</strong></p>
-<p>This scale is subject to change at the discretion of the instructor.</p>
+<p><strong><em>These scales are subject to change at the discretion of the instructor.</em></strong></p>
 </div>
 
 

@@ -12,16 +12,16 @@ navbar:
       href: publications.html
     - text: "Courses"
       menu:
+        - text: DS 5110 (Fall 2022)
+          href: ds5110-fall22.html
+        - text: DS 5500 (Fall 2022)
+          href: ds5500-fall22.html
         - text: DS 5010 (Summer 2022)
           href: ds5010-summer22.html
         - text: DS 5010 (Spring 2022)
           href: ds5010-spring22.html
         - text: DS 5110 (Spring 2022)
           href: ds5110-spring22.html
-        - text: DS 5110 (Fall 2021)
-          href: ds5110-fall21.html
-        - text: DS 5500 (Fall 2021)
-          href: ds5500-fall21.html
     - text: "Software"
       href: software.html
     - text: "CV"

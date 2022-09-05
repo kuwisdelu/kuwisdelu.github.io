@@ -13,7 +13,7 @@
 
 <title>DS 5110 - Fall 2021</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -57,6 +57,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -81,6 +82,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -233,7 +237,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -252,12 +256,18 @@ $(document).ready(function () {
   <a href="publications.html">Publications</a>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Courses
      
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="ds5110-fall22.html">DS 5110 (Fall 2022)</a>
+    </li>
+    <li>
+      <a href="ds5500-fall22.html">DS 5500 (Fall 2022)</a>
+    </li>
     <li>
       <a href="ds5010-summer22.html">DS 5010 (Summer 2022)</a>
     </li>
@@ -266,12 +276,6 @@ $(document).ready(function () {
     </li>
     <li>
       <a href="ds5110-spring22.html">DS 5110 (Spring 2022)</a>
-    </li>
-    <li>
-      <a href="ds5110-fall21.html">DS 5110 (Fall 2021)</a>
-    </li>
-    <li>
-      <a href="ds5500-fall21.html">DS 5500 (Fall 2021)</a>
     </li>
   </ul>
 </li>

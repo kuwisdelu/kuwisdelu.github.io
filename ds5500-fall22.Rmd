@@ -1,36 +1,22 @@
 ---
-title: "DS 5500 - Fall 2020"
+title: "DS 5500 - Fall 2022"
 ---
 
-## Applications in Data Science
+## Capstone: Applications in Data Science
 
-*(listed as Information Visualization: Applications in Data Science)*
+*Note: May be listed in some places as 'Information Visualization: Applications in Data Science'*
 
-**Schedule:** Thursdays 6:00 pm - 9:15 pm
+**Schedule:** Tuesdays 6:00pm - 9:20pm
 
-**Location:** Shillman Hall 105
-
-**Dates:** Sep 9, 2020 - Dec 12, 2020
+**Dates:** Sep 7, 2022 - Dec 17, 2022
 
 **Instructor:** [**Kylie Bemis**](http://www.ccis.northeastern.edu/people/kylie-ariel-bemis/) (she/her) |
 k.bemis@northeastern.edu | 
-*Virtual Office Hours:* Thursdays 4:00 pm - 5:00 pm @ Microsoft Teams or by appointment
-
-**TA:** **Anushka Tak** |
-tak.a@husky.neu.edu | 
 *Virtual Office Hours:* See Piazza
 
-**TA:** **Manas Ranjan Mohanty** |
-mohanty.m@husky.neu.edu | 
-*Virtual Office Hours:* See Piazza
+**Piazza:** Questions and lecture material are handled via [Piazza](https://piazza.com/northeastern/fall2022/ds5500bemis) | Sign up at https://piazza.com/northeastern/fall2022/ds5500bemis
 
-**TA:** **Srikanth Babu Mandru** |
-mandru.s@husky.neu.edu | 
-*Virtual Office Hours:* See Piazza
-
-**Piazza:** Questions and lecture material are handled via [Piazza](https://piazza.com/northeastern/fall2020/ds5500) | Sign up at https://piazza.com/northeastern/fall2020/ds5500
-
-**Canvas:** Course schedule and assignments are available via [Canvas](https://northeastern.instructure.com/courses/22411) | Log in at https://northeastern.instructure.com/courses/22411
+**Canvas:** Course schedule and assignments are available via [Canvas](https://northeastern.instructure.com/courses/123586) | Log in at https://northeastern.instructure.com/courses/123586
 
 **Teams:** Office hours are held virtually via [Microsoft Teams](https://teams.northeastern.edu) | Log in at https://teams.northeastern.edu
 
@@ -59,17 +45,17 @@ All students are expected to abide by the university's [academic integrity polic
 
 Northeastern University strictly prohibits discrimination or harassment on the basis of race, color, religion, religious creed, genetic information, sex, gender identity, sexual orientation, age, national origin, ancestry, veteran, or disability status. [Please review Northeastern's Title IX policy](https://www.northeastern.edu/ouec/), which protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity. Faculty members are required to report all allegations of sex/gender-based discrimination to the Title IX coordinator.
 
-*Please be kind and respectful to your fellow students regardless of identity or background. Students are expected to respect and use other students' names and pronouns.*
+*Please be kind and respectful to your fellow students regardless of identity or background. Students are expected to respect and use other students' chosen names and pronouns.*
 
-#### *COVID-19*
+#### *Remote Instruction and COVID-19*
 
-This course is taught under the hybrid NUflex model. Students may attend class in-person or remotely. Remote students will be able to participate virtually via Zoom and/or Microsoft Teams.
+This course is taught in-person. Students may attend class in-person or remotely. Remote students will be able to participate virtually via Zoom online meetings. All course content can be accessed and completed remotely. However, some content and assignments will require synchronous virtual attendance (i.e., during the regularly scheduled class time in the Boston time zone), such as project presentations.
 
-All course content can be accessed and completed remotely. However, some content and assignments will require synchronous virtual attendance (i.e., during the regularly scheduled class time in the Boston time zone). Classes may be recorded at the discretion of the instructor.
+Classes may be recorded at the discretion of the instructor. The instructor may move to teaching the course online if in-person attendance is very low or in the case of health emergencies.
 
-To attend class in-person, you __must__ wear a mask and practice social distancing in the classroom. Students without a mask will not be allowed in the classroom. *__Do not come to class in-person if you are experiencing symptoms.__*
+You are strongly encouraged to wear a mask and practice safe social distancing in the classroom when possible.
 
-In-person classes may be canceled at the discretion of the instructor. If students do not abide by these rules, or if classroom density does not allow for safe social distancing, in-person classes will not be held. Course content will continue to be delivered virtually.
+*__Please do not come to class in-person if you are experiencing COVID-19 symptoms.__*
 
 ***
 
@@ -87,17 +73,17 @@ Please see [this Stackoverflow guide](https://stackoverflow.com/help/how-to-ask)
 
 #### *Canvas*
 
-Assignments and grading will be handled via Canvas.
+Assignments and grading will be administered via Canvas.
 
 All assignments will be posted on Canvas, and must be submitted on Canvas by the posted due date. Please do not email completed assignments to instructors or TAs, or post them on Piazza.
 
 #### *Zoom*
 
-Classes will be broadcast synchronously via Zoom. Remote students can use Zoom to attend class virtually, without coming to campus.
+Classes will be broadcast synchronously via Zoom. Remote students can use Zoom to attend class virtually. The instructor may teach some class sessions fully remotely if the need arises.
 
 #### *Microsoft Teams*
 
-Virtual office hours will be handled via Microsoft Teams. During  scheduled office hours or by appointment, instructors and TAs will be available for live chat or video call on Microsoft Teams.
+Virtual office hours will be held via Microsoft Teams. During scheduled office hours or by appointment, instructors and TAs will be available for live chat or video call on Microsoft Teams.
 
 ***
 
@@ -115,7 +101,7 @@ This class has no quizzes or exams.
 
 ## Project
 
-Students will propose and complete two project phases in small groups. Projects may consist of a single semester-long project split into two phases, or two smaller half-semester projects. A selection of industry-motivated project options may also be available.
+Students will propose and complete two project phases in small groups. Projects may consist of a single semester-long project split into two phases, or two smaller half-semester projects.
 
 Project guidelines will be posted on Piazza and discussed in class.
 
@@ -144,22 +130,22 @@ Before petitioning the instructor for a re-grade, students should first contact 
 The grade in this class is distributed as follows:
 
 - Projects: 80%
-	- Proposal: 20%
-	- Progress updates: 10%
-	- Presentation: 20%
-	- Report: 30%
+	- Proposal(s): 20%
+	- Progress update(s): 10%
+	- Presentation(s): 20%
+	- Report(s): 30%
 - Participation: 20%
-	- Self-introductions: 5%
-	- Peer review: 15%
 
 Final grades will follow the following scale:
 
-- A : 90 - 100
-- B : 80 - 89
-- C : 70 - 79
-- F : <= 69
+- A : <= 100
+- A-: < 94
+- B+: < 90
+- B : < 87
+- B-: < 84
+- C+: < 80
+- C : < 77
+- C-: < 74
 
-**Half-letter-grades ('+' and '-') will be given as well using cut-offs determined at the end of the semester.**
-
-This scale is subject to change at the discretion of the instructor.
+__*These scales are subject to change at the discretion of the instructor.*__
 

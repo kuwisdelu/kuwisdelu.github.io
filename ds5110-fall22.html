@@ -11,9 +11,9 @@
 
 
 
-<title>DS 5500 - Fall 2020</title>
+<title>DS 5110 - Fall 2022</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -57,6 +57,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -81,6 +82,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -233,7 +237,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -252,12 +256,18 @@ $(document).ready(function () {
   <a href="publications.html">Publications</a>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Courses
      
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="ds5110-fall22.html">DS 5110 (Fall 2022)</a>
+    </li>
+    <li>
+      <a href="ds5500-fall22.html">DS 5500 (Fall 2022)</a>
+    </li>
     <li>
       <a href="ds5010-summer22.html">DS 5010 (Summer 2022)</a>
     </li>
@@ -266,12 +276,6 @@ $(document).ready(function () {
     </li>
     <li>
       <a href="ds5110-spring22.html">DS 5110 (Spring 2022)</a>
-    </li>
-    <li>
-      <a href="ds5110-fall21.html">DS 5110 (Fall 2021)</a>
-    </li>
-    <li>
-      <a href="ds5500-fall21.html">DS 5500 (Fall 2021)</a>
     </li>
   </ul>
 </li>
@@ -293,31 +297,47 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">DS 5500 - Fall 2020</h1>
+<h1 class="title toc-ignore">DS 5110 - Fall 2022</h1>
 
 </div>
 
 
-<div id="applications-in-data-science" class="section level2">
-<h2>Applications in Data Science</h2>
-<p><em>(listed as Information Visualization: Applications in Data Science)</em></p>
-<p><strong>Schedule:</strong> Thursdays 6:00 pm - 9:15 pm</p>
-<p><strong>Location:</strong> Shillman Hall 105</p>
-<p><strong>Dates:</strong> Sep 9, 2020 - Dec 12, 2020</p>
-<p><strong>Instructor:</strong> <a href="http://www.ccis.northeastern.edu/people/kylie-ariel-bemis/"><strong>Kylie Bemis</strong></a> (she/her) | <a href="mailto:k.bemis@northeastern.edu" class="email">k.bemis@northeastern.edu</a> | <em>Virtual Office Hours:</em> Thursdays 4:00 pm - 5:00 pm @ Microsoft Teams or by appointment</p>
-<p><strong>TA:</strong> <strong>Anushka Tak</strong> | <a href="mailto:tak.a@husky.neu.edu" class="email">tak.a@husky.neu.edu</a> | <em>Virtual Office Hours:</em> See Piazza</p>
-<p><strong>TA:</strong> <strong>Manas Ranjan Mohanty</strong> | <a href="mailto:mohanty.m@husky.neu.edu" class="email">mohanty.m@husky.neu.edu</a> | <em>Virtual Office Hours:</em> See Piazza</p>
-<p><strong>TA:</strong> <strong>Srikanth Babu Mandru</strong> | <a href="mailto:mandru.s@husky.neu.edu" class="email">mandru.s@husky.neu.edu</a> | <em>Virtual Office Hours:</em> See Piazza</p>
-<p><strong>Piazza:</strong> Questions and lecture material are handled via <a href="https://piazza.com/northeastern/fall2020/ds5500">Piazza</a> | Sign up at <a href="https://piazza.com/northeastern/fall2020/ds5500" class="uri">https://piazza.com/northeastern/fall2020/ds5500</a></p>
-<p><strong>Canvas:</strong> Course schedule and assignments are available via <a href="https://northeastern.instructure.com/courses/22411">Canvas</a> | Log in at <a href="https://northeastern.instructure.com/courses/22411" class="uri">https://northeastern.instructure.com/courses/22411</a></p>
+<div id="introduction-to-data-management-and-processing" class="section level2">
+<h2>Introduction to Data Management and Processing</h2>
+<p><strong>Schedule:</strong> Wednesdays 4:39pm - 7:55pm</p>
+<p><strong>Location:</strong> Shillman Hall 320</p>
+<p><strong>Dates:</strong> Sep 7, 2022 - Dec 17, 2022</p>
+<p><strong>Instructor:</strong> <a href="http://www.ccis.northeastern.edu/people/kylie-ariel-bemis/"><strong>Kylie Bemis</strong></a> (she/her) | <a href="mailto:k.bemis@northeastern.edu" class="email">k.bemis@northeastern.edu</a> | <em>Virtual Office Hours:</em> See Piazza</p>
+<p><strong>Piazza:</strong> Questions and lecture material are handled via <a href="https://piazza.com/northeastern/fall2022/ds5110bemis">Piazza</a> | Sign up at <a href="https://piazza.com/northeastern/fall2022/ds5110bemis" class="uri">https://piazza.com/northeastern/fall2022/ds5110bemis</a></p>
+<p><strong>Canvas:</strong> Course schedule and assignments are available via <a href="https://northeastern.instructure.com/courses/126660">Canvas</a> | Log in at <a href="https://northeastern.instructure.com/courses/126660" class="uri">https://northeastern.instructure.com/courses/126660</a></p>
 <p><strong>Teams:</strong> Office hours are held virtually via <a href="https://teams.northeastern.edu">Microsoft Teams</a> | Log in at <a href="https://teams.northeastern.edu" class="uri">https://teams.northeastern.edu</a></p>
-<p><strong>No Required Textbooks</strong></p>
+<p><strong>Required Textbooks:</strong> <a href="http://r4ds.had.co.nz/"><em>R for Data Science</em></a> (<strong>R4DS</strong>) by Wickham and Grolemund</p>
+<p><strong>Supplementary Textbooks:</strong> <a href="https://www.tidytextmining.com"><em>Text Mining with R</em></a> (<strong>TMR</strong>) by Silge and Robinson, <a href="http://adv-r.had.co.nz/"><em>Advanced R</em></a> (<strong>AdvR</strong>) by Wickham, <a href="http://r-pkgs.had.co.nz"><em>R Packages</em></a> (<strong>Rpkg</strong>) by Wickham</p>
 <p><strong>Academic integrity:</strong> Be familiar with the university’s <a href="http://www.northeastern.edu/osccr/academic-integrity-policy/">academic integrity policy</a> on cheating and plagiarism.</p>
 <hr />
 </div>
 <div id="overview" class="section level2">
 <h2>Overview</h2>
-<p>The course offers students a capstone opportunity to practice data science skills learned in previous courses, and build a portfolio. Students practice visualization, data wrangling, and machine learning skills by applying them to semester-long term projects on real-world data. Students may either propose their own projects or choose from a selection of industry options. Emphasis on the overall data science process, including identification of the scientific problem, selection of appropriate machine learning methods, and visualization and communication of results. There will be occasional lectures on special topics such as visualization, communication, and data science ethics.</p>
+<p>Data science is the discipline concerned with transformation, processing, management, and modeling of data for the purpose of extracting knowledge from raw observations. This course discusses the practical issues and techniques for data importing, tidying, transforming, and modeling. Programming is a cross-cutting aspect of the course. Students will gain experience with data science tools through short assignments. The course work includes a term project based on real-world data.</p>
+<center>
+<img src="images/ds-pipeline.png" />
+</center>
+<hr />
+</div>
+<div id="topics" class="section level2">
+<h2>Topics</h2>
+<ul>
+<li>Basics of SQL, R and/or Python</li>
+<li>Data transformation</li>
+<li>Data import</li>
+<li>Data cleaning</li>
+<li>Data visualization</li>
+<li>Data modeling</li>
+<li>Relational databases</li>
+<li>Text mining</li>
+<li>Data processing pipelines</li>
+<li>Repeatable and reproducible analysis</li>
+</ul>
 <hr />
 </div>
 <div id="policies" class="section level2">
@@ -328,14 +348,14 @@ $(document).ready(function () {
 <p>Please reach out to me early if you have difficulty keeping up with class material or completing assignments for personal reasons. The <a href="https://studentlife.northeastern.edu/we-care/">We Care</a> program at Northeastern University is a resource available to you in times of stress.</p>
 <p>All students are expected to abide by the university’s <a href="http://www.northeastern.edu/osccr/academic-integrity-policy/">academic integrity policy</a> and respect Northeastern’s <a href="https://www.northeastern.edu/academic-plan/strategic-themes/diversity-and-inclusion/">commitment to diversity and inclusion</a>.</p>
 <p>Northeastern University strictly prohibits discrimination or harassment on the basis of race, color, religion, religious creed, genetic information, sex, gender identity, sexual orientation, age, national origin, ancestry, veteran, or disability status. <a href="https://www.northeastern.edu/ouec/">Please review Northeastern’s Title IX policy</a>, which protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity. Faculty members are required to report all allegations of sex/gender-based discrimination to the Title IX coordinator.</p>
-<p><em>Please be kind and respectful to your fellow students regardless of identity or background. Students are expected to respect and use other students’ names and pronouns.</em></p>
+<p><em>Please be kind and respectful to your fellow students regardless of identity or background. Students are expected to respect and use other students’ chosen names and pronouns.</em></p>
 </div>
-<div id="covid-19" class="section level4">
-<h4><em>COVID-19</em></h4>
-<p>This course is taught under the hybrid NUflex model. Students may attend class in-person or remotely. Remote students will be able to participate virtually via Zoom and/or Microsoft Teams.</p>
-<p>All course content can be accessed and completed remotely. However, some content and assignments will require synchronous virtual attendance (i.e., during the regularly scheduled class time in the Boston time zone). Classes may be recorded at the discretion of the instructor.</p>
-<p>To attend class in-person, you <strong>must</strong> wear a mask and practice social distancing in the classroom. Students without a mask will not be allowed in the classroom. <em><strong>Do not come to class in-person if you are experiencing symptoms.</strong></em></p>
-<p>In-person classes may be canceled at the discretion of the instructor. If students do not abide by these rules, or if classroom density does not allow for safe social distancing, in-person classes will not be held. Course content will continue to be delivered virtually.</p>
+<div id="remote-instruction-and-covid-19" class="section level4">
+<h4><em>Remote Instruction and COVID-19</em></h4>
+<p>This course is taught in-person. Students may attend class in-person or remotely. Remote students will be able to participate virtually via Zoom online meetings. All course content can be accessed and completed remotely. However, some content and assignments will require synchronous virtual attendance (i.e., during the regularly scheduled class time in the Boston time zone), such as project presentations.</p>
+<p>Classes may be recorded at the discretion of the instructor. The instructor may move to teaching the course online if in-person attendance is very low or in the case of health emergencies.</p>
+<p>You are strongly encouraged to wear a mask and practice safe social distancing in the classroom when possible.</p>
+<p><em><strong>Please do not come to class in-person if you are experiencing COVID-19 symptoms.</strong></em></p>
 <hr />
 </div>
 </div>
@@ -344,44 +364,45 @@ $(document).ready(function () {
 <div id="piazza" class="section level4">
 <h4><em>Piazza</em></h4>
 <p>Course administration, including all questions, course materials, and course announcements will be handled via Piazza.</p>
-<p>Please do not email instructors or TAs directly – use Piazza for questions instead. This allows us to track all course-related correspondence in a single location.</p>
-<p>General questions that may be useful to other students should be posted to the whole class. If your question is specific to you, then post it to instructors only.</p>
+<p>Please do not email instructors or TAs directly – use Piazza for your questions and queries instead. This allows us to track all course-related correspondence in a single location.</p>
+<p>General questions that may be useful to other students should be posted to the whole class. If your question is specific to you, or includes a partial solution, then post it to instructors only.</p>
 <p>Please see <a href="https://stackoverflow.com/help/how-to-ask">this Stackoverflow guide</a> for how to ask a good question.</p>
 </div>
 <div id="canvas" class="section level4">
 <h4><em>Canvas</em></h4>
-<p>Assignments and grading will be handled via Canvas.</p>
-<p>All assignments will be posted on Canvas, and must be submitted on Canvas by the posted due date. Please do not email completed assignments to instructors or TAs, or post them on Piazza.</p>
+<p>Assignments, quizzes, and grading will be administered via Canvas.</p>
+<p>All assignments and quizzes will be posted on Canvas, and must be submitted on Canvas by the posted due date. Please do not email completed assignments or quizzes to instructors or TAs, or post them on Piazza.</p>
 </div>
 <div id="zoom" class="section level4">
 <h4><em>Zoom</em></h4>
-<p>Classes will be broadcast synchronously via Zoom. Remote students can use Zoom to attend class virtually, without coming to campus.</p>
+<p>Classes will be broadcast synchronously via Zoom. Remote students can use Zoom to attend class virtually. The instructor may teach some class sessions fully remotely if the need arises.</p>
 </div>
 <div id="microsoft-teams" class="section level4">
 <h4><em>Microsoft Teams</em></h4>
-<p>Virtual office hours will be handled via Microsoft Teams. During scheduled office hours or by appointment, instructors and TAs will be available for live chat or video call on Microsoft Teams.</p>
+<p>Virtual office hours will be held via Microsoft Teams. During scheduled office hours or by appointment, instructors and TAs will be available for live chat or video call on Microsoft Teams.</p>
 <hr />
 </div>
 </div>
 <div id="homework" class="section level2">
 <h2>Homework</h2>
-<p>This class has no homework assignments. Students are expected to focus on their capstone project(s).</p>
+<p>Five to six homework assignments are to be completed individually for this class. Each homework is due online via Canvas on the date scheduled on Canvas. (Please refer to the deadline on the actual assignment rather than the semester schedule, which is tentative and may not be updated if the assignment changes.)</p>
+<p>Some aspects of the homework may be discussed with each other, but they should be completed individually, and your submitted work should be your own. Sharing of worked solutions will not be tolerated and will be considered cheating. Plagiarised solutions will receive a zero. Solutions with a very high degree of similarity with another past or current student’s will be considered plagiarism, and will be treated accordingly.</p>
 <hr />
 </div>
 <div id="quizzes" class="section level2">
 <h2>Quizzes</h2>
-<p>This class has no quizzes or exams.</p>
+<p>There will two cumulative quizzes during the semester. Both quizzes will be completed online via Canvas on the dates scheduled on Canvas.</p>
 <hr />
 </div>
 <div id="project" class="section level2">
 <h2>Project</h2>
-<p>Students will propose and complete two project phases in small groups. Projects may consist of a single semester-long project split into two phases, or two smaller half-semester projects. A selection of industry-motivated project options may also be available.</p>
-<p>Project guidelines will be posted on Piazza and discussed in class.</p>
+<p>There will be a final project completed in small teams. Project teams will propose a data science project using real-world data, culminating in a presentation and written report at the end of the semester.</p>
+<p>Project guidelines will be posted on Piazza and discussed in class approximately midway through the semester.</p>
 <hr />
 </div>
 <div id="peer-review" class="section level2">
 <h2>Peer review</h2>
-<p>Peer review is a major component of this course. Students are expected to provide oral and written feedback on their classmates’ projects, both on the scientific content and on the effectiveness of their communication.</p>
+<p>Students will expected to provide oral and written feedback on their classmates’ projects, both on the scientific content and on the effectiveness of their communication.</p>
 <p>Rubrics will be posted on Piazza and discussed in class.</p>
 <hr />
 </div>
@@ -396,28 +417,32 @@ $(document).ready(function () {
 <h2>Grade scale</h2>
 <p>The grade in this class is distributed as follows:</p>
 <ul>
-<li>Projects: 80%
+<li>Homework: 30%</li>
+<li>Quizzes: 30%</li>
+<li>Project: 30%
 <ul>
-<li>Proposal: 20%</li>
-<li>Progress updates: 10%</li>
-<li>Presentation: 20%</li>
-<li>Report: 30%</li>
+<li>Proposal: 5%</li>
+<li>Presentation: 10%</li>
+<li>Report: 15%</li>
 </ul></li>
-<li>Participation: 20%
+<li>Participation: 10%
 <ul>
-<li>Self-introductions: 5%</li>
-<li>Peer review: 15%</li>
+<li>Miniposter: 5%</li>
+<li>Peer review: 5%</li>
 </ul></li>
 </ul>
 <p>Final grades will follow the following scale:</p>
 <ul>
-<li>A : 90 - 100</li>
-<li>B : 80 - 89</li>
-<li>C : 70 - 79</li>
-<li>F : &lt;= 69</li>
+<li>A : &lt;= 100</li>
+<li>A-: &lt; 94</li>
+<li>B+: &lt; 90</li>
+<li>B : &lt; 87</li>
+<li>B-: &lt; 84</li>
+<li>C+: &lt; 80</li>
+<li>C : &lt; 77</li>
+<li>C-: &lt; 74</li>
 </ul>
-<p><strong>Half-letter-grades (‘+’ and ‘-’) will be given as well using cut-offs determined at the end of the semester.</strong></p>
-<p>This scale is subject to change at the discretion of the instructor.</p>
+<p><strong><em>These scales are subject to change at the discretion of the instructor.</em></strong></p>
 </div>
 
 
