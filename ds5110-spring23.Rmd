@@ -79,7 +79,7 @@ Data science is the discipline concerned with transformation, processing, manage
 
 #### *Name and pronouns*
 
-Please let me know if you use a different name or pronouns from what appears the class roster. You may use a preferred name on Piazza and when submitting assignments and exams, but please be consistent and inform the instructors. The Northeastern [LGBTQA Center](https://studentlife.northeastern.edu/lgbtqa/) can provide resources for [changing your name and gender marker in the Northeastern system](https://www.northeastern.edu/ouec/training-and-education/gender-identity-personal-pronouns-syllabus-guidance/).
+Please let me know if you use a different name or pronouns from what appears the class roster. You may use a chosen name on Piazza and when submitting assignments and exams, but please be consistent and inform the instructors. The Northeastern [LGBTQA Center](https://studentlife.northeastern.edu/lgbtqa/) can provide resources for [changing your name and gender marker in the Northeastern system](https://www.northeastern.edu/ouec/training-and-education/gender-identity-personal-pronouns-syllabus-guidance/).
 
 *Please be kind and respectful to your fellow students regardless of identity or background. Students are expected to respect and use other students' chosen names and pronouns.* All students are expected to respect Northeastern's [commitment to diversity and inclusion](https://www.northeastern.edu/academic-plan/strategic-themes/diversity-and-inclusion/).
 
@@ -99,7 +99,7 @@ Northeastern University strictly prohibits discrimination or harassment on the b
 
 This course is taught primarily in-person. Students may participate remotely via online Zoom meetings. All course content can be accessed and completed remotely. However, some content and assignments require synchronous attendance (i.e., during the regularly scheduled class time in the Boston time zone), such as quizzes and project presentations. *Students are still responsible for making sure they satisfy any college requirements for in-person enrollment.*
 
-*__The instructor teach some class sessions fully remotely if the need arises.__*
+*__The instructor may teach some class sessions fully remotely if the need arises.__*
 
 *__Please do not come to class in-person if you are experiencing symptoms of COVID-19 or other flu-like illness.__*
 
