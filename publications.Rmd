@@ -4,7 +4,11 @@ title: "Selected Publications"
 
 ***
 
-- D. Guo, **_K. A. Bemis_**, C. Rawlins, J. Agar, and O. Vitek. "Unsupervised segmentation of mass spectrometric ion images characterizes morphology of tissues.""  _Bioinformatics_. 2019. http://doi.org/10.1093/bioinformatics/btz345
+- **_K. A. Bemis_**, M. C. Foell, D. Guo, S. S. Lakkimsetty, and O. Vitek. "Cardinal v3 - a versatile open source software for mass spectrometry imaging analysis."  _Nature Methods_. Forthcoming. https://doi.org/10.1101/2023.02.20.529280 (preprint)
+
+- D. Guo, M. C. Foell, **_K. A. Bemis_**, and O. Vitek. "A noise-robust deep clustering of biomolecular ions improves interpretability of mass spectrometric images."  _Bioinformatics_. 2023. https://doi.org/10.1093/bioinformatics/btad067
+
+- D. Guo, **_K. A. Bemis_**, C. Rawlins, J. Agar, and O. Vitek. "Unsupervised segmentation of mass spectrometric ion images characterizes morphology of tissues."  _Bioinformatics_. 2019. http://doi.org/10.1093/bioinformatics/btz345
 
 - **_K. A. Bemis_**, D. Guo, A. Harry, M. Thomas, I. Lanekoff, M. Stenzel-Poore, S. Stevens, J. Laskin, and O. Vitek. "Statistical detection of differentially abundant ions in mass spectrometry-based imaging experiments with complex designs." _International Journal of Mass Spectrometry_. 2019. http://doi.org/10.1016/j.ijms.2018.07.006
 

@@ -6,7 +6,7 @@ title: "DS 5500 - Fall 2023"
 
 **Schedule:** Tue/Fri 3:25pm - 5:05pm
 
-**Location:** West Village H 110 (+ Zoom)
+**Location:** Zoom + West Village H 110
 
 **Dates:** Sep 6, 2023 - Dec 16, 2023
 
@@ -57,7 +57,7 @@ Northeastern University strictly prohibits discrimination or harassment on the b
 
 #### *Remote Instruction*
 
-*__IMPORTANT: Due to unforeseen circumstances, I will be teaching remotely for the start of this semester. Please see Canvas for Zoom links, and check Piazza for updates.__*
+<span style="color:red">*__IMPORTANT: Due to unforeseen circumstances, I will be teaching remotely for the start of this semester. Please see Canvas for Zoom links, and check Piazza for updates.__*</span>
 
 Students may participate remotely via online Zoom meetings. All course content can be accessed and completed remotely. However, synchronous attendance and participation (i.e., during the regularly scheduled class time in the Boston time zone) is expected for this project-based course. *Students are still responsible for making sure they satisfy any college requirements for in-person enrollment.*
 
