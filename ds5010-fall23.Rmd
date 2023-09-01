@@ -1,0 +1,174 @@
+---
+title: "DS 5010 - Fall 2023"
+---
+
+## Introduction to Programming for Data Science
+
+**Schedule:** Tue/Fri 1:35pm - 3:15pm
+
+**Location:** West Village H 110 (+ Zoom)
+
+**Dates:** Sep 6, 2023 - Dec 16, 2023
+
+**Instructor:** [**Kylie Bemis**](http://www.ccis.northeastern.edu/people/kylie-ariel-bemis/) (she/her) |
+k.bemis@northeastern.edu | 
+*Office Hours:* Microsoft Teams (see "Staff" tab of Piazza Resources for schedule)
+
+**Piazza:** Questions and lecture material are handled via [Piazza](https://piazza.com/northeastern/fall2023/ds5010bemis) | Sign up https://piazza.com/northeastern/fall2023/ds5010bemis
+
+**Canvas:** Course schedule and assignments are available via [Canvas](https://northeastern.instructure.com/courses/157340) | Log in at https://northeastern.instructure.com/courses/157340
+
+**Teams:** Office hours are held virtually via [Microsoft Teams](https://teams.northeastern.edu) | Log in at https://teams.northeastern.edu
+
+**Required Textbooks:**
+
+- *Learning Python*. Mark Lutz. O'Reilly Media, 2013.
+
+- *Introduction to Algorithms, 3rd edition*. Thomas Cormen, Charles Leiserson, Ronald Rivest and Clifford Stein, MIT Press, 2009.
+
+*(Required reading excerpts will be made available on Piazza if they are not available online.)*
+
+**Supplementary Textbooks:**
+
+- *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython*. Wes McKinney, O'Reilly Media, 2013.
+
+**Academic integrity:** Be familiar with the university's [academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) on cheating and plagiarism.
+
+***
+
+<span style="color:red">*__IMPORTANT: Due to unforeseen circumstances, I will be teaching remotely for the start of this semester. Please see Canvas for Zoom links, and check Piazza for updates.__*</span>
+
+## Overview
+
+The course is a hands-on introduction to the fundamentals of programming, data structures and algorithms for data sciences. The course encompasses programming basics such as functions, data structures, and algorithms; and their use in design and implementation of data science applications. Fundamentals of discrete mathematics for programming with data will be introduced where appropriate. The course will also introduce students to programming as a collaborative discipline. The course will develop programming experience in Python.
+
+**Students are required to get a B or above in the placement courses in order to progress into the core courses in the degree program. Students that do not achieve a B or better in the placement courses will be required to retake the courses.**
+
+***
+
+## Topics
+
+- Control flow and program logic
+- Data types (lists, dictionaries, tuples, sets)
+- Data structures (arrays, queues, stacks, hash tables, trees, etc.)
+- Computational complexity
+- Files and I/O
+- Object-oriented programming
+- Number systems and representation (binary, hex, floating point)
+- Programming with vectors, arrays, and matrices
+- Source control and version control systems
+- Unit testing
+
+***
+
+## General Policies
+
+#### *Name and pronouns*
+
+Please let me know if you use a different name or pronouns from what appears the class roster. You may use a chosen name on Piazza and when submitting assignments and exams, but please be consistent and inform the instructors. The Northeastern [LGBTQA Center](https://studentlife.northeastern.edu/lgbtqa/) can provide resources for [changing your name and gender marker in the Northeastern system](https://www.northeastern.edu/ouec/training-and-education/gender-identity-personal-pronouns-syllabus-guidance/).
+
+*Please be kind and respectful to your fellow students regardless of identity or background. Students are expected to respect and use other students' chosen names and pronouns.* All students are expected to respect Northeastern's [commitment to diversity and inclusion](https://www.northeastern.edu/academic-plan/strategic-themes/diversity-and-inclusion/).
+
+#### *Mental and physical health*
+
+Please reach out to me *__as early as possible__* if you have difficulty keeping up with class material or completing assignments for personal reasons. I am able to provide more accomodations and options for you earlier in the semester than later in the semester when deadlines are looming. The [We Care](https://studentlife.northeastern.edu/we-care/) program at Northeastern University is another resource available to you in times of stress.
+
+#### *Academic integrity*
+
+All students are expected to abide by the university's [academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/). Plagiarised work will not receive points in this course and may be reported. Authorized use of outside resources (including but not limited to third-party code) *__must__* be cited.
+
+#### *Title IX*
+
+Northeastern University strictly prohibits discrimination or harassment on the basis of race, color, religion, religious creed, genetic information, sex, gender identity, sexual orientation, age, national origin, ancestry, veteran, or disability status. [Please review Northeastern's Title IX policy](https://www.northeastern.edu/ouec/), which protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity. Faculty members are required to report all allegations of sex/gender-based discrimination to the Title IX coordinator.
+
+#### *Remote Instruction*
+
+*__IMPORTANT: Due to unforeseen circumstances, I will be teaching remotely for the start of this semester. Please see Canvas for Zoom links, and check Piazza for updates.__*
+
+Students may participate remotely via online Zoom meetings. All course content can be accessed and completed remotely. However, some content and assignments require synchronous attendance (i.e., during the regularly scheduled class time in the Boston time zone), such as quizzes and project presentations. *Students are still responsible for making sure they satisfy any college requirements for in-person enrollment.*
+
+*__The instructor may teach some class sessions fully remotely if the need arises.__*
+
+*__Please do not come to class in-person if you are experiencing symptoms of COVID-19 or other flu-like illness.__*
+
+***
+
+## Technology
+
+#### *Piazza*
+
+Course administration, including all questions, course materials, and course announcements will be handled via Piazza.
+
+Please do not email instructors or TAs directly -- use Piazza for your questions and queries instead. This allows us to track all course-related correspondence in a single location.
+
+General questions that may be useful to other students should be posted publicly to the whole class. If your question is specific to you, or includes a partial solution, then post it privately to instructors only.
+
+Please see [this Stackoverflow guide](https://stackoverflow.com/help/how-to-ask) for how to ask a good question.
+
+#### *Canvas*
+
+Assignments, quizzes, and grading will be administered via Canvas.
+
+All assignments and quizzes will be posted on Canvas, and must be submitted on Canvas by the posted due date. Please do not email completed assignments or quizzes to instructors or TAs, or post them on Piazza.
+
+#### *Zoom*
+
+Classes will be broadcast synchronously via Zoom. Students can use Zoom to attend class virtually when in-person attendance is not possible.
+
+#### *Microsoft Teams*
+
+Virtual office hours will be held via Microsoft Teams. During scheduled office hours or by appointment, instructors and TAs will be available for live chat or video call on Microsoft Teams. You will be automatically added to a team for the course.
+
+The instructor will hold office hours in the "General" channel, and TAs will hold office hours in the "TA Office" channel. The schedule for office hours can be found on Piazza Resources under the "Staff" tab.
+
+****
+
+## Assignments
+
+#### *Homework*
+
+Homework assignments will be assigned every 1-2 weeks and must be completed individually. Each homework is due online via Canvas on the date scheduled on Canvas. (Please refer to the deadline on the actual assignment rather than the semester schedule, which is tentative and may not be updated if the assignment changes.)
+
+Some aspects of the homework may be discussed with each other, but they should be completed individually, and your submitted work should be your own. Sharing of worked solutions will not be tolerated and will be considered cheating. Plagiarised solutions will receive a zero. Solutions with a very high degree of similarity with another past or current student's will be considered plagiarism, and will be treated accordingly.
+
+#### *Quizzes*
+
+There will be occasional cumulative quizzes during the semester. All quizzes will be completed online via Canvas on the dates scheduled on Canvas, and will replace a class meeting.
+
+#### *Project*
+
+There will be a final programming project completed in small teams. Project guidelines will be posted on Piazza and discussed in class approximately midway through the semester.
+
+#### *Late work and grading*
+
+Late assignments will not typically be accepted. No-penalty extensions may be given on a case-by-case basis if requested at least 48 hours in advance of the due date with a reasonable justification.
+
+*__Petitions for re-grades must be made in writing via Piazza private message to the instructor no later than 1 week after receiving the original grade. The petition must clearly explain why a re-grading is justified and why your answer(s) should be considered correct. The new grade may be lower than the original grade.__*
+
+*Before petitioning the instructor for a re-grade, students should first contact the grader to make sure they understand why they lost points.*
+
+***
+
+## Grade scale
+
+**Students are required to get a B or above in the placement courses in order to progress into the core courses in the degree program. Students that do not achieve a B or better in the placement courses will be required to retake the courses.**
+
+The grade in this class is distributed as follows:
+
+- Homework: 40%
+- Quizzes: 30%
+- Project: 30%
+
+Final grades will follow the following scale:
+
+- A : <= 100.0
+- A-: < 94.0
+- B+: < 90.0
+- B : < 87.0
+- B-: < 84.0
+- C+: < 80.0
+- C : < 77.0
+- C-: < 74.0
+
+__*These scales are subject to change at the discretion of the instructor.*__
+
