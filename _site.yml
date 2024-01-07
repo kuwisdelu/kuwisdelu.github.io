@@ -12,6 +12,8 @@ navbar:
       href: publications.html
     - text: "Courses"
       menu:
+        - text: DS 5110 (Spring 2024)
+          href: ds5110-spring24.html
         - text: DS 5010 (Fall 2023)
           href: ds5010-fall23.html
         - text: DS 5500 (Fall 2023)

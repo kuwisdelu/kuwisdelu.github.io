@@ -4,7 +4,7 @@ title: "Selected Publications"
 
 ***
 
-- **_K. A. Bemis_**, M. C. Foell, D. Guo, S. S. Lakkimsetty, and O. Vitek. "Cardinal v3 - a versatile open source software for mass spectrometry imaging analysis."  _Nature Methods_. Forthcoming. https://doi.org/10.1101/2023.02.20.529280 (preprint)
+- **_K. A. Bemis_**, M. C. Foell, D. Guo, S. S. Lakkimsetty, and O. Vitek. "Cardinal v3 - a versatile open source software for mass spectrometry imaging analysis."  _Nature Methods_. 2023. https://doi.org/10.1038/s41592-023-02070-z
 
 - D. Guo, M. C. Foell, **_K. A. Bemis_**, and O. Vitek. "A noise-robust deep clustering of biomolecular ions improves interpretability of mass spectrometric images."  _Bioinformatics_. 2023. https://doi.org/10.1093/bioinformatics/btad067
 
