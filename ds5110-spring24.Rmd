@@ -18,7 +18,7 @@ title: "DS 5110 - Spring 2024"
 k.bemis@northeastern.edu | 
 *Office Hours:* Microsoft Teams (see "Staff" tab of Piazza Resources for schedule)
 
-**Piazza:** Questions and lecture material are handled via [Piazza](https://piazza.com/northeastern/spring2024/ds5110bemis) | Sign up at https://piazza.com/northeastern/spring2023/ds5110bemis
+**Piazza:** Questions and lecture material are handled via [Piazza](https://piazza.com/northeastern/spring2024/ds5110bemis) | Sign up at https://piazza.com/northeastern/spring2024/ds5110bemis
 
 **Canvas (Sec 3):** Course schedule and assignments are available via [Canvas](https://northeastern.instructure.com/courses/170748) | Log in at https://northeastern.instructure.com/courses/170748
 
