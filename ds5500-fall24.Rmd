@@ -129,8 +129,10 @@ Late submissions will not be accepted without prior written approval. Extensions
 
 The grade in this class is distributed as follows:
 
-- Projects: 80%
-- Participation: 20%
+- Preparation: 10%
+- Communication: 40%
+- Methods: 40%
+- Participation: 10%
 
 Final grades will follow the following scale:
 
