@@ -36,14 +36,14 @@ by Kuhn and Silge
 
 **Supplementary Textbooks:**
 
+- [_Advanced R_](https://adv-r.hadley.nz)
+by Wickham
+
+- [_R Packages_](https://r-pkgs.org/)
+by Wickham
+
 - [_Text Mining with R_](https://www.tidytextmining.com)
 by Silge and Robinson
-
-- [_Advanced R_](http://adv-r.had.co.nz/)
-by Wickham
-
-- [_R Packages_](http://r-pkgs.had.co.nz)
-by Wickham
 
 **Academic integrity:** Be familiar with the university's [academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) on cheating and plagiarism.
 
