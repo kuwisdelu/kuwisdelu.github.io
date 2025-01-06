@@ -25,6 +25,9 @@ k.bemis@northeastern.edu |
 - [_R for Data Science_](http://r4ds.had.nz/)
 by Wickham and Grolemund
 
+- [_Tidy Modeling with R_](https://www.tmwr.org)
+by Kuhn and Silge
+
 - [_Introduction to Statistical Learning_](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) by James, Witten, Hastie, and Tibshirani
 
 - [_Practical Statistics for Data Science_](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/) by Bruce, Bruce, and Gedeck
