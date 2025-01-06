@@ -2,7 +2,9 @@
 title: "DS 5110 - Spring 2025"
 ---
 
-## Introduction to Data Management and Processing
+## Essentials of Data Science
+
+_(formerly Introduction to Data Management and Processing)_
 
 **Schedule:** Tue/Fri 3:25pm - 5:05pm
 
@@ -39,9 +41,6 @@ by Kuhn and Silge
 - [_Advanced R_](https://adv-r.hadley.nz)
 by Wickham
 
-- [_R Packages_](https://r-pkgs.org/)
-by Wickham
-
 - [_Text Mining with R_](https://www.tidytextmining.com)
 by Silge and Robinson
 
@@ -64,10 +63,12 @@ Data science is the discipline concerned with transformation, processing, manage
 - Basics of R and SQL
 - Data visualization
 - Data processing
-- Relational databases
-- Linear modeling
+- Data aggregation
+- Relational data and databases
+- Basics of modeling
+- Linear models
+- Statistical learning
 - Statistical inference
-- Basics of machine learning
 - Repeatable and reproducible analysis
 
 ***
