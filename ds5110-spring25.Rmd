@@ -22,7 +22,7 @@ k.bemis@northeastern.edu |
 
 **Required Textbooks:**
 
-- [_R for Data Science_](http://r4ds.had.nz/)
+- [_R for Data Science_](https://r4ds.hadley.nz)
 by Wickham and Grolemund
 
 - [_Tidy Modeling with R_](https://www.tmwr.org)
