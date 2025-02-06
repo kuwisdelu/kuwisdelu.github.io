@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+<meta name="date" content="2025-02-05" />
+
+<title>Open Letter on Public Data</title>
+
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Kylie Ariel Bemis</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Courses
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="ds5110-spring25.html">DS 5110 (Spring 2025)</a>
+    </li>
+    <li>
+      <a href="ds5010-fall24.html">DS 5010 (Fall 2024)</a>
+    </li>
+    <li>
+      <a href="ds5500-fall24.html">DS 5500 (Fall 2024)</a>
+    </li>
+    <li>
+      <a href="courses.html">All courses</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Letters
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="letter-on-public-data.html">Open Letter on Public Data</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="software.html">Software</a>
+</li>
+<li>
+  <a href="bemis-cv.pdf">CV</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Open Letter on Public Data</h1>
+<h4 class="date">February 5, 2025</h4>
+
+</div>
+
+
+<hr />
+<p>To the American People:</p>
+<hr />
+<div id="preamble" class="section level4">
+<h4><em>Preamble</em></h4>
+<p>As a statistician, I can’t overstate the dangers of the crisis in the
+federal government right now.</p>
+<p>As a private citizen of the USA, I have my personal concerns as
+well.</p>
+<p>As a Native American and enrolled member of the Zuni Tribe, I could
+write about the attacks on our sovereignty and citizenship through the
+illegal actions of ICE.</p>
+<p>As a transgender woman, I could write about the attacks on my
+humanity through the erosion of our civil rights and attempted erasure
+of transgender Americans from public life.</p>
+<p>As an autistic person, I could write about the existential threat
+that the nomination of RFK Jr. to the Department of Health and Human
+Services poses to disabled and neurodivergent Americans.</p>
+<p>As an indigenous person, I could write about the utter heartbreak and
+humanitarian atrocity that is the threat of ethnic cleansing of the
+Palestinian people from their homeland.</p>
+<p>But I am writing this letter as a professional statistician to warn
+the American people of the clear and present danger that the Trump
+administration poses to our country’s health, security, and
+sustainability as a nation.</p>
+<p>This perspective is wholly my own and does not represent the official
+position of any institution. But I do sincerely hope my colleagues are
+prepared to speak up and uphold their ethical responsibilities to their
+respective fields.</p>
+<hr />
+</div>
+<div id="perspective" class="section level4">
+<h4><em>Perspective</em></h4>
+<p>I am a statistician by training. As a professor, I teach data
+science. As a researcher, I develop statistical methods with
+applications ranging from cancer detection to drug discovery.</p>
+<p>As a professional statistician, I have an ethical responsibility to
+protect and respect the rights of data subjects and those directly
+affected by statistical practices; I have an ethical responsibility to
+stakeholders in collection, release, and dissemination of data; I have a
+professional duty to report statistical misconduct and violations of the
+right of data stakeholders.</p>
+<p>Today, those data subjects and stakeholders are the American people.
+The institutions to whom I would report this misconduct are the very
+institutions perpetrating it.</p>
+<p>So I am addressing this letter to my fellow Americans directly.</p>
+<p>The Trump administration — through the Department of Government
+Efficiency (DOGE) and other arms of the executive branch — is
+systematically purging and misappropriating data that belongs to the
+American people. These actions recklessly endanger the American
+people.</p>
+<div id="health" class="section level5">
+<h5>Health</h5>
+<p>These actions put the health of the American people at risk through
+the deletion of vital public health data. Researchers in the USA and
+around the world depend on public health data from agencies like the
+Centers for Disease Control and Prevention (CDC).</p>
+<p>Much of this data has now been deleted as a direct result of
+President Trump’s executive orders.</p>
+<p>With the world only five years removed from a devastating global
+pandemic in COVID-19, and with imminent warnings of another in H5N1 bird
+flu, it is beyond irresponsible and unethical to delete this public
+health data, which was collected with taxpayer money for the benefit of
+the American people. It will delay timely response to public health
+issues. It will cost lives.</p>
+<p>As a transgender statistician, I must also note that while these
+executive orders are primarily designed to target transgender Americans,
+the deleted data and effects are not limited to transgender Americans.
+This affects healthcare research and response for everyone.</p>
+<p>Furthermore, the Trump administration’s interference in the National
+Institutes of Health (NIH) and National Science Foundation (NSF) will
+have dire and long-lasting consequences on health. These are the
+institutions that make America a world leader in health and biomedical
+research and scientific research generally. Private companies rely on
+the foundational research funded by these institutions. The discoveries
+that power breakthrough health treatments come from publicly-funded
+research driven by scientific merit rather than profitability.</p>
+<p>The deletion of this data and defunding of these institutions will
+make America less healthy, possibly for decades for come. Many of us
+will lose our lives or the lives of loved ones to deaths that could have
+been treated or prevented.</p>
+</div>
+<div id="security" class="section level5">
+<h5>Security</h5>
+<p>These actions put the security of the American people at risk through
+the unauthorized and illegal access of the private data of US citizens.
+The Treasury Department has reported that officials from DOGE have
+access to sensitive Treasury Department financial systems that process
+trillions of dollars to Americans in the form of tax refunds, social
+security payments, Medicare and Medicaid payments, and more. Elon Musk
+and DOGE officials do not have proper security clearance or
+authorization to access this private data, and they are operating
+without any transparency or oversight.</p>
+<p>This is a cybersecurity risk that is unparalleled and unprecedented
+in the history of the USA.</p>
+<p>This is the private data of private American citizens like you and
+me. It is now being accessed by an unelected billionaire and untested
+interns without the cybersecurity expertise and experience to safeguard
+this sensitive data against threats both foreign and domestic.</p>
+<p>Furthermore, the Trump administration’s interference in the National
+Institutes of Health (NIH) and National Science Foundation (NSF) will
+have consequences for American security too.</p>
+<p>Early in his term, President Trump correctly identified innovation in
+AI as vital to American economic and national security. However, the
+actions of the Trump administration are in direct opposition to
+innovation in AI research. While the most well-publicized AI models like
+ChatGPT and Gemini come from the private sector, the foundational
+research behind these models happens at research universities.
+Researchers at OpenAI and Google build on the doctoral research they did
+as university students to develop state-of-the-art AI models for
+American companies.</p>
+<p>The USA attracts the best researchers in the world through
+institutions like the NSF and the NIH. Without these institutions and
+their funding, the best researchers in the world will go elsewhere. Even
+short term delays in funding can have a long-term chilling effect and
+can lead to an exodus of intellectual talent from the USA, including AI
+researchers.</p>
+<p>The American people are less safe today due to the actions of the
+Trump administration.</p>
+<p>The continued action of Elon Musk and DOGE to access extremely
+sensitive data represents an ongoing cybersecurity threat against the
+American people.</p>
+</div>
+<div id="sustainability" class="section level5">
+<h5>Sustainability</h5>
+<p>These actions put the sustainability of the USA itself at risk.
+Regardless of your beliefs about anthropogenic climate change, it is
+self-evident that extreme weather events and natural disasters are
+becoming increasingly frequent.</p>
+<p>In the wake of catastrophic fires in California stemming from
+critically dry conditions, the Trump administration and DOGE are now
+targeting the National Oceanic and Atmospheric Administration (NOAA),
+the federal agency responsibly for tracking weather and climate data.
+This data drives not only weather forecasts for the general public but
+also vital monitoring for extreme weather events and natural
+disasters.</p>
+<p>Deleting this data poses a risk to our sustainability as a nation and
+to the lives of the people in the communities affected by these events.
+It will affect the ability to rapidly respond to coming natural
+disasters. This, too, will cost lives.</p>
+<hr />
+</div>
+</div>
+<div id="plea" class="section level4">
+<h4><em>Plea</em></h4>
+<p>I ask my colleagues and the American people to speak up about the
+reckless misconduct by the Trump administration and by Elon Musk and
+DOGE.</p>
+<p>This is our data. This is the biggest data breach in history. It
+represents an ongoing cybersecurity threat. And it endangers every
+single US citizen.</p>
+<p>I am writing this letter because I am fulfilling my ethical duty as a
+statistician by doing so.</p>
+<p>I ask the US Congress and the Courts to fulfill theirs.</p>
+<hr />
+<p>Sincerely,</p>
+<p>Prof. Kylie Ariel Bemis, PhD</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
