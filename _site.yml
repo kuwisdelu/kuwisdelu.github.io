@@ -24,6 +24,8 @@ navbar:
       menu:
         - text: Open Letter on Public Data
           href: letter-on-public-data.html
+        - text: Open Letter to Academia
+          href: letter-to-academia.html
     - text: "Software"
       href: software.html
     - text: "CV"
