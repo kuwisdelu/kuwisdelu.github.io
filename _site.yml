@@ -28,8 +28,6 @@ navbar:
           href: letter-to-academia.html
     - text: "Software"
       href: software.html
-    - text: "CV"
-      href: bemis-cv.pdf
 
 output:
   html_document:
