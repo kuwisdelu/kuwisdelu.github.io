@@ -10,8 +10,8 @@ _Cardinal_ is an R package designed for efficient analysis of mass spectrometry-
 
 _Cardinal_ was awarded the 2015 John M. Chambers Statistical Software Award by the American Statistical Association.
 
-- Webite: http://cardinalmsi.org/
-- Bioconductor: http://bioconductor.org/packages/Cardinal/
+- Website: https://cardinalmsi.org/
+- Bioconductor: https://bioconductor.org/packages/Cardinal/
 - Github: https://github.com/kuwisdelu/Cardinal
 
 ![](images/matter-logo.jpg){width=150px}
@@ -20,5 +20,5 @@ _matter_ is an R package designed for rapid prototyping of new statistical metho
 
 - Article: [R Consortium-Funded R Package “matter” Helps Solve Larger-Than-Memory Issues](https://www.r-consortium.org/blog/2023/05/24/matter-helps-solve-larger-than-memory-issues)
 - Article: [Improving with R: Kylie Bemis Unveils Enhanced Signal Processing with Matter 2.4 Upgrade](https://www.r-consortium.org/blog/2024/02/07/improving-with-r-kylie-bemis-unveils-enhanced-signal-processing-with-matter-2-4-upgrade)
-- Bioconductor: http://bioconductor.org/packages/matter/
+- Bioconductor: https://bioconductor.org/packages/matter/
 - Github: https://github.com/kuwisdelu/matter
