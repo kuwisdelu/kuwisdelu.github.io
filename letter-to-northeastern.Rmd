@@ -13,7 +13,7 @@ I see you. I’m here for you.
 
 I’m an Assistant Teaching Professor in the Khoury College of Computer Sciences. I came here in 2016 as a postdoctoral researcher. I joined as teaching faculty in 2019. I’ve served Northeastern University for nearly a decade of my life. In that time, I’ve developed the core courses in our Masters of Data Science program, and by my count I’ve taught over a thousand students in our graduate program. My great hope is that I’ve instilled a sense of data ethics and civic responsibility in the students I’ve taught.
 
-I’m proud to be a member of the Northeastern community.
+I’m proud to be a member of the Northeastern University community.
 
 I’m proud of my Northeastern students who have chosen to use data science and their capstone projects to bring attention to issues of social justice or to serve their local communities or nonprofit organizations.
 
