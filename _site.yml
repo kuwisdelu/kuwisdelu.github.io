@@ -26,6 +26,8 @@ navbar:
           href: letter-on-public-data.html
         - text: Open Letter to Academia
           href: letter-to-academia.html
+        - text: Open Letter to Northeastern
+          href: letter-to-northeastern.html
     - text: "Software"
       href: software.html
 
