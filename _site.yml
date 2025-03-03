@@ -28,6 +28,10 @@ navbar:
           href: letter-to-academia.html
         - text: Open Letter to Northeastern
           href: letter-to-northeastern.html
+    - text: "Speeches"
+      menu:
+        - text: March 4, 2025
+          href: speech-march-4-2025.html
     - text: "Software"
       href: software.html
 
