@@ -32,6 +32,8 @@ navbar:
       menu:
         - text: March 4, 2025
           href: speech-march-4-2025.html
+        - text: March 7, 2025
+          href: speech-march-7-2025.html
     - text: "Software"
       href: software.html
 
