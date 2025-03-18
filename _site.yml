@@ -6,10 +6,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Software"
+      href: software.html
     - text: "Research"
       href: research.html
-    - text: "Publications"
-      href: publications.html
     - text: "Courses"
       menu:
         - text: DS 5110 (Spring 2025)
@@ -22,22 +22,24 @@ navbar:
           href: courses.html
     - text: "Letters"
       menu:
-        - text: Open Letter on Public Data
-          href: letter-on-public-data.html
-        - text: Open Letter to Academia
-          href: letter-to-academia.html
         - text: Open Letter to Northeastern
           href: letter-to-northeastern.html
+        - text: Open Letter to Academia
+          href: letter-to-academia.html
+        - text: Open Letter on Public Data
+          href: letter-on-public-data.html
+        - text: All writing
+          href: writing.html
     - text: "Speeches"
       menu:
-        - text: March 4, 2025
-          href: speech-march-4-2025.html
-        - text: March 7, 2025
-          href: speech-march-7-2025.html
         - text: March 15, 2025
           href: speech-march-15-2025.html
-    - text: "Software"
-      href: software.html
+        - text: March 7, 2025
+          href: speech-march-7-2025.html
+        - text: March 4, 2025
+          href: speech-march-4-2025.html
+        - text: All writing
+          href: writing.html
 
 output:
   html_document:

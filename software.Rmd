@@ -14,6 +14,8 @@ _Cardinal_ was awarded the 2015 John M. Chambers Statistical Software Award by t
 - Bioconductor: https://bioconductor.org/packages/Cardinal/
 - Github: https://github.com/kuwisdelu/Cardinal
 
+***
+
 ![](images/matter-logo.jpg){width=150px}
 
 _matter_ is an R package designed for rapid prototyping of new statistical methods when working with larger-than-memory datasets on disk. Unlike related packages _bigmemory_ and _ff_, which also work with file-backed larger-than-memory datasets, _matter_ aims to offer strict control over memory and maximum flexibility with file-based data structures, so it can be easily adapted to domain-specific file formats, including user-customized file formats.

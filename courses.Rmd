@@ -13,8 +13,11 @@ title: "All Courses"
 - [DS 5010 (Spring 2022)](ds5010-spring22.html)
 - [DS 5010 (Spring 2021)](ds5010-spring21.html)
 
+***
+
 ### DS 5110 Introduction to Data Management and Processing
 
+- [DS 5110 (Spring 2025)](ds5110-spring25.html)
 - [DS 5110 (Spring 2023)](ds5110-spring23.html)
 - [DS 5110 (Fall 2022)](ds5110-fall22.html)
 - [DS 5110 (Spring 2022)](ds5110-spring22.html)
@@ -27,6 +30,8 @@ title: "All Courses"
 - DS 5110 (Fall 2018)
 - DS 5110 (Spring 2018)
 - DS 5110 (Fall 2017)
+
+***
 
 ### DS 5500 Data Science Capstone
 
