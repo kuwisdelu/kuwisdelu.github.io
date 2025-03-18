@@ -20,6 +20,16 @@ navbar:
           href: ds5500-fall24.html
         - text: All courses
           href: courses.html
+    - text: "Speeches"
+      menu:
+        - text: March 15, 2025 (Show Pride for Democracy)
+          href: speech-march-15-2025.html
+        - text: March 7, 2025 (Stand Up for Science)
+          href: speech-march-7-2025.html
+        - text: March 4, 2025 (Saving Our Union)
+          href: speech-march-4-2025.html
+        - text: All writing
+          href: writing.html
     - text: "Letters"
       menu:
         - text: Open Letter to Northeastern
@@ -28,16 +38,6 @@ navbar:
           href: letter-to-academia.html
         - text: Open Letter on Public Data
           href: letter-on-public-data.html
-        - text: All writing
-          href: writing.html
-    - text: "Speeches"
-      menu:
-        - text: March 15, 2025
-          href: speech-march-15-2025.html
-        - text: March 7, 2025
-          href: speech-march-7-2025.html
-        - text: March 4, 2025
-          href: speech-march-4-2025.html
         - text: All writing
           href: writing.html
 
