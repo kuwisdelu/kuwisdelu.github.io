@@ -22,6 +22,8 @@ navbar:
           href: courses.html
     - text: "Speeches"
       menu:
+        - text: May 26, 2025 (Memorial Day Rally for a Dream)
+          href: speech-may-26-2025.html
         - text: May 11, 2025 (Hands Off Worcester Mothers)
           href: speech-may-11-2025.html
         - text: April 5, 2025 (Hands Off Boston)
