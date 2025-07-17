@@ -22,18 +22,14 @@ navbar:
           href: courses.html
     - text: "Speeches"
       menu:
+        - text: July 17, 2025 (Good Trouble Lives On)
+          href: speech-july-17-2025.html
         - text: May 26, 2025 (Memorial Day Rally for a Dream)
           href: speech-may-26-2025.html
         - text: May 11, 2025 (Hands Off Worcester Mothers)
           href: speech-may-11-2025.html
         - text: April 5, 2025 (Hands Off Boston)
           href: speech-april-5-2025.html
-        - text: March 15, 2025 (Show Pride for Democracy)
-          href: speech-march-15-2025.html
-        - text: March 7, 2025 (Stand Up for Science)
-          href: speech-march-7-2025.html
-        - text: March 4, 2025 (Saving Our Union)
-          href: speech-march-4-2025.html
         - text: All writing
           href: writing.html
     - text: "Letters"
