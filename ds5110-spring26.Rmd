@@ -1,0 +1,160 @@
+---
+title: "DS 5110 - Spring 2026"
+---
+
+## Essentials of Data Science
+
+_(formerly Introduction to Data Management and Processing)_
+
+**Schedule:** Mon/Thu 11:45am - 1:25pm
+
+**Location:** East Village 024
+
+**Dates:** Jan 8, 2026 - Apr 23, 2026
+
+**Instructor:** [**Kylie Bemis**](http://www.ccis.northeastern.edu/people/kylie-ariel-bemis/) (she/her) |
+k.bemis@northeastern.edu | 
+*Office Hours:* Microsoft Teams (see Canvas for schedule)
+
+**Canvas:** Course communication and materials are available via [Canvas](https://northeastern.instructure.com/courses/240414) | Log in at https://northeastern.instructure.com/courses/240414
+
+**Teams:** Office hours are held virtually via [Microsoft Teams](https://teams.northeastern.edu) | Log in at https://teams.northeastern.edu
+
+**Required Textbooks:**
+
+- [_R for Data Science_](https://r4ds.hadley.nz)
+by Wickham and Grolemund
+
+- [_Tidy Modeling with R_](https://www.tmwr.org)
+by Kuhn and Silge
+
+- [_Introduction to Statistical Learning_](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) by James, Witten, Hastie, and Tibshirani
+
+- [_Practical Statistics for Data Science_](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/) by Bruce, Bruce, and Gedeck
+
+*(Required reading excerpts from the textbooks will be made available on Canvas during the semester.)*
+
+**Supplementary Textbooks:**
+
+- [_Advanced R_](https://adv-r.hadley.nz)
+by Wickham
+
+- [_Text Mining with R_](https://www.tidytextmining.com)
+by Silge and Robinson
+
+**Academic integrity:** Be familiar with the university's [academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) on cheating and plagiarism.
+
+***
+
+## Overview
+
+Data science is the discipline concerned with transformation, processing, management, and modeling of data for the purpose of extracting knowledge from raw observations. This course discusses the practical issues and techniques for data importing, tidying, transforming, and modeling. Programming is a cross-cutting aspect of the course. Students will gain experience with data science tools through short assignments. The course work includes a term project based on real-world data.
+
+<center>
+![](images/ds-pipeline.png)
+</center>
+
+***
+
+## Topics
+
+- Basics of R and SQL
+- Data visualization
+- Data processing
+- Data aggregation
+- Relational data and databases
+- Basics of modeling
+- Linear models
+- Statistical learning
+- Statistical inference
+- Repeatable and reproducible analysis
+
+***
+
+## General Policies
+
+#### *Academic integrity*
+
+All students are expected to abide by the university's [academic integrity policy](https://osccr.sites.northeastern.edu/academic-integrity-policy/). Plagiarised work will not receive credit and will be reported. Authorized use of outside resources (including but not limited to third-party code) *__must__* be cited.
+
+#### *Title IX*
+
+Northeastern University strictly prohibits discrimination or harassment on the basis of race, color, religion, religious creed, genetic information, sex, gender identity, sexual orientation, age, national origin, ancestry, veteran, or disability status. [Please review Northeastern's Title IX policy](https://ouec.northeastern.edu/services/), which protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity. Faculty members are required to report all allegations of sex/gender-based discrimination to the Title IX coordinator.
+
+#### *Mental and physical health*
+
+Please reach out to me *__as early as possible__* if you have difficulty keeping up with class material or completing assignments for personal reasons. I am able to provide more accomodations and options for you earlier in the semester than later in the semester when deadlines are looming. The [We Care](https://studentlife.northeastern.edu/we-care/) program at Northeastern University is another resource available to you in times of stress.
+
+#### *Remote Instruction*
+
+This course is taught primarily in-person, and students are expected to attend class in-person. Students may also participate remotely. However, some content and assignments still require synchronous attendance (i.e., during the regularly scheduled class time in the Boston time zone), such as quizzes and project presentations. *Students are still responsible for making sure they satisfy any college requirements for in-person enrollment. The instructor may teach some class sessions fully remotely if the need arises. __Please do not come to class in-person if you are sick.__*
+
+***
+
+## Technology
+
+#### *Canvas*
+
+Course administration, including all questions, course materials, course announcements, and grading will be handled via Canvas.
+
+Please do not email instructors or TAs directly -- use Canvas messages for your questions and queries instead. This allows us to track all course-related correspondence in a single location.
+
+Please see [this Stackoverflow guide](https://stackoverflow.com/help/how-to-ask) for how to ask a good question.
+
+All assignments and quizzes will be posted on Canvas, and must be submitted on Canvas by the posted due date. Please do not email completed assignments or quizzes to instructors or TAs.
+
+#### *Microsoft Teams*
+
+Remote classroom meetings and virtual office hours will be held via Microsoft Teams. During scheduled office hours or by appointment, instructors and TAs will be available for live chat or video call on Microsoft Teams. You will be automatically added to a team for the course.
+
+The schedule for office hours can be found on Canvas.
+
+****
+
+## Assignments
+
+#### *Homework*
+
+Homework assignments will be assigned every 1-2 weeks and must be completed individually. Each assignment is due online via Canvas on the date scheduled on Canvas. (Please refer to the deadline on the actual assignment rather than the semester schedule, which is tentative and may not be updated if the assignment changes.)
+
+Some aspects of the homework may be discussed with each other, but they should be completed individually, and your submitted work should be your own. Sharing of worked solutions will be considered cheating. Plagiarised solutions will receive a zero. Solutions with a very high degree of similarity with another past or current student's will be considered plagiarism, and will be treated accordingly.
+
+#### *Quizzes*
+
+There will be occasional cumulative quizzes during the semester. All quizzes will be completed online via Canvas on the dates scheduled on Canvas, and will replace a class meeting.
+
+#### *Project*
+
+There will be a final project completed in small teams. Project teams will propose a data science project using real-world data, culminating in a presentation and written report at the end of the semester.
+
+Project guidelines will be posted on Canvas and discussed in class approximately midway through the semester.
+
+#### *Late work and grading*
+
+Late assignments will not typically receive full credit. No-penalty extensions may be given on a case-by-case basis if requested at least 48 hours in advance of the due date with a reasonable justification. Partial credit for late work may be given at the instructor's discretion.
+
+*__Petitions for re-grades must be made in writing via Canvas message to course instructor(s) no later than 1 week after receiving the original grade. The petition must clearly explain why a re-grading is justified and why your answer(s) should be considered correct. The new grade may be lower than the original grade.__*
+
+***
+
+## Grade scale
+
+The grade in this class is distributed as follows:
+
+- Homework: 40%
+- Quizzes: 30%
+- Project: 30%
+
+Final grades will follow the following scale:
+
+- A : <= 100.0
+- A-: < 94.0
+- B+: < 90.0
+- B : < 87.0
+- B-: < 84.0
+- C+: < 80.0
+- C : < 77.0
+- C-: < 74.0
+
+__*These scales are subject to change at the discretion of the instructor.*__
+
