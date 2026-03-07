@@ -22,6 +22,10 @@ navbar:
           href: courses.html
     - text: "Speeches"
       menu:
+        - text: March 7, 2026 (Stand Up for Science)
+          href: speech-march-7-2026.html
+        - text: November 15, 2025 (Rally for Truth, Light, and Courage)
+          href: speech-november-15-2025.html
         - text: July 17, 2025 (Good Trouble Lives On)
           href: speech-july-17-2025.html
         - text: April 5, 2025 (Hands Off Boston)
