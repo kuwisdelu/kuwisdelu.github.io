@@ -1,0 +1,128 @@
+---
+title: "DS 5500 - Fall 2026"
+---
+
+## Data Science Capstone
+
+**Schedule:** Tue/Fri 3:25pm - 5:05pm
+
+**Location:** West Village G 102
+
+**Dates:** Sep 9, 2026 - Dec 20, 2026
+
+**Instructor:** [**Kylie Bemis**](https://www.khoury.northeastern.edu/people/kylie-ariel-bemis/) (she/her) |
+k.bemis@northeastern.edu | 
+*Office Hours:* Microsoft Teams (see Canvas for schedule)
+
+**Canvas:** Course communication and materials are available via [Canvas](https://northeastern.instructure.com) | Log in at https://northeastern.instructure.com
+
+**Teams:** Office hours are held virtually via [Microsoft Teams](https://teams.northeastern.edu) | Log in at https://teams.northeastern.edu
+
+**No Required Textbooks**
+
+**Academic integrity:** Be familiar with the university's [academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) on cheating and plagiarism.
+
+***
+
+## Overview
+
+The course offers students a capstone opportunity to practice data science skills learned in previous courses, and build a portfolio. Students practice visualization, data wrangling, and machine learning skills by applying them to semester-long term projects on real-world data. Emphasis on the overall data science process, including identification of the scientific problem, selection of appropriate machine learning methods, and visualization and communication of results. There will be occasional lectures on special topics such as visualization, communication, and data science ethics.
+
+***
+
+## Coursework
+
+#### *Homework*
+
+This class has no traditional homework assignments. Students are expected to focus on their capstone project(s). Some peer review and participation assignments may be assigned.
+
+#### *Quizzes*
+
+This class has no quizzes or exams.
+
+#### *Project*
+
+Students will propose and complete capstone projects in small teams. All projects must have stakeholders, which may include student team members with relevant expertise, instructors or researchers at Northeastern, and/or outside stakeholders (at the discretion of the instructor).
+
+Project guidelines will be posted on Canvas and discussed in class.
+
+#### *Participation*
+
+Participation is expected in this class. Most classes will consist of project presentations and progress updates from other teams. Students are expected to engage with the presentations, ask questions, and provide feedback.
+
+There will be a small number of participation assignments for students to share their work and feedback with their classmates.
+
+#### *Peer review*
+
+Peer review is a major component of this course. Students are expected to provide oral and written feedback on their classmates’ projects, both on the scientific content and on the effectiveness of their communication.
+
+Rubrics will be posted on Canvas and discussed in class.
+
+#### *Late work and grading*
+
+Late submissions will not be accepted without prior written approval. Extensions may be given on a case-by-case basis if requested at least 48 hours in advance of the due date with a reasonable justification.
+
+***
+
+## Technology
+
+#### *Canvas*
+
+Course administration, including all questions, course materials, course announcements, and grading will be handled via Canvas.
+
+Please do not email instructors or TAs directly -- use Canvas messages for your questions and queries instead. This allows us to track all course-related correspondence in a single location.
+
+Please see [this Stackoverflow guide](https://stackoverflow.com/help/how-to-ask) for how to ask a good question.
+
+All assignments and quizzes will be posted on Canvas, and must be submitted on Canvas by the posted due date. Please do not email completed assignments or quizzes to instructors or TAs.
+
+#### *Microsoft Teams*
+
+Remote classroom meetings and virtual office hours will be held via Microsoft Teams. During scheduled office hours or by appointment, instructors and TAs will be available for live chat or video call on Microsoft Teams. You will be automatically added to a team for the course.
+
+The schedule for office hours can be found on Canvas.
+
+***
+
+## General Policies
+
+#### *Academic integrity*
+
+All students are expected to abide by the university's [academic integrity policy](https://osccr.sites.northeastern.edu/academic-integrity-policy/). Plagiarised work will not receive credit and will be reported. Authorized use of outside resources (including but not limited to third-party code) *__must__* be cited.
+
+#### *Title IX*
+
+Northeastern University strictly prohibits discrimination or harassment on the basis of race, color, religion, religious creed, genetic information, sex, gender identity, sexual orientation, age, national origin, ancestry, veteran, or disability status. [Please review Northeastern's Title IX policy](https://ouec.northeastern.edu/services/), which protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity. Faculty members are required to report all allegations of sex/gender-based discrimination to the Title IX coordinator.
+
+#### *Mental and physical health*
+
+Please reach out to me *__as early as possible__* if you have difficulty keeping up with class material or completing assignments for personal reasons. I am able to provide more accomodations and options for you earlier in the semester than later in the semester when deadlines are looming. The [We Care](https://studentlife.northeastern.edu/we-care/) program at Northeastern University is another resource available to you in times of stress.
+
+#### *Remote Instruction*
+
+This course is taught primarily in-person, and students are expected to attend class in-person. Students may also participate remotely. However, some content and assignments still require synchronous attendance (i.e., during the regularly scheduled class time in the Boston time zone), such as quizzes and project presentations. *Students are still responsible for making sure they satisfy any college requirements for in-person enrollment. The instructor may teach some class sessions fully remotely if the need arises. __Please do not come to class in-person if you are sick.__*
+
+***
+
+## Grade scale
+
+The grade in this class is distributed as follows:
+
+- Participation: 20%
+- Communication: 40%
+- Methods: 40%
+
+Final grades typically use the default Northeastern scale on Canvas:
+
+- A : <= 100.0
+- A-: < 94.0
+- B+: < 90.0
+- B : < 87.0
+- B-: < 84.0
+- C+: < 80.0
+- C : < 77.0
+- C-: < 74.0
+
+__*These scales are subject to change at the discretion of the instructor.*__
+
+
