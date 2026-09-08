@@ -58,7 +58,21 @@ Peer review is a major component of this course. Students are expected to provid
 
 Rubrics will be posted on Canvas and discussed in class.
 
-#### *Late work and grading*
+***
+
+## Grading Policies
+
+#### *AI and external assistance*
+
+Submitted assignments must be primarily your own work (or your team's work), and you are responsible for all decisions in your submitted work.
+
+Artificial intelligence (AI) may be used for factual queries, brainstorming, adversarial review, automation of repetitive tasks, or as part of a controlled experiment or project deliverable.
+
+AI must __not__ be used to generate solutions to assignments from scratch. Credit is awarded based on students' demonstrated competency and mastery of skills. A "correct" solution that does not demonstrate your competency or mastery will not receive credit.
+
+AI use must be disclosed in your submitted your work. Submission of AI transcripts, logs, or other documentation is strongly recommended to ensure compliance with the academic integrity policy.
+
+#### *Late work*
 
 Late submissions will not be accepted without prior written approval. Extensions may be given on a case-by-case basis if requested at least 48 hours in advance of the due date with a reasonable justification.
 
@@ -88,7 +102,16 @@ The schedule for office hours can be found on Canvas.
 
 #### *Academic integrity*
 
-All students are expected to abide by the university's [academic integrity policy](https://osccr.sites.northeastern.edu/academic-integrity-policy/). Plagiarised work will not receive credit and will be reported. Authorized use of outside resources (including but not limited to third-party code) *__must__* be cited.
+All students are expected to abide by the university's [academic integrity policy](https://osccr.sites.northeastern.edu/academic-integrity-policy/). Plagiarised work will not receive credit and will be reported. Authorized use of outside resources (including but not limited to third-party code and generative AI use) *__must__* be cited.
+
+In addition:
+
+- You are responsible for the content of your own work
+- You must be able to explain and justify your decisions in your own words
+- You must have permision and/or license to use any code or content you submit that you did not author yourself
+	+ Note that AI-generated content (including code) may not be legally copyrightable and licenseable due to a model's propensity to reproduce copyrighted works in whole or in part without the original author's permission, so AI-generated content that lacks sufficiently significant human contribution to make it a "transformative" work will be considered plagiarism
+	+ Note that avoiding plagiarism does __not__ guarantee credit on any assignment
+- This is __not__ a grading policy, and grading may have stricter requirements for credit
 
 #### *Title IX*
 
