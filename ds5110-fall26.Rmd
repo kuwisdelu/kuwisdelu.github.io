@@ -40,7 +40,7 @@ by Wickham
 - [_Text Mining with R_](https://www.tidytextmining.com)
 by Silge and Robinson
 
-**Academic integrity:** Be familiar with the university's [academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) on cheating and plagiarism.
+**Academic integrity:** Be familiar with the university's [academic integrity policy](https://osccr.sites.northeastern.edu/academic-integrity-policy/) on cheating and plagiarism.
 
 ***
 
