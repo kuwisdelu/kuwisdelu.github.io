@@ -62,7 +62,7 @@ Rubrics will be posted on Canvas and discussed in class.
 
 ## Grading Policies
 
-#### *AI and external assistance*
+#### *AI and derivative work*
 
 Submitted assignments must be primarily your own work (or your team's work), and you are responsible for all decisions in your submitted work.
 
@@ -70,7 +70,7 @@ Artificial intelligence (AI) may be used for factual queries, brainstorming, adv
 
 AI must __not__ be used to generate solutions to assignments from scratch. Credit is awarded based on students' demonstrated competency and mastery of skills. A "correct" solution that does not demonstrate your competency or mastery will not receive credit.
 
-AI use must be disclosed in your submitted your work. Submission of AI transcripts, logs, or other documentation is strongly recommended to ensure compliance with the academic integrity policy.
+AI use must be disclosed in your submitted work. Submission of AI transcripts, logs, or other documentation is strongly recommended to ensure compliance with the academic integrity policy.
 
 #### *Late work*
 
@@ -110,8 +110,9 @@ In addition:
 - You must be able to explain and justify your decisions in your own words
 - You must have permision and/or license to use any code or content you submit that you did not author yourself
 	+ Note that AI-generated content (including code) may not be legally copyrightable and licenseable due to a model's propensity to reproduce copyrighted works in whole or in part without the original author's permission, so AI-generated content that lacks sufficiently significant human contribution to make it a "transformative" work will be considered plagiarism
-	+ Note that avoiding plagiarism does __not__ guarantee credit on any assignment
 - This is __not__ a grading policy, and grading may have stricter requirements for credit
+
+Always cite your sources and disclose AI use to avoid academic integrity violations. However, this does __not__ guarantee credit in grading.
 
 #### *Title IX*
 
