@@ -4,7 +4,7 @@ title: "DS 5110 - Fall 2026"
 
 ## Essentials of Data Science
 
-**Schedule:** Wed 6:00am - 9:20pm
+**Schedule:** Wed 6:00pm - 9:20pm
 
 **Location:** Behrakis Health Sciences Center 310
 
